@@ -11,3 +11,5 @@
 /usk_ausgangsmodell_v01.dir/*.txt
 /usk_ausgangsmodell_v01.dir/*.obj
 /usk_ausgangsmodell_v01.dir/*.h
+/usk_ausgangsmodell_v01.dir/*.lib
+/usk_ausgangsmodell_v01.dir/*.exp
