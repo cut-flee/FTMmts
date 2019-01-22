@@ -1,0 +1,14 @@
+/*.dat
+/*.exe
+/*.message
+/*.print
+/*.report
+/*.arc
+/usk_ausgangsmodell_v01.dir/*.c
+/usk_ausgangsmodell_v01.dir/*.err
+/usk_ausgangsmodell_v01.dir/*.dat
+/usk_ausgangsmodell_v01.dir/*.txt
+/usk_ausgangsmodell_v01.dir/*.obj
+/usk_ausgangsmodell_v01.dir/*.h
+/usk_ausgangsmodell_v01.dir/*.sys
+/usk_ausgangsmodell_v01.dir/makefile
