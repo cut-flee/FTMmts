@@ -9,19 +9,40 @@ begin P_Anlauf arriving procedure
   set this load color to green
   /*Nummer des anzufahrenden Nebenschlusses setzen */
   set this load A_Nummer_NS to 0
+  set this load A_Zustand to 1
 
   send to P_Umlauf 
 end
 
 begin P_Umlauf arriving procedure
-  /*Erhöhen der Nummer des Nebenshlusses*/
-  set this load A_Nummer_NS to A_Nummer_NS + 1
-  if this load A_Nummer_NS > 6 then 
+  if this load color=red then 
   begin
+    travel to C1:NS6_Output
     set this load A_Nummer_NS to 1
     set this load color to green
+    set this A_Zustand to 1
   end  
-  send to P_NS(A_Nummer_NS)
+  
+  if V_Verteilregel=1 then send to P_Strat1
+  if V_Verteilregel=2 then send to P_Strat2
+  if V_Verteilregel=3 then send to P_Strat3
+  if V_Verteilregel=4 then send to P_Strat4
+end
+
+begin P_Strat1 arriving procedure
+  if this load A_Zustand=1 then send to P_NS(1)
+  if this load A_Zustand=2 then send to P_NS(this load A_Modulo + 2)
+end
+
+begin P_Strat2 arriving procedure
+  if this load A_Zustand=1 then send to P_NS(1)
+  if this load A_Zustand=2 then send to P_NS(6 - this load A_Modulo)
+end
+
+begin P_Strat3 arriving procedure
+end
+
+begin P_Strat4 arriving procedure
 end
 
 begin P_NS arriving procedure
@@ -38,8 +59,18 @@ begin P_NS arriving procedure
     set A_Next_Station to A_Str
     travel to A_Next_Station
     send to P_Umlauf
-  end   
-     
+  end
+
+  increment C_NS_Traffic(procindex) by 1
+  /*
+  if C_NS_Traffic(procindex) current value >= V_NS_Traffic_Limit then
+  begin
+    print "C1:NS" procindex "_Output" to A_Str
+    set A_Next_Station to A_Str
+    travel to A_Next_Station
+    send to P_Umlauf
+  end
+  */
   /*Anfahren der Position P1*/
   print "C1:NS" procindex "_P1" to A_Str
   set A_Next_Station to A_Str
@@ -54,7 +85,10 @@ begin P_NS arriving procedure
   print "C1:NS" procindex "_AP1" to A_Str
   set A_Next_Station to A_Str
   travel to A_Next_Station 
-  use R_AP1(procindex) for normal V_Prozesszeit, V_Prozesszeit_S sec
+  if procindex=1 then
+  	use R_AP1(procindex) for normal V_Prozesszeit, V_Prozesszeit_S sec
+  else
+    use R_AP1(procindex) for normal V_Prozesszeit * V_Balance, V_Prozesszeit_S sec
 
   /*Anfahren der Position P3*/
   print "C1:NS" procindex "_P3" to A_Str
@@ -65,7 +99,10 @@ begin P_NS arriving procedure
   print "C1:NS" procindex "_AP2" to A_Str
   set A_Next_Station to A_Str
   travel to A_Next_Station 
-  use R_AP2(procindex) for normal V_Prozesszeit, V_Prozesszeit_S sec
+  if procindex=1 then
+  	use R_AP2(procindex) for normal V_Prozesszeit, V_Prozesszeit_S sec
+  else
+    use R_AP2(procindex) for normal V_Prozesszeit * V_Balance, V_Prozesszeit_S sec
 
   /*Anfahren der Position P4*/
   print "C1:NS" procindex "_P4" to A_Str
@@ -76,7 +113,10 @@ begin P_NS arriving procedure
   print "C1:NS" procindex "_AP3" to A_Str
   set A_Next_Station to A_Str
   travel to A_Next_Station 
-  use R_AP3(procindex) for normal V_Prozesszeit, V_Prozesszeit_S sec
+  if procindex=1 then
+  	use R_AP3(procindex) for normal V_Prozesszeit, V_Prozesszeit_S sec
+  else
+    use R_AP3(procindex) for normal V_Prozesszeit * V_Balance, V_Prozesszeit_S sec
 
   /*Anfahren der Position P5*/
   print "C1:NS" procindex "_P5" to A_Str
@@ -87,10 +127,14 @@ begin P_NS arriving procedure
   print "C1:NS" procindex "_AP4" to A_Str
   set A_Next_Station to A_Str
   travel to A_Next_Station 
-  use R_AP4(procindex) for normal V_Prozesszeit, V_Prozesszeit_S sec
+  if procindex=1 then
+  	use R_AP4(procindex) for normal V_Prozesszeit, V_Prozesszeit_S sec
+  else
+    use R_AP4(procindex) for normal V_Prozesszeit * V_Balance, V_Prozesszeit_S sec
   
   /*Fehler setzen - hier Fehlerrate 1% */
-  set this load color to oneof(99:green, 1:red)
+  if V_NIO_Anteil > 0 then
+  	set this load color to oneof((1/V_NIO_Anteil - 1):green, 1:red)
 
   /*Anfahren der Position P6*/
   print "C1:NS" procindex "_P6" to A_Str
@@ -102,6 +146,28 @@ begin P_NS arriving procedure
   set A_Next_Station to A_Str
   travel to A_Next_Station 
 
+
+  // Setzen der Nummer des letzen Nebenshlusses
+  set this load A_Nummer_NS to procindex
+  
+  if procindex=1 then
+  begin
+    set this load A_Modulo to V_Aktuelle_Anzahl
+    set V_Aktuelle_Anzahl to (V_Aktuelle_Anzahl + 1) % 5
+    if this load A_Modulo=2 and this load color!=red then 
+      set this load color to blue
+  end
+  
+  if procindex=1 then
+    set this load A_Zustand to 2
+  else
+    set this load A_Zustand to 1
+  
   send to P_Umlauf
+end
+
+
+begin P_NS leaving procedure
+  decrement C_NS_Traffic(procindex) by 1
 end
 
