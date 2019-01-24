@@ -62,15 +62,17 @@ begin P_NS arriving procedure
   end
 
   increment C_NS_Traffic(procindex) by 1
-  /*
-  if C_NS_Traffic(procindex) current value >= V_NS_Traffic_Limit then
+  
+  print "C1:NS" procindex "_P1" to A_Str
+  set A_Next_Station to A_Str
+  if A_Next_Station current > 0 then
   begin
     print "C1:NS" procindex "_Output" to A_Str
     set A_Next_Station to A_Str
     travel to A_Next_Station
     send to P_Umlauf
   end
-  */
+  
   /*Anfahren der Position P1*/
   print "C1:NS" procindex "_P1" to A_Str
   set A_Next_Station to A_Str
