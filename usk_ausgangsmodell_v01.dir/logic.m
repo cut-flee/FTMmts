@@ -52,6 +52,14 @@ begin P_Strat3 arriving procedure
 end
 
 begin P_Strat4 arriving procedure
+  if this load A_Zustand=1 then send to P_NS(1)
+  if this load A_Zustand=2 then
+  begin
+  	if this load A_Nummer_NS = 1 then 
+  	  send to P_NS(this load A_Modulo + 2)
+  	
+  	send to P_Strat3
+  end
 end
 
 begin P_NS arriving procedure
@@ -160,12 +168,16 @@ begin P_NS arriving procedure
   set A_Next_Station to A_Str
   travel to A_Next_Station 
   
-  if procindex=1 then
+  if procindex=1 and this load color!=red then
   begin
     set this load A_Modulo to V_Aktuelle_Anzahl
     set V_Aktuelle_Anzahl to (V_Aktuelle_Anzahl + 1) % 5
-    if this load A_Modulo=2 and this load color!=red then 
-      set this load color to blue
+    
+    if this load A_Modulo=0 then set this load color to brown
+    if this load A_Modulo=1 then set this load color to yellow
+    if this load A_Modulo=2 then set this load color to blue
+    if this load A_Modulo=3 then set this load color to purple
+    if this load A_Modulo=4 then set this load color to pink
   end
   
   if procindex=1 then
