@@ -40,6 +40,15 @@ begin P_Strat2 arriving procedure
 end
 
 begin P_Strat3 arriving procedure
+  if this load A_Zustand=1 then send to P_NS(1)
+  if this load A_Zustand=2 then
+  begin
+  	if this load A_Nummer_NS < 6 then 
+  	  send to P_NS(this load A_Nummer_NS + 1)
+  	
+  	if this load A_Nummer_NS = 6 then
+  	  send to P_NS(2)
+  end 
 end
 
 begin P_Strat4 arriving procedure
@@ -50,6 +59,9 @@ begin P_NS arriving procedure
   print "C1:NS" procindex "_Input" to A_Str
   set A_Next_Station to A_Str
   travel to A_Next_Station 
+
+  // Setzen der Nummer des letzen Nebenshlusses
+  set this load A_Nummer_NS to procindex
 
   /*Logik für Input*/
   if this load color = red then
@@ -147,10 +159,6 @@ begin P_NS arriving procedure
   print "C1:NS" procindex "_Output" to A_Str
   set A_Next_Station to A_Str
   travel to A_Next_Station 
-
-
-  // Setzen der Nummer des letzen Nebenshlusses
-  set this load A_Nummer_NS to procindex
   
   if procindex=1 then
   begin
