@@ -81,7 +81,6 @@ begin P_NS arriving procedure
     send to P_Umlauf
   end
 
-  increment C_NS_Traffic(procindex) by 1
   
   print "C1:NS" procindex "_P1" to A_Str
   set A_Next_Station to A_Str
@@ -108,9 +107,9 @@ begin P_NS arriving procedure
   set A_Next_Station to A_Str
   travel to A_Next_Station 
   if procindex=1 then
-  	use R_AP1(procindex) for normal V_Prozesszeit, V_Prozesszeit_S sec
+  	use R_AP1(procindex) for normal V_Prozesszeit / V_Balance, V_Prozesszeit_S sec
   else
-    use R_AP1(procindex) for normal V_Prozesszeit * V_Balance, V_Prozesszeit_S sec
+    use R_AP1(procindex) for normal V_Prozesszeit, V_Prozesszeit_S sec
 
   /*Anfahren der Position P3*/
   print "C1:NS" procindex "_P3" to A_Str
@@ -122,9 +121,9 @@ begin P_NS arriving procedure
   set A_Next_Station to A_Str
   travel to A_Next_Station 
   if procindex=1 then
-  	use R_AP2(procindex) for normal V_Prozesszeit, V_Prozesszeit_S sec
+  	use R_AP2(procindex) for normal V_Prozesszeit / V_Balance, V_Prozesszeit_S sec
   else
-    use R_AP2(procindex) for normal V_Prozesszeit * V_Balance, V_Prozesszeit_S sec
+    use R_AP2(procindex) for normal V_Prozesszeit, V_Prozesszeit_S sec
 
   /*Anfahren der Position P4*/
   print "C1:NS" procindex "_P4" to A_Str
@@ -136,9 +135,9 @@ begin P_NS arriving procedure
   set A_Next_Station to A_Str
   travel to A_Next_Station 
   if procindex=1 then
-  	use R_AP3(procindex) for normal V_Prozesszeit, V_Prozesszeit_S sec
+  	use R_AP3(procindex) for normal V_Prozesszeit / V_Balance, V_Prozesszeit_S sec
   else
-    use R_AP3(procindex) for normal V_Prozesszeit * V_Balance, V_Prozesszeit_S sec
+    use R_AP3(procindex) for normal V_Prozesszeit, V_Prozesszeit_S sec
 
   /*Anfahren der Position P5*/
   print "C1:NS" procindex "_P5" to A_Str
@@ -150,21 +149,16 @@ begin P_NS arriving procedure
   set A_Next_Station to A_Str
   travel to A_Next_Station 
   if procindex=1 then
-  	use R_AP4(procindex) for normal V_Prozesszeit, V_Prozesszeit_S sec
+  	use R_AP4(procindex) for normal V_Prozesszeit / V_Balance, V_Prozesszeit_S sec
   else
-    use R_AP4(procindex) for normal V_Prozesszeit * V_Balance, V_Prozesszeit_S sec
+    use R_AP4(procindex) for normal V_Prozesszeit, V_Prozesszeit_S sec
   
   /*Fehler setzen - hier Fehlerrate 1% */
-  if V_NIO_Anteil > 0 then
+  if V_NIO_Anteil > 0 and procindex = 1 then
   	set this load color to oneof((1/V_NIO_Anteil - 1):green, 1:red)
 
   /*Anfahren der Position P6*/
   print "C1:NS" procindex "_P6" to A_Str
-  set A_Next_Station to A_Str
-  travel to A_Next_Station 
-
-  /*Anfahren der Output-Station*/
-  print "C1:NS" procindex "_Output" to A_Str
   set A_Next_Station to A_Str
   travel to A_Next_Station 
   
@@ -182,14 +176,16 @@ begin P_NS arriving procedure
   
   if procindex=1 then
     set this load A_Zustand to 2
-  else
+  else begin
     set this load A_Zustand to 1
+    set this load color to green
+  end
+  
+  /*Anfahren der Output-Station*/
+  print "C1:NS" procindex "_Output" to A_Str
+  set A_Next_Station to A_Str
+  travel to A_Next_Station 
   
   send to P_Umlauf
-end
-
-
-begin P_NS leaving procedure
-  decrement C_NS_Traffic(procindex) by 1
 end
 
