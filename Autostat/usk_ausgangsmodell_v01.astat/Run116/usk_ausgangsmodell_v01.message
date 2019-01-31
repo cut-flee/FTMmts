@@ -1,0 +1,2778 @@
+0.00: Starting.
+0.00: Datafiles have been read. Initializing model.
+0.00: Model image prepared... Ready to simulate.
+151.33: Load 40 (L_WT) waiting for -0.00296606 sec.
+151.33: The clock can't run backwards, so changed to 0 sec.
+151.33: No debugger information is available.
+196.88: Load 27 (L_WT) waiting for -0.223026 sec.
+196.88: The clock can't run backwards, so changed to 0 sec.
+196.88: No debugger information is available.
+371.01: Load 19 (L_WT) waiting for -0.275969 sec.
+371.01: The clock can't run backwards, so changed to 0 sec.
+371.01: No debugger information is available.
+1244.38: Load 14 (L_WT) waiting for -0.913856 sec.
+1244.38: The clock can't run backwards, so changed to 0 sec.
+1244.38: No debugger information is available.
+2095.92: Load 35 (L_WT) waiting for -0.30689 sec.
+2095.92: The clock can't run backwards, so changed to 0 sec.
+2095.92: No debugger information is available.
+2128.07: Load 39 (L_WT) waiting for -0.760515 sec.
+2128.07: The clock can't run backwards, so changed to 0 sec.
+2128.07: No debugger information is available.
+2179.15: Load 20 (L_WT) waiting for -0.102765 sec.
+2179.15: The clock can't run backwards, so changed to 0 sec.
+2179.15: No debugger information is available.
+2284.04: Load 35 (L_WT) waiting for -0.122214 sec.
+2284.04: The clock can't run backwards, so changed to 0 sec.
+2284.04: No debugger information is available.
+2316.01: Load 39 (L_WT) waiting for -0.0910032 sec.
+2316.01: The clock can't run backwards, so changed to 0 sec.
+2316.01: No debugger information is available.
+2492.98: Load 33 (L_WT) waiting for -0.24804 sec.
+2492.98: The clock can't run backwards, so changed to 0 sec.
+2492.98: No debugger information is available.
+2509.53: Load 29 (L_WT) waiting for -0.244346 sec.
+2509.53: The clock can't run backwards, so changed to 0 sec.
+2509.53: No debugger information is available.
+2734.02: Load 28 (L_WT) waiting for -0.0268277 sec.
+2734.02: The clock can't run backwards, so changed to 0 sec.
+2734.02: No debugger information is available.
+2762.20: Load 15 (L_WT) waiting for -0.545948 sec.
+2762.20: The clock can't run backwards, so changed to 0 sec.
+2762.20: No debugger information is available.
+3011.47: Load 26 (L_WT) waiting for -0.554429 sec.
+3011.47: The clock can't run backwards, so changed to 0 sec.
+3011.47: No debugger information is available.
+3026.38: Load 13 (L_WT) waiting for -0.0692737 sec.
+3026.38: The clock can't run backwards, so changed to 0 sec.
+3026.38: No debugger information is available.
+3065.61: Load 2 (L_WT) waiting for -0.2677 sec.
+3065.61: The clock can't run backwards, so changed to 0 sec.
+3065.61: No debugger information is available.
+3100.55: Load 6 (L_WT) waiting for -0.104012 sec.
+3100.55: The clock can't run backwards, so changed to 0 sec.
+3100.55: No debugger information is available.
+3101.45: Load 29 (L_WT) waiting for -0.436227 sec.
+3101.45: The clock can't run backwards, so changed to 0 sec.
+3101.45: No debugger information is available.
+3154.32: Load 17 (L_WT) waiting for -0.172536 sec.
+3154.32: The clock can't run backwards, so changed to 0 sec.
+3154.32: No debugger information is available.
+3177.25: Load 36 (L_WT) waiting for -0.213827 sec.
+3177.25: The clock can't run backwards, so changed to 0 sec.
+3177.25: No debugger information is available.
+3387.06: Load 35 (L_WT) waiting for -0.54537 sec.
+3387.06: The clock can't run backwards, so changed to 0 sec.
+3387.06: No debugger information is available.
+3695.13: Load 4 (L_WT) waiting for -0.438824 sec.
+3695.13: The clock can't run backwards, so changed to 0 sec.
+3695.13: No debugger information is available.
+3819.54: Load 2 (L_WT) waiting for -0.1496 sec.
+3819.54: The clock can't run backwards, so changed to 0 sec.
+3819.54: No debugger information is available.
+3841.11: Load 39 (L_WT) waiting for -0.057624 sec.
+3841.11: The clock can't run backwards, so changed to 0 sec.
+3841.11: No debugger information is available.
+4476.82: Load 27 (L_WT) waiting for -0.101421 sec.
+4476.82: The clock can't run backwards, so changed to 0 sec.
+4476.82: No debugger information is available.
+4537.99: Load 34 (L_WT) waiting for -0.124098 sec.
+4537.99: The clock can't run backwards, so changed to 0 sec.
+4537.99: No debugger information is available.
+4573.05: Load 39 (L_WT) waiting for -0.273925 sec.
+4573.05: The clock can't run backwards, so changed to 0 sec.
+4573.05: No debugger information is available.
+4747.19: Load 14 (L_WT) waiting for -0.968595 sec.
+4747.19: The clock can't run backwards, so changed to 0 sec.
+4747.19: No debugger information is available.
+4860.54: Load 30 (L_WT) waiting for -0.053622 sec.
+4860.54: The clock can't run backwards, so changed to 0 sec.
+4860.54: No debugger information is available.
+5053.76: Load 6 (L_WT) waiting for -0.0943917 sec.
+5053.76: The clock can't run backwards, so changed to 0 sec.
+5053.76: No debugger information is available.
+5058.54: Load 28 (L_WT) waiting for -0.060303 sec.
+5058.54: The clock can't run backwards, so changed to 0 sec.
+5058.54: No debugger information is available.
+5150.48: Load 39 (L_WT) waiting for -1.27218 sec.
+5150.48: The clock can't run backwards, so changed to 0 sec.
+5150.48: No debugger information is available.
+5152.80: Load 22 (L_WT) waiting for -0.606208 sec.
+5152.80: The clock can't run backwards, so changed to 0 sec.
+5152.80: No debugger information is available.
+5168.61: Load 39 (L_WT) waiting for -0.0884224 sec.
+5168.61: The clock can't run backwards, so changed to 0 sec.
+5168.61: No debugger information is available.
+5193.16: Load 17 (L_WT) waiting for -0.471932 sec.
+5193.16: The clock can't run backwards, so changed to 0 sec.
+5193.16: No debugger information is available.
+5373.25: Load 39 (L_WT) waiting for -0.328916 sec.
+5373.25: The clock can't run backwards, so changed to 0 sec.
+5373.25: No debugger information is available.
+6089.04: Load 16 (L_WT) waiting for -0.250532 sec.
+6089.04: The clock can't run backwards, so changed to 0 sec.
+6089.04: No debugger information is available.
+6366.08: Load 29 (L_WT) waiting for -0.33366 sec.
+6366.08: The clock can't run backwards, so changed to 0 sec.
+6366.08: No debugger information is available.
+6375.22: Load 28 (L_WT) waiting for -1.13425 sec.
+6375.22: The clock can't run backwards, so changed to 0 sec.
+6375.22: No debugger information is available.
+6591.03: Load 17 (L_WT) waiting for -0.672084 sec.
+6591.03: The clock can't run backwards, so changed to 0 sec.
+6591.03: No debugger information is available.
+6656.78: Load 16 (L_WT) waiting for -0.56492 sec.
+6656.78: The clock can't run backwards, so changed to 0 sec.
+6656.78: No debugger information is available.
+6749.50: Load 10 (L_WT) waiting for -0.0224288 sec.
+6749.50: The clock can't run backwards, so changed to 0 sec.
+6749.50: No debugger information is available.
+7143.03: Load 31 (L_WT) waiting for -0.437569 sec.
+7143.03: The clock can't run backwards, so changed to 0 sec.
+7143.03: No debugger information is available.
+7230.96: Load 41 (L_WT) waiting for -0.152772 sec.
+7230.96: The clock can't run backwards, so changed to 0 sec.
+7230.96: No debugger information is available.
+7279.58: Load 35 (L_WT) waiting for -0.81204 sec.
+7279.58: The clock can't run backwards, so changed to 0 sec.
+7279.58: No debugger information is available.
+7286.60: Load 8 (L_WT) waiting for -0.555494 sec.
+7286.60: The clock can't run backwards, so changed to 0 sec.
+7286.60: No debugger information is available.
+7489.61: Load 23 (L_WT) waiting for -0.0742016 sec.
+7489.61: The clock can't run backwards, so changed to 0 sec.
+7489.61: No debugger information is available.
+7687.34: Load 30 (L_WT) waiting for -0.208734 sec.
+7687.34: The clock can't run backwards, so changed to 0 sec.
+7687.34: No debugger information is available.
+7702.03: Load 2 (L_WT) waiting for -0.444383 sec.
+7702.03: The clock can't run backwards, so changed to 0 sec.
+7702.03: No debugger information is available.
+7835.44: Load 34 (L_WT) waiting for -0.502175 sec.
+7835.44: The clock can't run backwards, so changed to 0 sec.
+7835.44: No debugger information is available.
+8112.85: Load 39 (L_WT) waiting for -0.324724 sec.
+8112.85: The clock can't run backwards, so changed to 0 sec.
+8112.85: No debugger information is available.
+8177.59: Load 26 (L_WT) waiting for -1.09627 sec.
+8177.59: The clock can't run backwards, so changed to 0 sec.
+8177.59: No debugger information is available.
+8319.80: Load 17 (L_WT) waiting for -0.349055 sec.
+8319.80: The clock can't run backwards, so changed to 0 sec.
+8319.80: No debugger information is available.
+8356.29: Load 12 (L_WT) waiting for -0.363211 sec.
+8356.29: The clock can't run backwards, so changed to 0 sec.
+8356.29: No debugger information is available.
+8382.15: Load 41 (L_WT) waiting for -0.169425 sec.
+8382.15: The clock can't run backwards, so changed to 0 sec.
+8382.15: No debugger information is available.
+8418.49: Load 24 (L_WT) waiting for -0.330178 sec.
+8418.49: The clock can't run backwards, so changed to 0 sec.
+8418.49: No debugger information is available.
+8734.06: Load 21 (L_WT) waiting for -0.0676259 sec.
+8734.06: The clock can't run backwards, so changed to 0 sec.
+8734.06: No debugger information is available.
+8836.73: Load 11 (L_WT) waiting for -0.181191 sec.
+8836.73: The clock can't run backwards, so changed to 0 sec.
+8836.73: No debugger information is available.
+8893.78: Load 39 (L_WT) waiting for -0.506622 sec.
+8893.78: The clock can't run backwards, so changed to 0 sec.
+8893.78: No debugger information is available.
+8997.28: Load 8 (L_WT) waiting for -0.372744 sec.
+8997.28: The clock can't run backwards, so changed to 0 sec.
+8997.28: No debugger information is available.
+9003.99: Load 5 (L_WT) waiting for -0.65553 sec.
+9003.99: The clock can't run backwards, so changed to 0 sec.
+9003.99: No debugger information is available.
+10095.23: Load 20 (L_WT) waiting for -0.0311728 sec.
+10095.23: The clock can't run backwards, so changed to 0 sec.
+10095.23: No debugger information is available.
+10126.74: Load 39 (L_WT) waiting for -0.172826 sec.
+10126.74: The clock can't run backwards, so changed to 0 sec.
+10126.74: No debugger information is available.
+10483.32: Load 17 (L_WT) waiting for -0.2944 sec.
+10483.32: The clock can't run backwards, so changed to 0 sec.
+10483.32: No debugger information is available.
+10939.97: Load 9 (L_WT) waiting for -0.00103738 sec.
+10939.97: The clock can't run backwards, so changed to 0 sec.
+10939.97: No debugger information is available.
+11007.71: Load 35 (L_WT) waiting for -1.12275 sec.
+11007.71: The clock can't run backwards, so changed to 0 sec.
+11007.71: No debugger information is available.
+11078.58: Load 3 (L_WT) waiting for -0.00861318 sec.
+11078.58: The clock can't run backwards, so changed to 0 sec.
+11078.58: No debugger information is available.
+11426.69: Load 23 (L_WT) waiting for -0.173485 sec.
+11426.69: The clock can't run backwards, so changed to 0 sec.
+11426.69: No debugger information is available.
+11581.61: Load 2 (L_WT) waiting for -0.313007 sec.
+11581.61: The clock can't run backwards, so changed to 0 sec.
+11581.61: No debugger information is available.
+11720.64: Load 7 (L_WT) waiting for -0.790285 sec.
+11720.64: The clock can't run backwards, so changed to 0 sec.
+11720.64: No debugger information is available.
+11886.15: Load 30 (L_WT) waiting for -0.495866 sec.
+11886.15: The clock can't run backwards, so changed to 0 sec.
+11886.15: No debugger information is available.
+11886.79: Load 4 (L_WT) waiting for -0.782625 sec.
+11886.79: The clock can't run backwards, so changed to 0 sec.
+11886.79: No debugger information is available.
+12246.74: Load 37 (L_WT) waiting for -0.125037 sec.
+12246.74: The clock can't run backwards, so changed to 0 sec.
+12246.74: No debugger information is available.
+12355.17: Load 11 (L_WT) waiting for -0.0207598 sec.
+12355.17: The clock can't run backwards, so changed to 0 sec.
+12355.17: No debugger information is available.
+12409.74: Load 38 (L_WT) waiting for -0.536451 sec.
+12409.74: The clock can't run backwards, so changed to 0 sec.
+12409.74: No debugger information is available.
+12591.23: Load 14 (L_WT) waiting for -0.121641 sec.
+12591.23: The clock can't run backwards, so changed to 0 sec.
+12591.23: No debugger information is available.
+13051.85: Load 39 (L_WT) waiting for -0.551735 sec.
+13051.85: The clock can't run backwards, so changed to 0 sec.
+13051.85: No debugger information is available.
+13173.61: Load 3 (L_WT) waiting for -0.524416 sec.
+13173.61: The clock can't run backwards, so changed to 0 sec.
+13173.61: No debugger information is available.
+13265.51: Load 39 (L_WT) waiting for -0.0862931 sec.
+13265.51: The clock can't run backwards, so changed to 0 sec.
+13265.51: No debugger information is available.
+13464.65: Load 21 (L_WT) waiting for -0.715284 sec.
+13464.65: The clock can't run backwards, so changed to 0 sec.
+13464.65: No debugger information is available.
+13465.87: Load 29 (L_WT) waiting for -0.00582602 sec.
+13465.87: The clock can't run backwards, so changed to 0 sec.
+13465.87: No debugger information is available.
+13711.38: Load 22 (L_WT) waiting for -0.269382 sec.
+13711.38: The clock can't run backwards, so changed to 0 sec.
+13711.38: No debugger information is available.
+13741.89: Load 3 (L_WT) waiting for -0.191858 sec.
+13741.89: The clock can't run backwards, so changed to 0 sec.
+13741.89: No debugger information is available.
+14077.06: Load 18 (L_WT) waiting for -0.00665822 sec.
+14077.06: The clock can't run backwards, so changed to 0 sec.
+14077.06: No debugger information is available.
+14545.01: Load 33 (L_WT) waiting for -0.0367538 sec.
+14545.01: The clock can't run backwards, so changed to 0 sec.
+14545.01: No debugger information is available.
+14845.36: Load 22 (L_WT) waiting for -0.119223 sec.
+14845.36: The clock can't run backwards, so changed to 0 sec.
+14845.36: No debugger information is available.
+15011.23: Load 31 (L_WT) waiting for -0.196206 sec.
+15011.23: The clock can't run backwards, so changed to 0 sec.
+15011.23: No debugger information is available.
+15229.32: Load 12 (L_WT) waiting for -0.110581 sec.
+15229.32: The clock can't run backwards, so changed to 0 sec.
+15229.32: No debugger information is available.
+15350.29: Load 37 (L_WT) waiting for -1.23354 sec.
+15350.29: The clock can't run backwards, so changed to 0 sec.
+15350.29: No debugger information is available.
+15760.49: Load 17 (L_WT) waiting for -0.220493 sec.
+15760.49: The clock can't run backwards, so changed to 0 sec.
+15760.49: No debugger information is available.
+15828.37: Load 30 (L_WT) waiting for -0.178813 sec.
+15828.37: The clock can't run backwards, so changed to 0 sec.
+15828.37: No debugger information is available.
+15833.09: Load 2 (L_WT) waiting for -0.526789 sec.
+15833.09: The clock can't run backwards, so changed to 0 sec.
+15833.09: No debugger information is available.
+16050.93: Load 19 (L_WT) waiting for -0.0987239 sec.
+16050.93: The clock can't run backwards, so changed to 0 sec.
+16050.93: No debugger information is available.
+16073.89: Load 36 (L_WT) waiting for -0.0895857 sec.
+16073.89: The clock can't run backwards, so changed to 0 sec.
+16073.89: No debugger information is available.
+16304.73: Load 41 (L_WT) waiting for -0.138741 sec.
+16304.73: The clock can't run backwards, so changed to 0 sec.
+16304.73: No debugger information is available.
+16655.11: Load 10 (L_WT) waiting for -0.425534 sec.
+16655.11: The clock can't run backwards, so changed to 0 sec.
+16655.11: No debugger information is available.
+16791.26: Load 20 (L_WT) waiting for -0.529968 sec.
+16791.26: The clock can't run backwards, so changed to 0 sec.
+16791.26: No debugger information is available.
+17434.45: Load 6 (L_WT) waiting for -0.300177 sec.
+17434.45: The clock can't run backwards, so changed to 0 sec.
+17434.45: No debugger information is available.
+17692.12: Load 40 (L_WT) waiting for -0.197543 sec.
+17692.12: The clock can't run backwards, so changed to 0 sec.
+17692.12: No debugger information is available.
+17695.21: Load 39 (L_WT) waiting for -0.643909 sec.
+17695.21: The clock can't run backwards, so changed to 0 sec.
+17695.21: No debugger information is available.
+17837.95: Load 28 (L_WT) waiting for -0.0567539 sec.
+17837.95: The clock can't run backwards, so changed to 0 sec.
+17837.95: No debugger information is available.
+18007.94: Load 3 (L_WT) waiting for -0.0824468 sec.
+18007.94: The clock can't run backwards, so changed to 0 sec.
+18007.94: No debugger information is available.
+18113.05: Load 4 (L_WT) waiting for -0.564007 sec.
+18113.05: The clock can't run backwards, so changed to 0 sec.
+18113.05: No debugger information is available.
+18362.19: Load 7 (L_WT) waiting for -0.17094 sec.
+18362.19: The clock can't run backwards, so changed to 0 sec.
+18362.19: No debugger information is available.
+18578.10: Load 19 (L_WT) waiting for -0.538161 sec.
+18578.10: The clock can't run backwards, so changed to 0 sec.
+18578.10: No debugger information is available.
+19005.01: Load 25 (L_WT) waiting for -0.112404 sec.
+19005.01: The clock can't run backwards, so changed to 0 sec.
+19005.01: No debugger information is available.
+19103.74: Load 17 (L_WT) waiting for -0.0591028 sec.
+19103.74: The clock can't run backwards, so changed to 0 sec.
+19103.74: No debugger information is available.
+19430.53: Load 26 (L_WT) waiting for -0.123262 sec.
+19430.53: The clock can't run backwards, so changed to 0 sec.
+19430.53: No debugger information is available.
+19881.37: Load 38 (L_WT) waiting for -0.0578121 sec.
+19881.37: The clock can't run backwards, so changed to 0 sec.
+19881.37: No debugger information is available.
+20719.01: Load 31 (L_WT) waiting for -0.641564 sec.
+20719.01: The clock can't run backwards, so changed to 0 sec.
+20719.01: No debugger information is available.
+21042.71: Load 29 (L_WT) waiting for -0.740586 sec.
+21042.71: The clock can't run backwards, so changed to 0 sec.
+21042.71: No debugger information is available.
+21565.57: Load 15 (L_WT) waiting for -0.0682311 sec.
+21565.57: The clock can't run backwards, so changed to 0 sec.
+21565.57: No debugger information is available.
+21669.00: Load 40 (L_WT) waiting for -0.289225 sec.
+21669.00: The clock can't run backwards, so changed to 0 sec.
+21669.00: No debugger information is available.
+21685.39: Load 31 (L_WT) waiting for -0.170203 sec.
+21685.39: The clock can't run backwards, so changed to 0 sec.
+21685.39: No debugger information is available.
+21727.07: Load 41 (L_WT) waiting for -0.322965 sec.
+21727.07: The clock can't run backwards, so changed to 0 sec.
+21727.07: No debugger information is available.
+21751.39: Load 36 (L_WT) waiting for -0.472371 sec.
+21751.39: The clock can't run backwards, so changed to 0 sec.
+21751.39: No debugger information is available.
+21755.59: Load 37 (L_WT) waiting for -0.273797 sec.
+21755.59: The clock can't run backwards, so changed to 0 sec.
+21755.59: No debugger information is available.
+21759.39: Load 16 (L_WT) waiting for -0.0906852 sec.
+21759.39: The clock can't run backwards, so changed to 0 sec.
+21759.39: No debugger information is available.
+22157.03: Load 16 (L_WT) waiting for -0.061577 sec.
+22157.03: The clock can't run backwards, so changed to 0 sec.
+22157.03: No debugger information is available.
+22434.31: Load 33 (L_WT) waiting for -0.153174 sec.
+22434.31: The clock can't run backwards, so changed to 0 sec.
+22434.31: No debugger information is available.
+22725.83: Load 32 (L_WT) waiting for -0.401157 sec.
+22725.83: The clock can't run backwards, so changed to 0 sec.
+22725.83: No debugger information is available.
+22765.31: Load 27 (L_WT) waiting for -0.0956219 sec.
+22765.31: The clock can't run backwards, so changed to 0 sec.
+22765.31: No debugger information is available.
+22775.75: Load 20 (L_WT) waiting for -0.197472 sec.
+22775.75: The clock can't run backwards, so changed to 0 sec.
+22775.75: No debugger information is available.
+22839.33: Load 30 (L_WT) waiting for -0.14643 sec.
+22839.33: The clock can't run backwards, so changed to 0 sec.
+22839.33: No debugger information is available.
+23325.48: Load 34 (L_WT) waiting for -0.281967 sec.
+23325.48: The clock can't run backwards, so changed to 0 sec.
+23325.48: No debugger information is available.
+23504.72: Load 34 (L_WT) waiting for -1.05579 sec.
+23504.72: The clock can't run backwards, so changed to 0 sec.
+23504.72: No debugger information is available.
+23656.75: Load 8 (L_WT) waiting for -0.187964 sec.
+23656.75: The clock can't run backwards, so changed to 0 sec.
+23656.75: No debugger information is available.
+23661.33: Load 41 (L_WT) waiting for -0.109356 sec.
+23661.33: The clock can't run backwards, so changed to 0 sec.
+23661.33: No debugger information is available.
+23822.17: Load 29 (L_WT) waiting for -0.0097636 sec.
+23822.17: The clock can't run backwards, so changed to 0 sec.
+23822.17: No debugger information is available.
+24049.94: Load 5 (L_WT) waiting for -0.582885 sec.
+24049.94: The clock can't run backwards, so changed to 0 sec.
+24049.94: No debugger information is available.
+24108.55: Load 7 (L_WT) waiting for -1.02558 sec.
+24108.55: The clock can't run backwards, so changed to 0 sec.
+24108.55: No debugger information is available.
+24792.78: Load 30 (L_WT) waiting for -0.043942 sec.
+24792.78: The clock can't run backwards, so changed to 0 sec.
+24792.78: No debugger information is available.
+24863.31: Load 36 (L_WT) waiting for -0.195616 sec.
+24863.31: The clock can't run backwards, so changed to 0 sec.
+24863.31: No debugger information is available.
+25024.63: Load 11 (L_WT) waiting for -0.609794 sec.
+25024.63: The clock can't run backwards, so changed to 0 sec.
+25024.63: No debugger information is available.
+25270.16: Load 25 (L_WT) waiting for -0.506315 sec.
+25270.16: The clock can't run backwards, so changed to 0 sec.
+25270.16: No debugger information is available.
+25698.92: Load 17 (L_WT) waiting for -0.16482 sec.
+25698.92: The clock can't run backwards, so changed to 0 sec.
+25698.92: No debugger information is available.
+26263.75: Load 9 (L_WT) waiting for -0.119956 sec.
+26263.75: The clock can't run backwards, so changed to 0 sec.
+26263.75: No debugger information is available.
+26368.65: Load 11 (L_WT) waiting for -0.0666415 sec.
+26368.65: The clock can't run backwards, so changed to 0 sec.
+26368.65: No debugger information is available.
+26826.31: Load 9 (L_WT) waiting for -0.331322 sec.
+26826.31: The clock can't run backwards, so changed to 0 sec.
+26826.31: No debugger information is available.
+26859.37: Load 22 (L_WT) waiting for -0.373216 sec.
+26859.37: The clock can't run backwards, so changed to 0 sec.
+26859.37: No debugger information is available.
+26933.70: Load 41 (L_WT) waiting for -0.330344 sec.
+26933.70: The clock can't run backwards, so changed to 0 sec.
+26933.70: No debugger information is available.
+27276.96: Load 34 (L_WT) waiting for -0.10488 sec.
+27276.96: The clock can't run backwards, so changed to 0 sec.
+27276.96: No debugger information is available.
+27338.15: Load 3 (L_WT) waiting for -0.691606 sec.
+27338.15: The clock can't run backwards, so changed to 0 sec.
+27338.15: No debugger information is available.
+27705.91: Load 10 (L_WT) waiting for -0.023806 sec.
+27705.91: The clock can't run backwards, so changed to 0 sec.
+27705.91: No debugger information is available.
+27769.55: Load 11 (L_WT) waiting for -0.161894 sec.
+27769.55: The clock can't run backwards, so changed to 0 sec.
+27769.55: No debugger information is available.
+27837.56: Load 21 (L_WT) waiting for -0.002235 sec.
+27837.56: The clock can't run backwards, so changed to 0 sec.
+27837.56: No debugger information is available.
+28407.85: Load 22 (L_WT) waiting for -0.238197 sec.
+28407.85: The clock can't run backwards, so changed to 0 sec.
+28407.85: No debugger information is available.
+28589.40: Load 41 (L_WT) waiting for -0.419943 sec.
+28589.40: The clock can't run backwards, so changed to 0 sec.
+28589.40: No debugger information is available.
+29336.93: Load 11 (L_WT) waiting for -0.502115 sec.
+29336.93: The clock can't run backwards, so changed to 0 sec.
+29336.93: No debugger information is available.
+29595.86: Load 34 (L_WT) waiting for -0.176769 sec.
+29595.86: The clock can't run backwards, so changed to 0 sec.
+29595.86: No debugger information is available.
+29787.46: Load 38 (L_WT) waiting for -0.129294 sec.
+29787.46: The clock can't run backwards, so changed to 0 sec.
+29787.46: No debugger information is available.
+29826.19: Load 2 (L_WT) waiting for -0.175143 sec.
+29826.19: The clock can't run backwards, so changed to 0 sec.
+29826.19: No debugger information is available.
+30014.51: Load 6 (L_WT) waiting for -0.62845 sec.
+30014.51: The clock can't run backwards, so changed to 0 sec.
+30014.51: No debugger information is available.
+30064.73: Load 5 (L_WT) waiting for -0.254818 sec.
+30064.73: The clock can't run backwards, so changed to 0 sec.
+30064.73: No debugger information is available.
+30213.50: Load 37 (L_WT) waiting for -0.125445 sec.
+30213.50: The clock can't run backwards, so changed to 0 sec.
+30213.50: No debugger information is available.
+30569.81: Load 16 (L_WT) waiting for -0.0530529 sec.
+30569.81: The clock can't run backwards, so changed to 0 sec.
+30569.81: No debugger information is available.
+30623.53: Load 32 (L_WT) waiting for -0.22197 sec.
+30623.53: The clock can't run backwards, so changed to 0 sec.
+30623.53: No debugger information is available.
+31270.63: Load 12 (L_WT) waiting for -0.00740218 sec.
+31270.63: The clock can't run backwards, so changed to 0 sec.
+31270.63: No debugger information is available.
+31425.37: Load 24 (L_WT) waiting for -0.0269807 sec.
+31425.37: The clock can't run backwards, so changed to 0 sec.
+31425.37: No debugger information is available.
+31469.45: Load 34 (L_WT) waiting for -0.136483 sec.
+31469.45: The clock can't run backwards, so changed to 0 sec.
+31469.45: No debugger information is available.
+31476.22: Load 34 (L_WT) waiting for -0.0455902 sec.
+31476.22: The clock can't run backwards, so changed to 0 sec.
+31476.22: No debugger information is available.
+31541.34: Load 18 (L_WT) waiting for -0.391054 sec.
+31541.34: The clock can't run backwards, so changed to 0 sec.
+31541.34: No debugger information is available.
+31629.49: Load 28 (L_WT) waiting for -0.0646586 sec.
+31629.49: The clock can't run backwards, so changed to 0 sec.
+31629.49: No debugger information is available.
+31735.12: Load 25 (L_WT) waiting for -0.335985 sec.
+31735.12: The clock can't run backwards, so changed to 0 sec.
+31735.12: No debugger information is available.
+32161.16: Load 32 (L_WT) waiting for -0.304873 sec.
+32161.16: The clock can't run backwards, so changed to 0 sec.
+32161.16: No debugger information is available.
+32362.09: Load 22 (L_WT) waiting for -0.658865 sec.
+32362.09: The clock can't run backwards, so changed to 0 sec.
+32362.09: No debugger information is available.
+32909.42: Load 11 (L_WT) waiting for -0.0946441 sec.
+32909.42: The clock can't run backwards, so changed to 0 sec.
+32909.42: No debugger information is available.
+33064.65: Load 7 (L_WT) waiting for -0.493962 sec.
+33064.65: The clock can't run backwards, so changed to 0 sec.
+33064.65: No debugger information is available.
+33189.01: Load 28 (L_WT) waiting for -0.29814 sec.
+33189.01: The clock can't run backwards, so changed to 0 sec.
+33189.01: No debugger information is available.
+33298.09: Load 24 (L_WT) waiting for -0.143301 sec.
+33298.09: The clock can't run backwards, so changed to 0 sec.
+33298.09: No debugger information is available.
+33500.79: Load 8 (L_WT) waiting for -0.137273 sec.
+33500.79: The clock can't run backwards, so changed to 0 sec.
+33500.79: No debugger information is available.
+33796.02: Load 18 (L_WT) waiting for -0.0385102 sec.
+33796.02: The clock can't run backwards, so changed to 0 sec.
+33796.02: No debugger information is available.
+34286.94: Load 22 (L_WT) waiting for -0.0416161 sec.
+34286.94: The clock can't run backwards, so changed to 0 sec.
+34286.94: No debugger information is available.
+34307.63: Load 6 (L_WT) waiting for -0.138838 sec.
+34307.63: The clock can't run backwards, so changed to 0 sec.
+34307.63: No debugger information is available.
+34607.82: Load 13 (L_WT) waiting for -0.919891 sec.
+34607.82: The clock can't run backwards, so changed to 0 sec.
+34607.82: No debugger information is available.
+34764.02: Load 9 (L_WT) waiting for -0.132109 sec.
+34764.02: The clock can't run backwards, so changed to 0 sec.
+34764.02: No debugger information is available.
+34793.98: Load 27 (L_WT) waiting for -0.024036 sec.
+34793.98: The clock can't run backwards, so changed to 0 sec.
+34793.98: No debugger information is available.
+35143.89: Load 41 (L_WT) waiting for -0.451589 sec.
+35143.89: The clock can't run backwards, so changed to 0 sec.
+35143.89: No debugger information is available.
+35189.17: Load 25 (L_WT) waiting for -0.469568 sec.
+35189.17: The clock can't run backwards, so changed to 0 sec.
+35189.17: No debugger information is available.
+35576.57: Load 28 (L_WT) waiting for -0.0437316 sec.
+35576.57: The clock can't run backwards, so changed to 0 sec.
+35576.57: No debugger information is available.
+35693.50: Load 9 (L_WT) waiting for -0.421943 sec.
+35693.50: The clock can't run backwards, so changed to 0 sec.
+35693.50: No debugger information is available.
+35871.71: Load 4 (L_WT) waiting for -0.037568 sec.
+35871.71: The clock can't run backwards, so changed to 0 sec.
+35871.71: No debugger information is available.
+35936.20: Load 23 (L_WT) waiting for -0.247861 sec.
+35936.20: The clock can't run backwards, so changed to 0 sec.
+35936.20: No debugger information is available.
+36055.15: Load 14 (L_WT) waiting for -0.562195 sec.
+36055.15: The clock can't run backwards, so changed to 0 sec.
+36055.15: No debugger information is available.
+36079.27: Load 9 (L_WT) waiting for -1.00918 sec.
+36079.27: The clock can't run backwards, so changed to 0 sec.
+36079.27: No debugger information is available.
+36202.81: Load 4 (L_WT) waiting for -0.19564 sec.
+36202.81: The clock can't run backwards, so changed to 0 sec.
+36202.81: No debugger information is available.
+36249.48: Load 10 (L_WT) waiting for -0.237637 sec.
+36249.48: The clock can't run backwards, so changed to 0 sec.
+36249.48: No debugger information is available.
+36434.27: Load 3 (L_WT) waiting for -0.174547 sec.
+36434.27: The clock can't run backwards, so changed to 0 sec.
+36434.27: No debugger information is available.
+36612.38: Load 32 (L_WT) waiting for -0.525761 sec.
+36612.38: The clock can't run backwards, so changed to 0 sec.
+36612.38: No debugger information is available.
+36737.36: Load 21 (L_WT) waiting for -0.601433 sec.
+36737.36: The clock can't run backwards, so changed to 0 sec.
+36737.36: No debugger information is available.
+36796.01: Load 31 (L_WT) waiting for -0.0717286 sec.
+36796.01: The clock can't run backwards, so changed to 0 sec.
+36796.01: No debugger information is available.
+36808.73: Load 3 (L_WT) waiting for -0.620887 sec.
+36808.73: The clock can't run backwards, so changed to 0 sec.
+36808.73: No debugger information is available.
+36856.16: Load 39 (L_WT) waiting for -0.0323846 sec.
+36856.16: The clock can't run backwards, so changed to 0 sec.
+36856.16: No debugger information is available.
+37345.10: Load 26 (L_WT) waiting for -0.0370957 sec.
+37345.10: The clock can't run backwards, so changed to 0 sec.
+37345.10: No debugger information is available.
+37456.63: Load 12 (L_WT) waiting for -0.198114 sec.
+37456.63: The clock can't run backwards, so changed to 0 sec.
+37456.63: No debugger information is available.
+37763.46: Load 13 (L_WT) waiting for -0.402209 sec.
+37763.46: The clock can't run backwards, so changed to 0 sec.
+37763.46: No debugger information is available.
+38060.36: Load 19 (L_WT) waiting for -0.662489 sec.
+38060.36: The clock can't run backwards, so changed to 0 sec.
+38060.36: No debugger information is available.
+38236.80: Load 28 (L_WT) waiting for -0.0547047 sec.
+38236.80: The clock can't run backwards, so changed to 0 sec.
+38236.80: No debugger information is available.
+38481.33: Load 41 (L_WT) waiting for -0.124869 sec.
+38481.33: The clock can't run backwards, so changed to 0 sec.
+38481.33: No debugger information is available.
+38861.04: Load 16 (L_WT) waiting for -0.394373 sec.
+38861.04: The clock can't run backwards, so changed to 0 sec.
+38861.04: No debugger information is available.
+39447.94: Load 28 (L_WT) waiting for -0.406811 sec.
+39447.94: The clock can't run backwards, so changed to 0 sec.
+39447.94: No debugger information is available.
+39600.87: Load 40 (L_WT) waiting for -0.33271 sec.
+39600.87: The clock can't run backwards, so changed to 0 sec.
+39600.87: No debugger information is available.
+39724.22: Load 34 (L_WT) waiting for -0.0461497 sec.
+39724.22: The clock can't run backwards, so changed to 0 sec.
+39724.22: No debugger information is available.
+39752.86: Load 33 (L_WT) waiting for -0.10192 sec.
+39752.86: The clock can't run backwards, so changed to 0 sec.
+39752.86: No debugger information is available.
+39883.31: Load 18 (L_WT) waiting for -0.0128134 sec.
+39883.31: The clock can't run backwards, so changed to 0 sec.
+39883.31: No debugger information is available.
+39954.07: Load 3 (L_WT) waiting for -0.0668699 sec.
+39954.07: The clock can't run backwards, so changed to 0 sec.
+39954.07: No debugger information is available.
+40047.05: Load 26 (L_WT) waiting for -0.550344 sec.
+40047.05: The clock can't run backwards, so changed to 0 sec.
+40047.05: No debugger information is available.
+40427.97: Load 35 (L_WT) waiting for -0.39169 sec.
+40427.97: The clock can't run backwards, so changed to 0 sec.
+40427.97: No debugger information is available.
+40720.21: Load 15 (L_WT) waiting for -0.965678 sec.
+40720.21: The clock can't run backwards, so changed to 0 sec.
+40720.21: No debugger information is available.
+41084.79: Load 34 (L_WT) waiting for -0.0315165 sec.
+41084.79: The clock can't run backwards, so changed to 0 sec.
+41084.79: No debugger information is available.
+41147.33: Load 22 (L_WT) waiting for -0.295895 sec.
+41147.33: The clock can't run backwards, so changed to 0 sec.
+41147.33: No debugger information is available.
+41170.47: Load 10 (L_WT) waiting for -0.286169 sec.
+41170.47: The clock can't run backwards, so changed to 0 sec.
+41170.47: No debugger information is available.
+41260.07: Load 6 (L_WT) waiting for -0.128828 sec.
+41260.07: The clock can't run backwards, so changed to 0 sec.
+41260.07: No debugger information is available.
+41544.48: Load 40 (L_WT) waiting for -0.0760992 sec.
+41544.48: The clock can't run backwards, so changed to 0 sec.
+41544.48: No debugger information is available.
+41924.75: Load 21 (L_WT) waiting for -0.248411 sec.
+41924.75: The clock can't run backwards, so changed to 0 sec.
+41924.75: No debugger information is available.
+42298.75: Load 2 (L_WT) waiting for -0.410716 sec.
+42298.75: The clock can't run backwards, so changed to 0 sec.
+42298.75: No debugger information is available.
+42339.25: Load 28 (L_WT) waiting for -1.17405 sec.
+42339.25: The clock can't run backwards, so changed to 0 sec.
+42339.25: No debugger information is available.
+42433.73: Load 9 (L_WT) waiting for -0.129992 sec.
+42433.73: The clock can't run backwards, so changed to 0 sec.
+42433.73: No debugger information is available.
+42659.75: Load 11 (L_WT) waiting for -0.0763519 sec.
+42659.75: The clock can't run backwards, so changed to 0 sec.
+42659.75: No debugger information is available.
+42672.35: Load 19 (L_WT) waiting for -0.419391 sec.
+42672.35: The clock can't run backwards, so changed to 0 sec.
+42672.35: No debugger information is available.
+42937.24: Load 41 (L_WT) waiting for -0.223147 sec.
+42937.24: The clock can't run backwards, so changed to 0 sec.
+42937.24: No debugger information is available.
+43055.74: Load 29 (L_WT) waiting for -0.0447665 sec.
+43055.74: The clock can't run backwards, so changed to 0 sec.
+43055.74: No debugger information is available.
+43070.23: Load 31 (L_WT) waiting for -0.246617 sec.
+43070.23: The clock can't run backwards, so changed to 0 sec.
+43070.23: No debugger information is available.
+43079.35: Load 28 (L_WT) waiting for -0.286487 sec.
+43079.35: The clock can't run backwards, so changed to 0 sec.
+43079.35: No debugger information is available.
+43198.14: Load 34 (L_WT) waiting for -0.0601489 sec.
+43198.14: The clock can't run backwards, so changed to 0 sec.
+43198.14: No debugger information is available.
+43297.47: Load 38 (L_WT) waiting for -0.456692 sec.
+43297.47: The clock can't run backwards, so changed to 0 sec.
+43297.47: No debugger information is available.
+43559.00: Load 27 (L_WT) waiting for -0.325115 sec.
+43559.00: The clock can't run backwards, so changed to 0 sec.
+43559.00: No debugger information is available.
+43753.99: Load 37 (L_WT) waiting for -0.912533 sec.
+43753.99: The clock can't run backwards, so changed to 0 sec.
+43753.99: No debugger information is available.
+43930.03: Load 26 (L_WT) waiting for -0.286147 sec.
+43930.03: The clock can't run backwards, so changed to 0 sec.
+43930.03: No debugger information is available.
+44144.59: Load 37 (L_WT) waiting for -0.682582 sec.
+44144.59: The clock can't run backwards, so changed to 0 sec.
+44144.59: No debugger information is available.
+44154.28: Load 37 (L_WT) waiting for -0.0359261 sec.
+44154.28: The clock can't run backwards, so changed to 0 sec.
+44154.28: No debugger information is available.
+44399.44: Load 19 (L_WT) waiting for -0.0970392 sec.
+44399.44: The clock can't run backwards, so changed to 0 sec.
+44399.44: No debugger information is available.
+44674.03: Load 10 (L_WT) waiting for -0.212968 sec.
+44674.03: The clock can't run backwards, so changed to 0 sec.
+44674.03: No debugger information is available.
+44848.78: Load 41 (L_WT) waiting for -0.55475 sec.
+44848.78: The clock can't run backwards, so changed to 0 sec.
+44848.78: No debugger information is available.
+44969.83: Load 9 (L_WT) waiting for -0.553665 sec.
+44969.83: The clock can't run backwards, so changed to 0 sec.
+44969.83: No debugger information is available.
+45248.82: Load 14 (L_WT) waiting for -0.799731 sec.
+45248.82: The clock can't run backwards, so changed to 0 sec.
+45248.82: No debugger information is available.
+45664.08: Load 14 (L_WT) waiting for -0.427026 sec.
+45664.08: The clock can't run backwards, so changed to 0 sec.
+45664.08: No debugger information is available.
+45849.62: Load 15 (L_WT) waiting for -0.0217779 sec.
+45849.62: The clock can't run backwards, so changed to 0 sec.
+45849.62: No debugger information is available.
+45969.65: Load 25 (L_WT) waiting for -0.0423904 sec.
+45969.65: The clock can't run backwards, so changed to 0 sec.
+45969.65: No debugger information is available.
+46167.97: Load 3 (L_WT) waiting for -0.207839 sec.
+46167.97: The clock can't run backwards, so changed to 0 sec.
+46167.97: No debugger information is available.
+46323.66: Load 7 (L_WT) waiting for -0.0729864 sec.
+46323.66: The clock can't run backwards, so changed to 0 sec.
+46323.66: No debugger information is available.
+46336.66: Load 22 (L_WT) waiting for -0.673398 sec.
+46336.66: The clock can't run backwards, so changed to 0 sec.
+46336.66: No debugger information is available.
+46448.51: Load 21 (L_WT) waiting for -0.138515 sec.
+46448.51: The clock can't run backwards, so changed to 0 sec.
+46448.51: No debugger information is available.
+46598.89: Load 18 (L_WT) waiting for -0.0443527 sec.
+46598.89: The clock can't run backwards, so changed to 0 sec.
+46598.89: No debugger information is available.
+46903.12: Load 2 (L_WT) waiting for -0.0903449 sec.
+46903.12: The clock can't run backwards, so changed to 0 sec.
+46903.12: No debugger information is available.
+46960.53: Load 28 (L_WT) waiting for -0.141505 sec.
+46960.53: The clock can't run backwards, so changed to 0 sec.
+46960.53: No debugger information is available.
+47085.57: Load 4 (L_WT) waiting for -0.0773777 sec.
+47085.57: The clock can't run backwards, so changed to 0 sec.
+47085.57: No debugger information is available.
+47159.72: Load 40 (L_WT) waiting for -0.138973 sec.
+47159.72: The clock can't run backwards, so changed to 0 sec.
+47159.72: No debugger information is available.
+47222.24: Load 23 (L_WT) waiting for -0.288326 sec.
+47222.24: The clock can't run backwards, so changed to 0 sec.
+47222.24: No debugger information is available.
+47614.82: Load 12 (L_WT) waiting for -0.174063 sec.
+47614.82: The clock can't run backwards, so changed to 0 sec.
+47614.82: No debugger information is available.
+47850.08: Load 26 (L_WT) waiting for -0.342099 sec.
+47850.08: The clock can't run backwards, so changed to 0 sec.
+47850.08: No debugger information is available.
+47858.15: Load 7 (L_WT) waiting for -0.147423 sec.
+47858.15: The clock can't run backwards, so changed to 0 sec.
+47858.15: No debugger information is available.
+47962.09: Load 25 (L_WT) waiting for -0.232886 sec.
+47962.09: The clock can't run backwards, so changed to 0 sec.
+47962.09: No debugger information is available.
+48221.70: Load 19 (L_WT) waiting for -0.0983015 sec.
+48221.70: The clock can't run backwards, so changed to 0 sec.
+48221.70: No debugger information is available.
+48254.65: Load 9 (L_WT) waiting for -0.0116942 sec.
+48254.65: The clock can't run backwards, so changed to 0 sec.
+48254.65: No debugger information is available.
+48361.25: Load 14 (L_WT) waiting for -0.0577881 sec.
+48361.25: The clock can't run backwards, so changed to 0 sec.
+48361.25: No debugger information is available.
+48587.40: Load 40 (L_WT) waiting for -0.0486299 sec.
+48587.40: The clock can't run backwards, so changed to 0 sec.
+48587.40: No debugger information is available.
+49058.26: Load 38 (L_WT) waiting for -0.342864 sec.
+49058.26: The clock can't run backwards, so changed to 0 sec.
+49058.26: No debugger information is available.
+49697.98: Load 6 (L_WT) waiting for -0.356408 sec.
+49697.98: The clock can't run backwards, so changed to 0 sec.
+49697.98: No debugger information is available.
+49935.97: Load 18 (L_WT) waiting for -0.217146 sec.
+49935.97: The clock can't run backwards, so changed to 0 sec.
+49935.97: No debugger information is available.
+50207.34: Load 11 (L_WT) waiting for -1.36454 sec.
+50207.34: The clock can't run backwards, so changed to 0 sec.
+50207.34: No debugger information is available.
+50298.47: Load 4 (L_WT) waiting for -0.249703 sec.
+50298.47: The clock can't run backwards, so changed to 0 sec.
+50298.47: No debugger information is available.
+50783.95: Load 3 (L_WT) waiting for -0.0352218 sec.
+50783.95: The clock can't run backwards, so changed to 0 sec.
+50783.95: No debugger information is available.
+50856.68: Load 6 (L_WT) waiting for -0.515908 sec.
+50856.68: The clock can't run backwards, so changed to 0 sec.
+50856.68: No debugger information is available.
+50908.25: Load 26 (L_WT) waiting for -0.0295135 sec.
+50908.25: The clock can't run backwards, so changed to 0 sec.
+50908.25: No debugger information is available.
+50920.05: Load 15 (L_WT) waiting for -0.623037 sec.
+50920.05: The clock can't run backwards, so changed to 0 sec.
+50920.05: No debugger information is available.
+50958.28: Load 17 (L_WT) waiting for -0.197774 sec.
+50958.28: The clock can't run backwards, so changed to 0 sec.
+50958.28: No debugger information is available.
+51113.69: Load 38 (L_WT) waiting for -0.0380727 sec.
+51113.69: The clock can't run backwards, so changed to 0 sec.
+51113.69: No debugger information is available.
+51154.46: Load 29 (L_WT) waiting for -0.358525 sec.
+51154.46: The clock can't run backwards, so changed to 0 sec.
+51154.46: No debugger information is available.
+51297.10: Load 26 (L_WT) waiting for -0.0981485 sec.
+51297.10: The clock can't run backwards, so changed to 0 sec.
+51297.10: No debugger information is available.
+51366.65: Load 21 (L_WT) waiting for -0.769628 sec.
+51366.65: The clock can't run backwards, so changed to 0 sec.
+51366.65: No debugger information is available.
+51417.70: Load 20 (L_WT) waiting for -0.310043 sec.
+51417.70: The clock can't run backwards, so changed to 0 sec.
+51417.70: No debugger information is available.
+51472.20: Load 19 (L_WT) waiting for -1.10136 sec.
+51472.20: The clock can't run backwards, so changed to 0 sec.
+51472.20: No debugger information is available.
+52130.96: Load 25 (L_WT) waiting for -0.184675 sec.
+52130.96: The clock can't run backwards, so changed to 0 sec.
+52130.96: No debugger information is available.
+52624.25: Load 14 (L_WT) waiting for -0.107274 sec.
+52624.25: The clock can't run backwards, so changed to 0 sec.
+52624.25: No debugger information is available.
+53053.97: Load 12 (L_WT) waiting for -0.0271129 sec.
+53053.97: The clock can't run backwards, so changed to 0 sec.
+53053.97: No debugger information is available.
+53275.84: Load 37 (L_WT) waiting for -1.16742 sec.
+53275.84: The clock can't run backwards, so changed to 0 sec.
+53275.84: No debugger information is available.
+54018.24: Load 18 (L_WT) waiting for -0.631612 sec.
+54018.24: The clock can't run backwards, so changed to 0 sec.
+54018.24: No debugger information is available.
+54325.12: Load 22 (L_WT) waiting for -0.710077 sec.
+54325.12: The clock can't run backwards, so changed to 0 sec.
+54325.12: No debugger information is available.
+54689.74: Load 20 (L_WT) waiting for -0.340427 sec.
+54689.74: The clock can't run backwards, so changed to 0 sec.
+54689.74: No debugger information is available.
+54878.09: Load 5 (L_WT) waiting for -0.663999 sec.
+54878.09: The clock can't run backwards, so changed to 0 sec.
+54878.09: No debugger information is available.
+55373.10: Load 24 (L_WT) waiting for -0.186798 sec.
+55373.10: The clock can't run backwards, so changed to 0 sec.
+55373.10: No debugger information is available.
+55483.99: Load 14 (L_WT) waiting for -0.45519 sec.
+55483.99: The clock can't run backwards, so changed to 0 sec.
+55483.99: No debugger information is available.
+55862.40: Load 2 (L_WT) waiting for -0.123709 sec.
+55862.40: The clock can't run backwards, so changed to 0 sec.
+55862.40: No debugger information is available.
+55892.52: Load 28 (L_WT) waiting for -0.198461 sec.
+55892.52: The clock can't run backwards, so changed to 0 sec.
+55892.52: No debugger information is available.
+56107.51: Load 13 (L_WT) waiting for -0.0095844 sec.
+56107.51: The clock can't run backwards, so changed to 0 sec.
+56107.51: No debugger information is available.
+56544.39: Load 19 (L_WT) waiting for -0.38203 sec.
+56544.39: The clock can't run backwards, so changed to 0 sec.
+56544.39: No debugger information is available.
+56578.59: Load 20 (L_WT) waiting for -0.780948 sec.
+56578.59: The clock can't run backwards, so changed to 0 sec.
+56578.59: No debugger information is available.
+56616.11: Load 26 (L_WT) waiting for -0.309566 sec.
+56616.11: The clock can't run backwards, so changed to 0 sec.
+56616.11: No debugger information is available.
+57094.24: Load 21 (L_WT) waiting for -0.15762 sec.
+57094.24: The clock can't run backwards, so changed to 0 sec.
+57094.24: No debugger information is available.
+57839.29: Load 15 (L_WT) waiting for -0.450025 sec.
+57839.29: The clock can't run backwards, so changed to 0 sec.
+57839.29: No debugger information is available.
+57917.85: Load 9 (L_WT) waiting for -0.0315886 sec.
+57917.85: The clock can't run backwards, so changed to 0 sec.
+57917.85: No debugger information is available.
+58100.13: Load 35 (L_WT) waiting for -0.262454 sec.
+58100.13: The clock can't run backwards, so changed to 0 sec.
+58100.13: No debugger information is available.
+58146.91: Load 22 (L_WT) waiting for -0.327596 sec.
+58146.91: The clock can't run backwards, so changed to 0 sec.
+58146.91: No debugger information is available.
+58175.89: Load 28 (L_WT) waiting for -0.240617 sec.
+58175.89: The clock can't run backwards, so changed to 0 sec.
+58175.89: No debugger information is available.
+58291.36: Load 20 (L_WT) waiting for -0.158345 sec.
+58291.36: The clock can't run backwards, so changed to 0 sec.
+58291.36: No debugger information is available.
+58455.15: Load 9 (L_WT) waiting for -0.375732 sec.
+58455.15: The clock can't run backwards, so changed to 0 sec.
+58455.15: No debugger information is available.
+58793.64: Load 15 (L_WT) waiting for -0.0632699 sec.
+58793.64: The clock can't run backwards, so changed to 0 sec.
+58793.64: No debugger information is available.
+59349.87: Load 12 (L_WT) waiting for -0.520043 sec.
+59349.87: The clock can't run backwards, so changed to 0 sec.
+59349.87: No debugger information is available.
+59457.67: Load 38 (L_WT) waiting for -0.47027 sec.
+59457.67: The clock can't run backwards, so changed to 0 sec.
+59457.67: No debugger information is available.
+59465.15: Load 33 (L_WT) waiting for -0.153176 sec.
+59465.15: The clock can't run backwards, so changed to 0 sec.
+59465.15: No debugger information is available.
+59681.89: Load 23 (L_WT) waiting for -0.10001 sec.
+59681.89: The clock can't run backwards, so changed to 0 sec.
+59681.89: No debugger information is available.
+60383.98: Load 9 (L_WT) waiting for -0.0905479 sec.
+60383.98: The clock can't run backwards, so changed to 0 sec.
+60383.98: No debugger information is available.
+60476.77: Load 3 (L_WT) waiting for -0.787914 sec.
+60476.77: The clock can't run backwards, so changed to 0 sec.
+60476.77: No debugger information is available.
+60492.98: Load 28 (L_WT) waiting for -0.528967 sec.
+60492.98: The clock can't run backwards, so changed to 0 sec.
+60492.98: No debugger information is available.
+60567.39: Load 21 (L_WT) waiting for -0.251295 sec.
+60567.39: The clock can't run backwards, so changed to 0 sec.
+60567.39: No debugger information is available.
+60981.49: Load 14 (L_WT) waiting for -0.587861 sec.
+60981.49: The clock can't run backwards, so changed to 0 sec.
+60981.49: No debugger information is available.
+61132.26: Load 4 (L_WT) waiting for -0.0341159 sec.
+61132.26: The clock can't run backwards, so changed to 0 sec.
+61132.26: No debugger information is available.
+61383.00: Load 40 (L_WT) waiting for -0.357842 sec.
+61383.00: The clock can't run backwards, so changed to 0 sec.
+61383.00: No debugger information is available.
+61471.24: Load 8 (L_WT) waiting for -0.159267 sec.
+61471.24: The clock can't run backwards, so changed to 0 sec.
+61471.24: No debugger information is available.
+61597.54: Load 29 (L_WT) waiting for -0.092914 sec.
+61597.54: The clock can't run backwards, so changed to 0 sec.
+61597.54: No debugger information is available.
+61688.47: Load 27 (L_WT) waiting for -0.197287 sec.
+61688.47: The clock can't run backwards, so changed to 0 sec.
+61688.47: No debugger information is available.
+61806.55: Load 12 (L_WT) waiting for -0.179793 sec.
+61806.55: The clock can't run backwards, so changed to 0 sec.
+61806.55: No debugger information is available.
+61966.75: Load 20 (L_WT) waiting for -0.200358 sec.
+61966.75: The clock can't run backwards, so changed to 0 sec.
+61966.75: No debugger information is available.
+61984.15: Load 22 (L_WT) waiting for -0.960438 sec.
+61984.15: The clock can't run backwards, so changed to 0 sec.
+61984.15: No debugger information is available.
+62562.07: Load 41 (L_WT) waiting for -0.476832 sec.
+62562.07: The clock can't run backwards, so changed to 0 sec.
+62562.07: No debugger information is available.
+62645.41: Load 26 (L_WT) waiting for -0.370998 sec.
+62645.41: The clock can't run backwards, so changed to 0 sec.
+62645.41: No debugger information is available.
+62835.05: Load 13 (L_WT) waiting for -0.403342 sec.
+62835.05: The clock can't run backwards, so changed to 0 sec.
+62835.05: No debugger information is available.
+63091.60: Load 29 (L_WT) waiting for -0.185549 sec.
+63091.60: The clock can't run backwards, so changed to 0 sec.
+63091.60: No debugger information is available.
+63491.85: Load 12 (L_WT) waiting for -0.271574 sec.
+63491.85: The clock can't run backwards, so changed to 0 sec.
+63491.85: No debugger information is available.
+63585.41: Load 18 (L_WT) waiting for -0.39166 sec.
+63585.41: The clock can't run backwards, so changed to 0 sec.
+63585.41: No debugger information is available.
+63883.86: Load 12 (L_WT) waiting for -0.0434681 sec.
+63883.86: The clock can't run backwards, so changed to 0 sec.
+63883.86: No debugger information is available.
+63919.62: Load 15 (L_WT) waiting for -0.166827 sec.
+63919.62: The clock can't run backwards, so changed to 0 sec.
+63919.62: No debugger information is available.
+64036.64: Load 27 (L_WT) waiting for -1.3428 sec.
+64036.64: The clock can't run backwards, so changed to 0 sec.
+64036.64: No debugger information is available.
+64306.99: Load 15 (L_WT) waiting for -0.00437033 sec.
+64306.99: The clock can't run backwards, so changed to 0 sec.
+64306.99: No debugger information is available.
+64887.70: Load 3 (L_WT) waiting for -0.44359 sec.
+64887.70: The clock can't run backwards, so changed to 0 sec.
+64887.70: No debugger information is available.
+65053.98: Load 41 (L_WT) waiting for -0.574328 sec.
+65053.98: The clock can't run backwards, so changed to 0 sec.
+65053.98: No debugger information is available.
+65290.20: Load 26 (L_WT) waiting for -0.0693711 sec.
+65290.20: The clock can't run backwards, so changed to 0 sec.
+65290.20: No debugger information is available.
+65360.65: Load 33 (L_WT) waiting for -0.0453822 sec.
+65360.65: The clock can't run backwards, so changed to 0 sec.
+65360.65: No debugger information is available.
+66051.28: Load 28 (L_WT) waiting for -0.0614926 sec.
+66051.28: The clock can't run backwards, so changed to 0 sec.
+66051.28: No debugger information is available.
+66296.23: Load 25 (L_WT) waiting for -0.204258 sec.
+66296.23: The clock can't run backwards, so changed to 0 sec.
+66296.23: No debugger information is available.
+66711.27: Load 25 (L_WT) waiting for -0.141596 sec.
+66711.27: The clock can't run backwards, so changed to 0 sec.
+66711.27: No debugger information is available.
+66836.98: Load 26 (L_WT) waiting for -0.30986 sec.
+66836.98: The clock can't run backwards, so changed to 0 sec.
+66836.98: No debugger information is available.
+67042.61: Load 18 (L_WT) waiting for -0.674649 sec.
+67042.61: The clock can't run backwards, so changed to 0 sec.
+67042.61: No debugger information is available.
+67150.72: Load 33 (L_WT) waiting for -0.150599 sec.
+67150.72: The clock can't run backwards, so changed to 0 sec.
+67150.72: No debugger information is available.
+67323.91: Load 38 (L_WT) waiting for -0.267842 sec.
+67323.91: The clock can't run backwards, so changed to 0 sec.
+67323.91: No debugger information is available.
+67384.95: Load 5 (L_WT) waiting for -0.0316177 sec.
+67384.95: The clock can't run backwards, so changed to 0 sec.
+67384.95: No debugger information is available.
+67586.41: Load 24 (L_WT) waiting for -0.38677 sec.
+67586.41: The clock can't run backwards, so changed to 0 sec.
+67586.41: No debugger information is available.
+67705.60: Load 9 (L_WT) waiting for -0.573316 sec.
+67705.60: The clock can't run backwards, so changed to 0 sec.
+67705.60: No debugger information is available.
+67763.71: Load 4 (L_WT) waiting for -0.0640424 sec.
+67763.71: The clock can't run backwards, so changed to 0 sec.
+67763.71: No debugger information is available.
+67990.97: Load 26 (L_WT) waiting for -0.35842 sec.
+67990.97: The clock can't run backwards, so changed to 0 sec.
+67990.97: No debugger information is available.
+68004.10: Load 10 (L_WT) waiting for -0.00541129 sec.
+68004.10: The clock can't run backwards, so changed to 0 sec.
+68004.10: No debugger information is available.
+68016.82: Load 10 (L_WT) waiting for -0.0341655 sec.
+68016.82: The clock can't run backwards, so changed to 0 sec.
+68016.82: No debugger information is available.
+68058.11: Load 39 (L_WT) waiting for -0.0304098 sec.
+68058.11: The clock can't run backwards, so changed to 0 sec.
+68058.11: No debugger information is available.
+68685.30: Load 22 (L_WT) waiting for -0.0173425 sec.
+68685.30: The clock can't run backwards, so changed to 0 sec.
+68685.30: No debugger information is available.
+68729.44: Load 15 (L_WT) waiting for -0.0371206 sec.
+68729.44: The clock can't run backwards, so changed to 0 sec.
+68729.44: No debugger information is available.
+69000.16: Load 38 (L_WT) waiting for -0.771714 sec.
+69000.16: The clock can't run backwards, so changed to 0 sec.
+69000.16: No debugger information is available.
+69150.10: Load 18 (L_WT) waiting for -0.257168 sec.
+69150.10: The clock can't run backwards, so changed to 0 sec.
+69150.10: No debugger information is available.
+69361.93: Load 21 (L_WT) waiting for -0.156724 sec.
+69361.93: The clock can't run backwards, so changed to 0 sec.
+69361.93: No debugger information is available.
+69879.23: Load 4 (L_WT) waiting for -0.0569408 sec.
+69879.23: The clock can't run backwards, so changed to 0 sec.
+69879.23: No debugger information is available.
+70164.91: Load 3 (L_WT) waiting for -0.248943 sec.
+70164.91: The clock can't run backwards, so changed to 0 sec.
+70164.91: No debugger information is available.
+70211.54: Load 34 (L_WT) waiting for -0.434981 sec.
+70211.54: The clock can't run backwards, so changed to 0 sec.
+70211.54: No debugger information is available.
+70322.59: Load 18 (L_WT) waiting for -0.180152 sec.
+70322.59: The clock can't run backwards, so changed to 0 sec.
+70322.59: No debugger information is available.
+70587.97: Load 5 (L_WT) waiting for -0.224958 sec.
+70587.97: The clock can't run backwards, so changed to 0 sec.
+70587.97: No debugger information is available.
+70780.73: Load 7 (L_WT) waiting for -0.0686802 sec.
+70780.73: The clock can't run backwards, so changed to 0 sec.
+70780.73: No debugger information is available.
+70911.67: Load 3 (L_WT) waiting for -0.0837377 sec.
+70911.67: The clock can't run backwards, so changed to 0 sec.
+70911.67: No debugger information is available.
+71036.21: Load 28 (L_WT) waiting for -0.192812 sec.
+71036.21: The clock can't run backwards, so changed to 0 sec.
+71036.21: No debugger information is available.
+71084.70: Load 38 (L_WT) waiting for -0.287285 sec.
+71084.70: The clock can't run backwards, so changed to 0 sec.
+71084.70: No debugger information is available.
+71136.53: Load 16 (L_WT) waiting for -0.168799 sec.
+71136.53: The clock can't run backwards, so changed to 0 sec.
+71136.53: No debugger information is available.
+71556.82: Load 34 (L_WT) waiting for -0.0536627 sec.
+71556.82: The clock can't run backwards, so changed to 0 sec.
+71556.82: No debugger information is available.
+71637.91: Load 15 (L_WT) waiting for -0.0262592 sec.
+71637.91: The clock can't run backwards, so changed to 0 sec.
+71637.91: No debugger information is available.
+71940.13: Load 9 (L_WT) waiting for -0.277431 sec.
+71940.13: The clock can't run backwards, so changed to 0 sec.
+71940.13: No debugger information is available.
+71964.76: Load 5 (L_WT) waiting for -0.16248 sec.
+71964.76: The clock can't run backwards, so changed to 0 sec.
+71964.76: No debugger information is available.
+72006.09: Load 29 (L_WT) waiting for -0.523768 sec.
+72006.09: The clock can't run backwards, so changed to 0 sec.
+72006.09: No debugger information is available.
+72028.33: Load 36 (L_WT) waiting for -0.1357 sec.
+72028.33: The clock can't run backwards, so changed to 0 sec.
+72028.33: No debugger information is available.
+72159.18: Load 9 (L_WT) waiting for -0.307866 sec.
+72159.18: The clock can't run backwards, so changed to 0 sec.
+72159.18: No debugger information is available.
+72465.64: Load 40 (L_WT) waiting for -0.179568 sec.
+72465.64: The clock can't run backwards, so changed to 0 sec.
+72465.64: No debugger information is available.
+73023.38: Load 38 (L_WT) waiting for -1.10418 sec.
+73023.38: The clock can't run backwards, so changed to 0 sec.
+73023.38: No debugger information is available.
+73105.54: Load 11 (L_WT) waiting for -0.012995 sec.
+73105.54: The clock can't run backwards, so changed to 0 sec.
+73105.54: No debugger information is available.
+73886.46: Load 29 (L_WT) waiting for -0.464085 sec.
+73886.46: The clock can't run backwards, so changed to 0 sec.
+73886.46: No debugger information is available.
+74222.23: Load 32 (L_WT) waiting for -0.525091 sec.
+74222.23: The clock can't run backwards, so changed to 0 sec.
+74222.23: No debugger information is available.
+74522.26: Load 9 (L_WT) waiting for -0.263207 sec.
+74522.26: The clock can't run backwards, so changed to 0 sec.
+74522.26: No debugger information is available.
+74534.53: Load 9 (L_WT) waiting for -0.173562 sec.
+74534.53: The clock can't run backwards, so changed to 0 sec.
+74534.53: No debugger information is available.
+74633.42: Load 12 (L_WT) waiting for -0.808759 sec.
+74633.42: The clock can't run backwards, so changed to 0 sec.
+74633.42: No debugger information is available.
+75425.18: Load 16 (L_WT) waiting for -0.128608 sec.
+75425.18: The clock can't run backwards, so changed to 0 sec.
+75425.18: No debugger information is available.
+75933.41: Load 31 (L_WT) waiting for -0.896207 sec.
+75933.41: The clock can't run backwards, so changed to 0 sec.
+75933.41: No debugger information is available.
+76283.66: Load 33 (L_WT) waiting for -0.852652 sec.
+76283.66: The clock can't run backwards, so changed to 0 sec.
+76283.66: No debugger information is available.
+76419.26: Load 16 (L_WT) waiting for -0.0622966 sec.
+76419.26: The clock can't run backwards, so changed to 0 sec.
+76419.26: No debugger information is available.
+77048.43: Load 17 (L_WT) waiting for -0.102053 sec.
+77048.43: The clock can't run backwards, so changed to 0 sec.
+77048.43: No debugger information is available.
+77197.02: Load 7 (L_WT) waiting for -0.0828016 sec.
+77197.02: The clock can't run backwards, so changed to 0 sec.
+77197.02: No debugger information is available.
+77883.30: Load 15 (L_WT) waiting for -0.308104 sec.
+77883.30: The clock can't run backwards, so changed to 0 sec.
+77883.30: No debugger information is available.
+78002.07: Load 36 (L_WT) waiting for -0.234995 sec.
+78002.07: The clock can't run backwards, so changed to 0 sec.
+78002.07: No debugger information is available.
+78115.79: Load 26 (L_WT) waiting for -0.44556 sec.
+78115.79: The clock can't run backwards, so changed to 0 sec.
+78115.79: No debugger information is available.
+78423.92: Load 30 (L_WT) waiting for -0.152184 sec.
+78423.92: The clock can't run backwards, so changed to 0 sec.
+78423.92: No debugger information is available.
+78424.56: Load 35 (L_WT) waiting for -0.220984 sec.
+78424.56: The clock can't run backwards, so changed to 0 sec.
+78424.56: No debugger information is available.
+78464.01: Load 39 (L_WT) waiting for -0.0472589 sec.
+78464.01: The clock can't run backwards, so changed to 0 sec.
+78464.01: No debugger information is available.
+78850.76: Load 6 (L_WT) waiting for -0.0757717 sec.
+78850.76: The clock can't run backwards, so changed to 0 sec.
+78850.76: No debugger information is available.
+78876.21: Load 12 (L_WT) waiting for -0.0500289 sec.
+78876.21: The clock can't run backwards, so changed to 0 sec.
+78876.21: No debugger information is available.
+79010.86: Load 11 (L_WT) waiting for -0.501362 sec.
+79010.86: The clock can't run backwards, so changed to 0 sec.
+79010.86: No debugger information is available.
+79133.45: Load 4 (L_WT) waiting for -0.31597 sec.
+79133.45: The clock can't run backwards, so changed to 0 sec.
+79133.45: No debugger information is available.
+79633.55: Load 12 (L_WT) waiting for -0.503682 sec.
+79633.55: The clock can't run backwards, so changed to 0 sec.
+79633.55: No debugger information is available.
+80721.34: Load 17 (L_WT) waiting for -0.280812 sec.
+80721.34: The clock can't run backwards, so changed to 0 sec.
+80721.34: No debugger information is available.
+81051.63: Load 24 (L_WT) waiting for -0.228354 sec.
+81051.63: The clock can't run backwards, so changed to 0 sec.
+81051.63: No debugger information is available.
+81125.09: Load 16 (L_WT) waiting for -0.407182 sec.
+81125.09: The clock can't run backwards, so changed to 0 sec.
+81125.09: No debugger information is available.
+81523.80: Load 16 (L_WT) waiting for -0.029422 sec.
+81523.80: The clock can't run backwards, so changed to 0 sec.
+81523.80: No debugger information is available.
+82226.04: Load 2 (L_WT) waiting for -0.0793492 sec.
+82226.04: The clock can't run backwards, so changed to 0 sec.
+82226.04: No debugger information is available.
+82398.40: Load 3 (L_WT) waiting for -0.126666 sec.
+82398.40: The clock can't run backwards, so changed to 0 sec.
+82398.40: No debugger information is available.
+83063.01: Load 35 (L_WT) waiting for -0.13914 sec.
+83063.01: The clock can't run backwards, so changed to 0 sec.
+83063.01: No debugger information is available.
+83099.30: Load 9 (L_WT) waiting for -0.271874 sec.
+83099.30: The clock can't run backwards, so changed to 0 sec.
+83099.30: No debugger information is available.
+83366.68: Load 29 (L_WT) waiting for -0.169745 sec.
+83366.68: The clock can't run backwards, so changed to 0 sec.
+83366.68: No debugger information is available.
+83515.21: Load 21 (L_WT) waiting for -0.111496 sec.
+83515.21: The clock can't run backwards, so changed to 0 sec.
+83515.21: No debugger information is available.
+83677.77: Load 21 (L_WT) waiting for -0.205186 sec.
+83677.77: The clock can't run backwards, so changed to 0 sec.
+83677.77: No debugger information is available.
+83777.95: Load 32 (L_WT) waiting for -0.126938 sec.
+83777.95: The clock can't run backwards, so changed to 0 sec.
+83777.95: No debugger information is available.
+83984.24: Load 20 (L_WT) waiting for -0.00657557 sec.
+83984.24: The clock can't run backwards, so changed to 0 sec.
+83984.24: No debugger information is available.
+84348.46: Load 25 (L_WT) waiting for -0.591551 sec.
+84348.46: The clock can't run backwards, so changed to 0 sec.
+84348.46: No debugger information is available.
+84360.81: Load 20 (L_WT) waiting for -0.154131 sec.
+84360.81: The clock can't run backwards, so changed to 0 sec.
+84360.81: No debugger information is available.
+84578.36: Load 2 (L_WT) waiting for -0.266962 sec.
+84578.36: The clock can't run backwards, so changed to 0 sec.
+84578.36: No debugger information is available.
+84620.72: Load 39 (L_WT) waiting for -0.308613 sec.
+84620.72: The clock can't run backwards, so changed to 0 sec.
+84620.72: No debugger information is available.
+84869.14: Load 9 (L_WT) waiting for -0.490413 sec.
+84869.14: The clock can't run backwards, so changed to 0 sec.
+84869.14: No debugger information is available.
+84888.92: Load 27 (L_WT) waiting for -0.096397 sec.
+84888.92: The clock can't run backwards, so changed to 0 sec.
+84888.92: No debugger information is available.
+85004.06: Load 35 (L_WT) waiting for -0.289119 sec.
+85004.06: The clock can't run backwards, so changed to 0 sec.
+85004.06: No debugger information is available.
+85292.72: Load 26 (L_WT) waiting for -0.0662081 sec.
+85292.72: The clock can't run backwards, so changed to 0 sec.
+85292.72: No debugger information is available.
+85429.47: Load 16 (L_WT) waiting for -0.0834026 sec.
+85429.47: The clock can't run backwards, so changed to 0 sec.
+85429.47: No debugger information is available.
+85465.35: Load 5 (L_WT) waiting for -0.0571927 sec.
+85465.35: The clock can't run backwards, so changed to 0 sec.
+85465.35: No debugger information is available.
+85986.54: Load 38 (L_WT) waiting for -0.278329 sec.
+85986.54: The clock can't run backwards, so changed to 0 sec.
+85986.54: No debugger information is available.
+86148.27: Load 4 (L_WT) waiting for -0.0412799 sec.
+86148.27: The clock can't run backwards, so changed to 0 sec.
+86148.27: No debugger information is available.
+86155.08: Load 17 (L_WT) waiting for -0.223442 sec.
+86155.08: The clock can't run backwards, so changed to 0 sec.
+86155.08: No debugger information is available.
+86406.38: Load 3 (L_WT) waiting for -1.48185 sec.
+86406.38: The clock can't run backwards, so changed to 0 sec.
+86406.38: No debugger information is available.
+86522.72: Load 24 (L_WT) waiting for -1.20827 sec.
+86522.72: The clock can't run backwards, so changed to 0 sec.
+86522.72: No debugger information is available.
+86562.34: Load 18 (L_WT) waiting for -0.301738 sec.
+86562.34: The clock can't run backwards, so changed to 0 sec.
+86562.34: No debugger information is available.
+86712.85: Load 12 (L_WT) waiting for -0.150263 sec.
+86712.85: The clock can't run backwards, so changed to 0 sec.
+86712.85: No debugger information is available.
+86959.26: Load 3 (L_WT) waiting for -0.159917 sec.
+86959.26: The clock can't run backwards, so changed to 0 sec.
+86959.26: No debugger information is available.
+87460.17: Load 4 (L_WT) waiting for -0.215438 sec.
+87460.17: The clock can't run backwards, so changed to 0 sec.
+87460.17: No debugger information is available.
+87710.42: Load 18 (L_WT) waiting for -0.133455 sec.
+87710.42: The clock can't run backwards, so changed to 0 sec.
+87710.42: No debugger information is available.
+88233.60: Load 40 (L_WT) waiting for -0.385539 sec.
+88233.60: The clock can't run backwards, so changed to 0 sec.
+88233.60: No debugger information is available.
+88386.84: Load 27 (L_WT) waiting for -0.323014 sec.
+88386.84: The clock can't run backwards, so changed to 0 sec.
+88386.84: No debugger information is available.
+88429.58: Load 31 (L_WT) waiting for -0.454706 sec.
+88429.58: The clock can't run backwards, so changed to 0 sec.
+88429.58: No debugger information is available.
+88547.56: Load 22 (L_WT) waiting for -0.0489607 sec.
+88547.56: The clock can't run backwards, so changed to 0 sec.
+88547.56: No debugger information is available.
+88628.62: Load 39 (L_WT) waiting for -0.205519 sec.
+88628.62: The clock can't run backwards, so changed to 0 sec.
+88628.62: No debugger information is available.
+88781.42: Load 27 (L_WT) waiting for -0.584832 sec.
+88781.42: The clock can't run backwards, so changed to 0 sec.
+88781.42: No debugger information is available.
+88878.88: Load 6 (L_WT) waiting for -0.244646 sec.
+88878.88: The clock can't run backwards, so changed to 0 sec.
+88878.88: No debugger information is available.
+88996.66: Load 34 (L_WT) waiting for -0.0693945 sec.
+88996.66: The clock can't run backwards, so changed to 0 sec.
+88996.66: No debugger information is available.
+89047.70: Load 36 (L_WT) waiting for -0.423366 sec.
+89047.70: The clock can't run backwards, so changed to 0 sec.
+89047.70: No debugger information is available.
+89173.70: Load 19 (L_WT) waiting for -0.424731 sec.
+89173.70: The clock can't run backwards, so changed to 0 sec.
+89173.70: No debugger information is available.
+89209.26: Load 15 (L_WT) waiting for -0.0891058 sec.
+89209.26: The clock can't run backwards, so changed to 0 sec.
+89209.26: No debugger information is available.
+89364.12: Load 12 (L_WT) waiting for -0.468375 sec.
+89364.12: The clock can't run backwards, so changed to 0 sec.
+89364.12: No debugger information is available.
+89509.42: Load 41 (L_WT) waiting for -0.123023 sec.
+89509.42: The clock can't run backwards, so changed to 0 sec.
+89509.42: No debugger information is available.
+89578.59: Load 9 (L_WT) waiting for -0.22796 sec.
+89578.59: The clock can't run backwards, so changed to 0 sec.
+89578.59: No debugger information is available.
+89628.59: Load 33 (L_WT) waiting for -0.0791236 sec.
+89628.59: The clock can't run backwards, so changed to 0 sec.
+89628.59: No debugger information is available.
+89937.44: Load 10 (L_WT) waiting for -0.0730399 sec.
+89937.44: The clock can't run backwards, so changed to 0 sec.
+89937.44: No debugger information is available.
+90430.75: Load 18 (L_WT) waiting for -0.148693 sec.
+90430.75: The clock can't run backwards, so changed to 0 sec.
+90430.75: No debugger information is available.
+90859.06: Load 15 (L_WT) waiting for -0.251886 sec.
+90859.06: The clock can't run backwards, so changed to 0 sec.
+90859.06: No debugger information is available.
+90881.17: Load 12 (L_WT) waiting for -0.427171 sec.
+90881.17: The clock can't run backwards, so changed to 0 sec.
+90881.17: No debugger information is available.
+90884.03: Load 16 (L_WT) waiting for -0.343313 sec.
+90884.03: The clock can't run backwards, so changed to 0 sec.
+90884.03: No debugger information is available.
+90951.41: Load 6 (L_WT) waiting for -0.399727 sec.
+90951.41: The clock can't run backwards, so changed to 0 sec.
+90951.41: No debugger information is available.
+90977.07: Load 22 (L_WT) waiting for -0.490636 sec.
+90977.07: The clock can't run backwards, so changed to 0 sec.
+90977.07: No debugger information is available.
+91101.89: Load 20 (L_WT) waiting for -0.351967 sec.
+91101.89: The clock can't run backwards, so changed to 0 sec.
+91101.89: No debugger information is available.
+91671.08: Load 19 (L_WT) waiting for -0.380068 sec.
+91671.08: The clock can't run backwards, so changed to 0 sec.
+91671.08: No debugger information is available.
+93029.86: Load 27 (L_WT) waiting for -0.938298 sec.
+93029.86: The clock can't run backwards, so changed to 0 sec.
+93029.86: No debugger information is available.
+93177.41: Load 17 (L_WT) waiting for -0.0499147 sec.
+93177.41: The clock can't run backwards, so changed to 0 sec.
+93177.41: No debugger information is available.
+93192.21: Load 7 (L_WT) waiting for -0.0686476 sec.
+93192.21: The clock can't run backwards, so changed to 0 sec.
+93192.21: No debugger information is available.
+93502.79: Load 37 (L_WT) waiting for -0.0855913 sec.
+93502.79: The clock can't run backwards, so changed to 0 sec.
+93502.79: No debugger information is available.
+93862.22: Load 9 (L_WT) waiting for -0.67055 sec.
+93862.22: The clock can't run backwards, so changed to 0 sec.
+93862.22: No debugger information is available.
+93862.77: Load 39 (L_WT) waiting for -0.109471 sec.
+93862.77: The clock can't run backwards, so changed to 0 sec.
+93862.77: No debugger information is available.
+93950.46: Load 30 (L_WT) waiting for -0.418159 sec.
+93950.46: The clock can't run backwards, so changed to 0 sec.
+93950.46: No debugger information is available.
+94117.24: Load 3 (L_WT) waiting for -0.572539 sec.
+94117.24: The clock can't run backwards, so changed to 0 sec.
+94117.24: No debugger information is available.
+94140.95: Load 40 (L_WT) waiting for -0.207307 sec.
+94140.95: The clock can't run backwards, so changed to 0 sec.
+94140.95: No debugger information is available.
+94349.98: Load 19 (L_WT) waiting for -0.246593 sec.
+94349.98: The clock can't run backwards, so changed to 0 sec.
+94349.98: No debugger information is available.
+94766.67: Load 6 (L_WT) waiting for -0.59898 sec.
+94766.67: The clock can't run backwards, so changed to 0 sec.
+94766.67: No debugger information is available.
+94816.00: Load 37 (L_WT) waiting for -0.451732 sec.
+94816.00: The clock can't run backwards, so changed to 0 sec.
+94816.00: No debugger information is available.
+94956.09: Load 7 (L_WT) waiting for -0.169769 sec.
+94956.09: The clock can't run backwards, so changed to 0 sec.
+94956.09: No debugger information is available.
+95166.32: Load 7 (L_WT) waiting for -1.08419 sec.
+95166.32: The clock can't run backwards, so changed to 0 sec.
+95166.32: No debugger information is available.
+95218.21: Load 2 (L_WT) waiting for -0.7115 sec.
+95218.21: The clock can't run backwards, so changed to 0 sec.
+95218.21: No debugger information is available.
+95313.04: Load 6 (L_WT) waiting for -0.444644 sec.
+95313.04: The clock can't run backwards, so changed to 0 sec.
+95313.04: No debugger information is available.
+95347.78: Load 38 (L_WT) waiting for -0.289492 sec.
+95347.78: The clock can't run backwards, so changed to 0 sec.
+95347.78: No debugger information is available.
+95670.90: Load 12 (L_WT) waiting for -0.537922 sec.
+95670.90: The clock can't run backwards, so changed to 0 sec.
+95670.90: No debugger information is available.
+95726.92: Load 38 (L_WT) waiting for -0.164099 sec.
+95726.92: The clock can't run backwards, so changed to 0 sec.
+95726.92: No debugger information is available.
+96095.50: Load 30 (L_WT) waiting for -0.843381 sec.
+96095.50: The clock can't run backwards, so changed to 0 sec.
+96095.50: No debugger information is available.
+96728.21: Load 9 (L_WT) waiting for -0.0483183 sec.
+96728.21: The clock can't run backwards, so changed to 0 sec.
+96728.21: No debugger information is available.
+97001.21: Load 23 (L_WT) waiting for -0.0455951 sec.
+97001.21: The clock can't run backwards, so changed to 0 sec.
+97001.21: No debugger information is available.
+97055.82: Load 21 (L_WT) waiting for -0.0578652 sec.
+97055.82: The clock can't run backwards, so changed to 0 sec.
+97055.82: No debugger information is available.
+97059.95: Load 8 (L_WT) waiting for -0.0448324 sec.
+97059.95: The clock can't run backwards, so changed to 0 sec.
+97059.95: No debugger information is available.
+97329.34: Load 13 (L_WT) waiting for -0.0441842 sec.
+97329.34: The clock can't run backwards, so changed to 0 sec.
+97329.34: No debugger information is available.
+97532.60: Load 24 (L_WT) waiting for -0.0723574 sec.
+97532.60: The clock can't run backwards, so changed to 0 sec.
+97532.60: No debugger information is available.
+98204.30: Load 33 (L_WT) waiting for -0.712931 sec.
+98204.30: The clock can't run backwards, so changed to 0 sec.
+98204.30: No debugger information is available.
+98318.70: Load 27 (L_WT) waiting for -0.197839 sec.
+98318.70: The clock can't run backwards, so changed to 0 sec.
+98318.70: No debugger information is available.
+98343.66: Load 3 (L_WT) waiting for -0.125539 sec.
+98343.66: The clock can't run backwards, so changed to 0 sec.
+98343.66: No debugger information is available.
+98527.27: Load 27 (L_WT) waiting for -0.62244 sec.
+98527.27: The clock can't run backwards, so changed to 0 sec.
+98527.27: No debugger information is available.
+98724.18: Load 26 (L_WT) waiting for -0.0959615 sec.
+98724.18: The clock can't run backwards, so changed to 0 sec.
+98724.18: No debugger information is available.
+98749.86: Load 15 (L_WT) waiting for -0.218289 sec.
+98749.86: The clock can't run backwards, so changed to 0 sec.
+98749.86: No debugger information is available.
+98829.50: Load 7 (L_WT) waiting for -0.39136 sec.
+98829.50: The clock can't run backwards, so changed to 0 sec.
+98829.50: No debugger information is available.
+98873.74: Load 20 (L_WT) waiting for -0.254804 sec.
+98873.74: The clock can't run backwards, so changed to 0 sec.
+98873.74: No debugger information is available.
+98878.40: Load 11 (L_WT) waiting for -0.0411033 sec.
+98878.40: The clock can't run backwards, so changed to 0 sec.
+98878.40: No debugger information is available.
+98945.34: Load 17 (L_WT) waiting for -0.0745605 sec.
+98945.34: The clock can't run backwards, so changed to 0 sec.
+98945.34: No debugger information is available.
+98984.59: Load 7 (L_WT) waiting for -0.040844 sec.
+98984.59: The clock can't run backwards, so changed to 0 sec.
+98984.59: No debugger information is available.
+99180.32: Load 19 (L_WT) waiting for -0.126777 sec.
+99180.32: The clock can't run backwards, so changed to 0 sec.
+99180.32: No debugger information is available.
+99536.26: Load 6 (L_WT) waiting for -0.239987 sec.
+99536.26: The clock can't run backwards, so changed to 0 sec.
+99536.26: No debugger information is available.
+100029.71: Load 29 (L_WT) waiting for -0.360074 sec.
+100029.71: The clock can't run backwards, so changed to 0 sec.
+100029.71: No debugger information is available.
+100051.13: Load 4 (L_WT) waiting for -0.028541 sec.
+100051.13: The clock can't run backwards, so changed to 0 sec.
+100051.13: No debugger information is available.
+100345.80: Load 32 (L_WT) waiting for -0.428126 sec.
+100345.80: The clock can't run backwards, so changed to 0 sec.
+100345.80: No debugger information is available.
+100397.41: Load 10 (L_WT) waiting for -0.00180451 sec.
+100397.41: The clock can't run backwards, so changed to 0 sec.
+100397.41: No debugger information is available.
+100815.88: Load 29 (L_WT) waiting for -0.166554 sec.
+100815.88: The clock can't run backwards, so changed to 0 sec.
+100815.88: No debugger information is available.
+101191.52: Load 29 (L_WT) waiting for -0.851986 sec.
+101191.52: The clock can't run backwards, so changed to 0 sec.
+101191.52: No debugger information is available.
+101671.01: Load 26 (L_WT) waiting for -0.415394 sec.
+101671.01: The clock can't run backwards, so changed to 0 sec.
+101671.01: No debugger information is available.
+101875.52: Load 35 (L_WT) waiting for -0.296735 sec.
+101875.52: The clock can't run backwards, so changed to 0 sec.
+101875.52: No debugger information is available.
+102060.96: Load 36 (L_WT) waiting for -0.521521 sec.
+102060.96: The clock can't run backwards, so changed to 0 sec.
+102060.96: No debugger information is available.
+102105.40: Load 41 (L_WT) waiting for -0.526654 sec.
+102105.40: The clock can't run backwards, so changed to 0 sec.
+102105.40: No debugger information is available.
+102154.73: Load 4 (L_WT) waiting for -0.50482 sec.
+102154.73: The clock can't run backwards, so changed to 0 sec.
+102154.73: No debugger information is available.
+102157.43: Load 18 (L_WT) waiting for -0.0497448 sec.
+102157.43: The clock can't run backwards, so changed to 0 sec.
+102157.43: No debugger information is available.
+102917.70: Load 7 (L_WT) waiting for -0.0172181 sec.
+102917.70: The clock can't run backwards, so changed to 0 sec.
+102917.70: No debugger information is available.
+102974.19: Load 12 (L_WT) waiting for -0.444375 sec.
+102974.19: The clock can't run backwards, so changed to 0 sec.
+102974.19: No debugger information is available.
+103049.49: Load 41 (L_WT) waiting for -0.500679 sec.
+103049.49: The clock can't run backwards, so changed to 0 sec.
+103049.49: No debugger information is available.
+103321.01: Load 34 (L_WT) waiting for -0.211515 sec.
+103321.01: The clock can't run backwards, so changed to 0 sec.
+103321.01: No debugger information is available.
+103818.88: Load 30 (L_WT) waiting for -0.108881 sec.
+103818.88: The clock can't run backwards, so changed to 0 sec.
+103818.88: No debugger information is available.
+104230.65: Load 21 (L_WT) waiting for -0.256713 sec.
+104230.65: The clock can't run backwards, so changed to 0 sec.
+104230.65: No debugger information is available.
+104620.82: Load 7 (L_WT) waiting for -0.18678 sec.
+104620.82: The clock can't run backwards, so changed to 0 sec.
+104620.82: No debugger information is available.
+104669.94: Load 13 (L_WT) waiting for -1.66934 sec.
+104669.94: The clock can't run backwards, so changed to 0 sec.
+104669.94: No debugger information is available.
+105048.81: Load 11 (L_WT) waiting for -0.201757 sec.
+105048.81: The clock can't run backwards, so changed to 0 sec.
+105048.81: No debugger information is available.
+105105.43: Load 27 (L_WT) waiting for -0.188835 sec.
+105105.43: The clock can't run backwards, so changed to 0 sec.
+105105.43: No debugger information is available.
+105610.81: Load 2 (L_WT) waiting for -0.933893 sec.
+105610.81: The clock can't run backwards, so changed to 0 sec.
+105610.81: No debugger information is available.
+106410.24: Load 21 (L_WT) waiting for -0.267277 sec.
+106410.24: The clock can't run backwards, so changed to 0 sec.
+106410.24: No debugger information is available.
+106429.73: Load 21 (L_WT) waiting for -0.0270657 sec.
+106429.73: The clock can't run backwards, so changed to 0 sec.
+106429.73: No debugger information is available.
+106646.56: Load 23 (L_WT) waiting for -0.331169 sec.
+106646.56: The clock can't run backwards, so changed to 0 sec.
+106646.56: No debugger information is available.
+106984.51: Load 22 (L_WT) waiting for -0.688746 sec.
+106984.51: The clock can't run backwards, so changed to 0 sec.
+106984.51: No debugger information is available.
+107031.10: Load 23 (L_WT) waiting for -0.369399 sec.
+107031.10: The clock can't run backwards, so changed to 0 sec.
+107031.10: No debugger information is available.
+107161.42: Load 7 (L_WT) waiting for -0.0911934 sec.
+107161.42: The clock can't run backwards, so changed to 0 sec.
+107161.42: No debugger information is available.
+107237.21: Load 23 (L_WT) waiting for -0.375491 sec.
+107237.21: The clock can't run backwards, so changed to 0 sec.
+107237.21: No debugger information is available.
+107239.46: Load 11 (L_WT) waiting for -0.226643 sec.
+107239.46: The clock can't run backwards, so changed to 0 sec.
+107239.46: No debugger information is available.
+108386.67: Load 15 (L_WT) waiting for -0.08248 sec.
+108386.67: The clock can't run backwards, so changed to 0 sec.
+108386.67: No debugger information is available.
+108715.91: Load 9 (L_WT) waiting for -0.67072 sec.
+108715.91: The clock can't run backwards, so changed to 0 sec.
+108715.91: No debugger information is available.
+108753.59: Load 13 (L_WT) waiting for -0.151616 sec.
+108753.59: The clock can't run backwards, so changed to 0 sec.
+108753.59: No debugger information is available.
+108773.72: Load 25 (L_WT) waiting for -0.00278858 sec.
+108773.72: The clock can't run backwards, so changed to 0 sec.
+108773.72: No debugger information is available.
+108872.08: Load 14 (L_WT) waiting for -0.797325 sec.
+108872.08: The clock can't run backwards, so changed to 0 sec.
+108872.08: No debugger information is available.
+109148.37: Load 21 (L_WT) waiting for -0.0124697 sec.
+109148.37: The clock can't run backwards, so changed to 0 sec.
+109148.37: No debugger information is available.
+109526.88: Load 11 (L_WT) waiting for -0.520647 sec.
+109526.88: The clock can't run backwards, so changed to 0 sec.
+109526.88: No debugger information is available.
+109618.10: Load 19 (L_WT) waiting for -0.0774498 sec.
+109618.10: The clock can't run backwards, so changed to 0 sec.
+109618.10: No debugger information is available.
+109976.32: Load 17 (L_WT) waiting for -0.115452 sec.
+109976.32: The clock can't run backwards, so changed to 0 sec.
+109976.32: No debugger information is available.
+109994.42: Load 12 (L_WT) waiting for -0.182075 sec.
+109994.42: The clock can't run backwards, so changed to 0 sec.
+109994.42: No debugger information is available.
+110034.26: Load 2 (L_WT) waiting for -0.0851364 sec.
+110034.26: The clock can't run backwards, so changed to 0 sec.
+110034.26: No debugger information is available.
+110052.57: Load 13 (L_WT) waiting for -0.0612161 sec.
+110052.57: The clock can't run backwards, so changed to 0 sec.
+110052.57: No debugger information is available.
+110184.79: Load 33 (L_WT) waiting for -0.0336337 sec.
+110184.79: The clock can't run backwards, so changed to 0 sec.
+110184.79: No debugger information is available.
+110514.68: Load 27 (L_WT) waiting for -0.569307 sec.
+110514.68: The clock can't run backwards, so changed to 0 sec.
+110514.68: No debugger information is available.
+110693.36: Load 4 (L_WT) waiting for -0.120508 sec.
+110693.36: The clock can't run backwards, so changed to 0 sec.
+110693.36: No debugger information is available.
+111142.19: Load 33 (L_WT) waiting for -0.733265 sec.
+111142.19: The clock can't run backwards, so changed to 0 sec.
+111142.19: No debugger information is available.
+111149.39: Load 35 (L_WT) waiting for -0.506062 sec.
+111149.39: The clock can't run backwards, so changed to 0 sec.
+111149.39: No debugger information is available.
+111580.90: Load 2 (L_WT) waiting for -0.147431 sec.
+111580.90: The clock can't run backwards, so changed to 0 sec.
+111580.90: No debugger information is available.
+111610.87: Load 22 (L_WT) waiting for -0.242414 sec.
+111610.87: The clock can't run backwards, so changed to 0 sec.
+111610.87: No debugger information is available.
+111682.90: Load 33 (L_WT) waiting for -0.994014 sec.
+111682.90: The clock can't run backwards, so changed to 0 sec.
+111682.90: No debugger information is available.
+111919.47: Load 6 (L_WT) waiting for -0.12443 sec.
+111919.47: The clock can't run backwards, so changed to 0 sec.
+111919.47: No debugger information is available.
+112314.87: Load 7 (L_WT) waiting for -0.105196 sec.
+112314.87: The clock can't run backwards, so changed to 0 sec.
+112314.87: No debugger information is available.
+112518.46: Load 26 (L_WT) waiting for -0.398454 sec.
+112518.46: The clock can't run backwards, so changed to 0 sec.
+112518.46: No debugger information is available.
+112950.30: Load 18 (L_WT) waiting for -0.372106 sec.
+112950.30: The clock can't run backwards, so changed to 0 sec.
+112950.30: No debugger information is available.
+113724.30: Load 26 (L_WT) waiting for -0.10646 sec.
+113724.30: The clock can't run backwards, so changed to 0 sec.
+113724.30: No debugger information is available.
+113803.94: Load 6 (L_WT) waiting for -0.211483 sec.
+113803.94: The clock can't run backwards, so changed to 0 sec.
+113803.94: No debugger information is available.
+113962.32: Load 15 (L_WT) waiting for -0.330008 sec.
+113962.32: The clock can't run backwards, so changed to 0 sec.
+113962.32: No debugger information is available.
+114004.09: Load 27 (L_WT) waiting for -0.365531 sec.
+114004.09: The clock can't run backwards, so changed to 0 sec.
+114004.09: No debugger information is available.
+114030.77: Load 12 (L_WT) waiting for -0.289121 sec.
+114030.77: The clock can't run backwards, so changed to 0 sec.
+114030.77: No debugger information is available.
+114070.35: Load 7 (L_WT) waiting for -0.126243 sec.
+114070.35: The clock can't run backwards, so changed to 0 sec.
+114070.35: No debugger information is available.
+114101.77: Load 2 (L_WT) waiting for -0.159121 sec.
+114101.77: The clock can't run backwards, so changed to 0 sec.
+114101.77: No debugger information is available.
+114409.37: Load 17 (L_WT) waiting for -0.197784 sec.
+114409.37: The clock can't run backwards, so changed to 0 sec.
+114409.37: No debugger information is available.
+114437.56: Load 39 (L_WT) waiting for -0.437903 sec.
+114437.56: The clock can't run backwards, so changed to 0 sec.
+114437.56: No debugger information is available.
+114446.37: Load 24 (L_WT) waiting for -0.120046 sec.
+114446.37: The clock can't run backwards, so changed to 0 sec.
+114446.37: No debugger information is available.
+114467.04: Load 35 (L_WT) waiting for -0.0635463 sec.
+114467.04: The clock can't run backwards, so changed to 0 sec.
+114467.04: No debugger information is available.
+114501.03: Load 16 (L_WT) waiting for -0.00812032 sec.
+114501.03: The clock can't run backwards, so changed to 0 sec.
+114501.03: No debugger information is available.
+115057.80: Load 29 (L_WT) waiting for -0.322368 sec.
+115057.80: The clock can't run backwards, so changed to 0 sec.
+115057.80: No debugger information is available.
+115308.98: Load 37 (L_WT) waiting for -0.0298845 sec.
+115308.98: The clock can't run backwards, so changed to 0 sec.
+115308.98: No debugger information is available.
+115452.88: Load 32 (L_WT) waiting for -0.0721542 sec.
+115452.88: The clock can't run backwards, so changed to 0 sec.
+115452.88: No debugger information is available.
+116134.36: Load 40 (L_WT) waiting for -0.179858 sec.
+116134.36: The clock can't run backwards, so changed to 0 sec.
+116134.36: No debugger information is available.
+116599.87: Load 17 (L_WT) waiting for -0.153396 sec.
+116599.87: The clock can't run backwards, so changed to 0 sec.
+116599.87: No debugger information is available.
+116794.13: Load 7 (L_WT) waiting for -0.269867 sec.
+116794.13: The clock can't run backwards, so changed to 0 sec.
+116794.13: No debugger information is available.
+116876.59: Load 13 (L_WT) waiting for -0.254209 sec.
+116876.59: The clock can't run backwards, so changed to 0 sec.
+116876.59: No debugger information is available.
+117463.33: Load 2 (L_WT) waiting for -0.0241824 sec.
+117463.33: The clock can't run backwards, so changed to 0 sec.
+117463.33: No debugger information is available.
+117588.74: Load 35 (L_WT) waiting for -0.212473 sec.
+117588.74: The clock can't run backwards, so changed to 0 sec.
+117588.74: No debugger information is available.
+117725.94: Load 24 (L_WT) waiting for -1.64245 sec.
+117725.94: The clock can't run backwards, so changed to 0 sec.
+117725.94: No debugger information is available.
+117899.41: Load 10 (L_WT) waiting for -0.231725 sec.
+117899.41: The clock can't run backwards, so changed to 0 sec.
+117899.41: No debugger information is available.
+118503.80: Load 31 (L_WT) waiting for -0.148125 sec.
+118503.80: The clock can't run backwards, so changed to 0 sec.
+118503.80: No debugger information is available.
+118584.78: Load 5 (L_WT) waiting for -0.311105 sec.
+118584.78: The clock can't run backwards, so changed to 0 sec.
+118584.78: No debugger information is available.
+118749.18: Load 9 (L_WT) waiting for -0.184305 sec.
+118749.18: The clock can't run backwards, so changed to 0 sec.
+118749.18: No debugger information is available.
+118910.70: Load 8 (L_WT) waiting for -1.33379 sec.
+118910.70: The clock can't run backwards, so changed to 0 sec.
+118910.70: No debugger information is available.
+118953.63: Load 9 (L_WT) waiting for -0.644436 sec.
+118953.63: The clock can't run backwards, so changed to 0 sec.
+118953.63: No debugger information is available.
+119020.45: Load 3 (L_WT) waiting for -0.0934793 sec.
+119020.45: The clock can't run backwards, so changed to 0 sec.
+119020.45: No debugger information is available.
+119318.70: Load 11 (L_WT) waiting for -0.321185 sec.
+119318.70: The clock can't run backwards, so changed to 0 sec.
+119318.70: No debugger information is available.
+119328.42: Load 9 (L_WT) waiting for -0.152599 sec.
+119328.42: The clock can't run backwards, so changed to 0 sec.
+119328.42: No debugger information is available.
+119717.63: Load 28 (L_WT) waiting for -0.956946 sec.
+119717.63: The clock can't run backwards, so changed to 0 sec.
+119717.63: No debugger information is available.
+120047.18: Load 14 (L_WT) waiting for -0.494546 sec.
+120047.18: The clock can't run backwards, so changed to 0 sec.
+120047.18: No debugger information is available.
+120145.04: Load 12 (L_WT) waiting for -0.0431381 sec.
+120145.04: The clock can't run backwards, so changed to 0 sec.
+120145.04: No debugger information is available.
+120162.25: Load 13 (L_WT) waiting for -0.151567 sec.
+120162.25: The clock can't run backwards, so changed to 0 sec.
+120162.25: No debugger information is available.
+120201.28: Load 25 (L_WT) waiting for -0.334085 sec.
+120201.28: The clock can't run backwards, so changed to 0 sec.
+120201.28: No debugger information is available.
+120351.22: Load 12 (L_WT) waiting for -0.280974 sec.
+120351.22: The clock can't run backwards, so changed to 0 sec.
+120351.22: No debugger information is available.
+120644.36: Load 14 (L_WT) waiting for -0.106862 sec.
+120644.36: The clock can't run backwards, so changed to 0 sec.
+120644.36: No debugger information is available.
+120933.62: Load 38 (L_WT) waiting for -0.140841 sec.
+120933.62: The clock can't run backwards, so changed to 0 sec.
+120933.62: No debugger information is available.
+120992.32: Load 35 (L_WT) waiting for -0.996435 sec.
+120992.32: The clock can't run backwards, so changed to 0 sec.
+120992.32: No debugger information is available.
+121151.18: Load 34 (L_WT) waiting for -0.76759 sec.
+121151.18: The clock can't run backwards, so changed to 0 sec.
+121151.18: No debugger information is available.
+121400.61: Load 29 (L_WT) waiting for -0.133503 sec.
+121400.61: The clock can't run backwards, so changed to 0 sec.
+121400.61: No debugger information is available.
+121600.98: Load 20 (L_WT) waiting for -0.241039 sec.
+121600.98: The clock can't run backwards, so changed to 0 sec.
+121600.98: No debugger information is available.
+121601.86: Load 14 (L_WT) waiting for -0.0543662 sec.
+121601.86: The clock can't run backwards, so changed to 0 sec.
+121601.86: No debugger information is available.
+121685.94: Load 30 (L_WT) waiting for -0.635505 sec.
+121685.94: The clock can't run backwards, so changed to 0 sec.
+121685.94: No debugger information is available.
+121716.00: Load 35 (L_WT) waiting for -0.0173096 sec.
+121716.00: The clock can't run backwards, so changed to 0 sec.
+121716.00: No debugger information is available.
+121794.54: Load 22 (L_WT) waiting for -0.813468 sec.
+121794.54: The clock can't run backwards, so changed to 0 sec.
+121794.54: No debugger information is available.
+121938.33: Load 3 (L_WT) waiting for -0.0142491 sec.
+121938.33: The clock can't run backwards, so changed to 0 sec.
+121938.33: No debugger information is available.
+122003.76: Load 22 (L_WT) waiting for -0.141464 sec.
+122003.76: The clock can't run backwards, so changed to 0 sec.
+122003.76: No debugger information is available.
+122019.11: Load 21 (L_WT) waiting for -0.135866 sec.
+122019.11: The clock can't run backwards, so changed to 0 sec.
+122019.11: No debugger information is available.
+122099.86: Load 35 (L_WT) waiting for -0.245328 sec.
+122099.86: The clock can't run backwards, so changed to 0 sec.
+122099.86: No debugger information is available.
+122249.24: Load 8 (L_WT) waiting for -0.278273 sec.
+122249.24: The clock can't run backwards, so changed to 0 sec.
+122249.24: No debugger information is available.
+123183.43: Load 5 (L_WT) waiting for -0.15407 sec.
+123183.43: The clock can't run backwards, so changed to 0 sec.
+123183.43: No debugger information is available.
+123192.47: Load 17 (L_WT) waiting for -0.471125 sec.
+123192.47: The clock can't run backwards, so changed to 0 sec.
+123192.47: No debugger information is available.
+123256.45: Load 39 (L_WT) waiting for -0.24941 sec.
+123256.45: The clock can't run backwards, so changed to 0 sec.
+123256.45: No debugger information is available.
+123308.07: Load 26 (L_WT) waiting for -0.152447 sec.
+123308.07: The clock can't run backwards, so changed to 0 sec.
+123308.07: No debugger information is available.
+123333.65: Load 4 (L_WT) waiting for -0.246382 sec.
+123333.65: The clock can't run backwards, so changed to 0 sec.
+123333.65: No debugger information is available.
+123399.14: Load 17 (L_WT) waiting for -0.161793 sec.
+123399.14: The clock can't run backwards, so changed to 0 sec.
+123399.14: No debugger information is available.
+123529.90: Load 2 (L_WT) waiting for -0.491453 sec.
+123529.90: The clock can't run backwards, so changed to 0 sec.
+123529.90: No debugger information is available.
+123587.30: Load 17 (L_WT) waiting for -0.172976 sec.
+123587.30: The clock can't run backwards, so changed to 0 sec.
+123587.30: No debugger information is available.
+123592.38: Load 18 (L_WT) waiting for -0.677502 sec.
+123592.38: The clock can't run backwards, so changed to 0 sec.
+123592.38: No debugger information is available.
+124030.18: Load 21 (L_WT) waiting for -0.0072313 sec.
+124030.18: The clock can't run backwards, so changed to 0 sec.
+124030.18: No debugger information is available.
+124110.19: Load 28 (L_WT) waiting for -1.14255 sec.
+124110.19: The clock can't run backwards, so changed to 0 sec.
+124110.19: No debugger information is available.
+124160.98: Load 32 (L_WT) waiting for -0.0827886 sec.
+124160.98: The clock can't run backwards, so changed to 0 sec.
+124160.98: No debugger information is available.
+124489.00: Load 20 (L_WT) waiting for -0.235448 sec.
+124489.00: The clock can't run backwards, so changed to 0 sec.
+124489.00: No debugger information is available.
+124898.15: Load 25 (L_WT) waiting for -0.000429503 sec.
+124898.15: The clock can't run backwards, so changed to 0 sec.
+124898.15: No debugger information is available.
+125760.35: Load 22 (L_WT) waiting for -0.345976 sec.
+125760.35: The clock can't run backwards, so changed to 0 sec.
+125760.35: No debugger information is available.
+125768.64: Load 21 (L_WT) waiting for -0.355859 sec.
+125768.64: The clock can't run backwards, so changed to 0 sec.
+125768.64: No debugger information is available.
+126811.26: Load 10 (L_WT) waiting for -0.247957 sec.
+126811.26: The clock can't run backwards, so changed to 0 sec.
+126811.26: No debugger information is available.
+126902.17: Load 38 (L_WT) waiting for -0.22376 sec.
+126902.17: The clock can't run backwards, so changed to 0 sec.
+126902.17: No debugger information is available.
+127117.23: Load 23 (L_WT) waiting for -0.0394939 sec.
+127117.23: The clock can't run backwards, so changed to 0 sec.
+127117.23: No debugger information is available.
+127224.62: Load 5 (L_WT) waiting for -0.0913527 sec.
+127224.62: The clock can't run backwards, so changed to 0 sec.
+127224.62: No debugger information is available.
+127243.61: Load 32 (L_WT) waiting for -0.247303 sec.
+127243.61: The clock can't run backwards, so changed to 0 sec.
+127243.61: No debugger information is available.
+127445.15: Load 24 (L_WT) waiting for -0.0169523 sec.
+127445.15: The clock can't run backwards, so changed to 0 sec.
+127445.15: No debugger information is available.
+127530.71: Load 19 (L_WT) waiting for -0.210564 sec.
+127530.71: The clock can't run backwards, so changed to 0 sec.
+127530.71: No debugger information is available.
+127878.95: Load 33 (L_WT) waiting for -0.204515 sec.
+127878.95: The clock can't run backwards, so changed to 0 sec.
+127878.95: No debugger information is available.
+127901.64: Load 36 (L_WT) waiting for -1.53698 sec.
+127901.64: The clock can't run backwards, so changed to 0 sec.
+127901.64: No debugger information is available.
+128096.16: Load 41 (L_WT) waiting for -0.785289 sec.
+128096.16: The clock can't run backwards, so changed to 0 sec.
+128096.16: No debugger information is available.
+128126.19: Load 39 (L_WT) waiting for -0.115338 sec.
+128126.19: The clock can't run backwards, so changed to 0 sec.
+128126.19: No debugger information is available.
+128189.41: Load 32 (L_WT) waiting for -0.63275 sec.
+128189.41: The clock can't run backwards, so changed to 0 sec.
+128189.41: No debugger information is available.
+128305.53: Load 17 (L_WT) waiting for -0.238594 sec.
+128305.53: The clock can't run backwards, so changed to 0 sec.
+128305.53: No debugger information is available.
+128344.63: Load 28 (L_WT) waiting for -0.44903 sec.
+128344.63: The clock can't run backwards, so changed to 0 sec.
+128344.63: No debugger information is available.
+128373.38: Load 13 (L_WT) waiting for -1.10598 sec.
+128373.38: The clock can't run backwards, so changed to 0 sec.
+128373.38: No debugger information is available.
+128527.47: Load 3 (L_WT) waiting for -0.0505959 sec.
+128527.47: The clock can't run backwards, so changed to 0 sec.
+128527.47: No debugger information is available.
+128835.18: Load 27 (L_WT) waiting for -0.0965999 sec.
+128835.18: The clock can't run backwards, so changed to 0 sec.
+128835.18: No debugger information is available.
+128859.40: Load 22 (L_WT) waiting for -0.282188 sec.
+128859.40: The clock can't run backwards, so changed to 0 sec.
+128859.40: No debugger information is available.
+128860.45: Load 41 (L_WT) waiting for -0.0828121 sec.
+128860.45: The clock can't run backwards, so changed to 0 sec.
+128860.45: No debugger information is available.
+128940.59: Load 32 (L_WT) waiting for -0.144792 sec.
+128940.59: The clock can't run backwards, so changed to 0 sec.
+128940.59: No debugger information is available.
+128957.79: Load 30 (L_WT) waiting for -0.0310669 sec.
+128957.79: The clock can't run backwards, so changed to 0 sec.
+128957.79: No debugger information is available.
+129116.84: Load 10 (L_WT) waiting for -0.086487 sec.
+129116.84: The clock can't run backwards, so changed to 0 sec.
+129116.84: No debugger information is available.
+129198.97: Load 8 (L_WT) waiting for -0.189275 sec.
+129198.97: The clock can't run backwards, so changed to 0 sec.
+129198.97: No debugger information is available.
+129204.40: Load 29 (L_WT) waiting for -0.142786 sec.
+129204.40: The clock can't run backwards, so changed to 0 sec.
+129204.40: No debugger information is available.
+129276.71: Load 4 (L_WT) waiting for -0.330695 sec.
+129276.71: The clock can't run backwards, so changed to 0 sec.
+129276.71: No debugger information is available.
+129389.61: Load 29 (L_WT) waiting for -0.315397 sec.
+129389.61: The clock can't run backwards, so changed to 0 sec.
+129389.61: No debugger information is available.
+129731.25: Load 15 (L_WT) waiting for -0.422114 sec.
+129731.25: The clock can't run backwards, so changed to 0 sec.
+129731.25: No debugger information is available.
+130092.53: Load 28 (L_WT) waiting for -0.225962 sec.
+130092.53: The clock can't run backwards, so changed to 0 sec.
+130092.53: No debugger information is available.
+130226.31: Load 31 (L_WT) waiting for -0.110681 sec.
+130226.31: The clock can't run backwards, so changed to 0 sec.
+130226.31: No debugger information is available.
+130589.49: Load 12 (L_WT) waiting for -0.836279 sec.
+130589.49: The clock can't run backwards, so changed to 0 sec.
+130589.49: No debugger information is available.
+130633.19: Load 21 (L_WT) waiting for -0.746777 sec.
+130633.19: The clock can't run backwards, so changed to 0 sec.
+130633.19: No debugger information is available.
+130684.57: Load 39 (L_WT) waiting for -0.0823307 sec.
+130684.57: The clock can't run backwards, so changed to 0 sec.
+130684.57: No debugger information is available.
+130785.92: Load 41 (L_WT) waiting for -0.533818 sec.
+130785.92: The clock can't run backwards, so changed to 0 sec.
+130785.92: No debugger information is available.
+130841.98: Load 4 (L_WT) waiting for -0.254087 sec.
+130841.98: The clock can't run backwards, so changed to 0 sec.
+130841.98: No debugger information is available.
+131085.13: Load 19 (L_WT) waiting for -0.426156 sec.
+131085.13: The clock can't run backwards, so changed to 0 sec.
+131085.13: No debugger information is available.
+131121.83: Load 16 (L_WT) waiting for -0.24466 sec.
+131121.83: The clock can't run backwards, so changed to 0 sec.
+131121.83: No debugger information is available.
+131213.18: Load 9 (L_WT) waiting for -0.176613 sec.
+131213.18: The clock can't run backwards, so changed to 0 sec.
+131213.18: No debugger information is available.
+131261.30: Load 17 (L_WT) waiting for -0.0331771 sec.
+131261.30: The clock can't run backwards, so changed to 0 sec.
+131261.30: No debugger information is available.
+131607.50: Load 4 (L_WT) waiting for -0.560486 sec.
+131607.50: The clock can't run backwards, so changed to 0 sec.
+131607.50: No debugger information is available.
+132710.14: Load 15 (L_WT) waiting for -0.0655809 sec.
+132710.14: The clock can't run backwards, so changed to 0 sec.
+132710.14: No debugger information is available.
+132758.36: Load 21 (L_WT) waiting for -0.0659171 sec.
+132758.36: The clock can't run backwards, so changed to 0 sec.
+132758.36: No debugger information is available.
+132773.01: Load 31 (L_WT) waiting for -0.116485 sec.
+132773.01: The clock can't run backwards, so changed to 0 sec.
+132773.01: No debugger information is available.
+133467.82: Load 39 (L_WT) waiting for -0.535199 sec.
+133467.82: The clock can't run backwards, so changed to 0 sec.
+133467.82: No debugger information is available.
+133499.06: Load 40 (L_WT) waiting for -0.16466 sec.
+133499.06: The clock can't run backwards, so changed to 0 sec.
+133499.06: No debugger information is available.
+133760.79: Load 14 (L_WT) waiting for -0.114907 sec.
+133760.79: The clock can't run backwards, so changed to 0 sec.
+133760.79: No debugger information is available.
+134021.08: Load 25 (L_WT) waiting for -0.26277 sec.
+134021.08: The clock can't run backwards, so changed to 0 sec.
+134021.08: No debugger information is available.
+134085.36: Load 35 (L_WT) waiting for -0.102837 sec.
+134085.36: The clock can't run backwards, so changed to 0 sec.
+134085.36: No debugger information is available.
+134089.80: Load 26 (L_WT) waiting for -0.708461 sec.
+134089.80: The clock can't run backwards, so changed to 0 sec.
+134089.80: No debugger information is available.
+134153.51: Load 14 (L_WT) waiting for -0.491122 sec.
+134153.51: The clock can't run backwards, so changed to 0 sec.
+134153.51: No debugger information is available.
+134335.47: Load 11 (L_WT) waiting for -0.123592 sec.
+134335.47: The clock can't run backwards, so changed to 0 sec.
+134335.47: No debugger information is available.
+134360.93: Load 28 (L_WT) waiting for -0.251894 sec.
+134360.93: The clock can't run backwards, so changed to 0 sec.
+134360.93: No debugger information is available.
+134475.32: Load 23 (L_WT) waiting for -0.0810797 sec.
+134475.32: The clock can't run backwards, so changed to 0 sec.
+134475.32: No debugger information is available.
+134582.55: Load 16 (L_WT) waiting for -0.920918 sec.
+134582.55: The clock can't run backwards, so changed to 0 sec.
+134582.55: No debugger information is available.
+134751.75: Load 30 (L_WT) waiting for -0.632015 sec.
+134751.75: The clock can't run backwards, so changed to 0 sec.
+134751.75: No debugger information is available.
+134773.64: Load 36 (L_WT) waiting for -0.0785859 sec.
+134773.64: The clock can't run backwards, so changed to 0 sec.
+134773.64: No debugger information is available.
+134778.26: Load 5 (L_WT) waiting for -0.24047 sec.
+134778.26: The clock can't run backwards, so changed to 0 sec.
+134778.26: No debugger information is available.
+135118.13: Load 30 (L_WT) waiting for -0.427031 sec.
+135118.13: The clock can't run backwards, so changed to 0 sec.
+135118.13: No debugger information is available.
+135415.09: Load 37 (L_WT) waiting for -0.570585 sec.
+135415.09: The clock can't run backwards, so changed to 0 sec.
+135415.09: No debugger information is available.
+135838.24: Load 26 (L_WT) waiting for -0.169533 sec.
+135838.24: The clock can't run backwards, so changed to 0 sec.
+135838.24: No debugger information is available.
+136064.35: Load 13 (L_WT) waiting for -0.412952 sec.
+136064.35: The clock can't run backwards, so changed to 0 sec.
+136064.35: No debugger information is available.
+136651.35: Load 13 (L_WT) waiting for -0.704357 sec.
+136651.35: The clock can't run backwards, so changed to 0 sec.
+136651.35: No debugger information is available.
+136909.98: Load 39 (L_WT) waiting for -0.17312 sec.
+136909.98: The clock can't run backwards, so changed to 0 sec.
+136909.98: No debugger information is available.
+137573.24: Load 3 (L_WT) waiting for -0.362667 sec.
+137573.24: The clock can't run backwards, so changed to 0 sec.
+137573.24: No debugger information is available.
+137585.75: Load 19 (L_WT) waiting for -0.171003 sec.
+137585.75: The clock can't run backwards, so changed to 0 sec.
+137585.75: No debugger information is available.
+137962.73: Load 11 (L_WT) waiting for -0.307506 sec.
+137962.73: The clock can't run backwards, so changed to 0 sec.
+137962.73: No debugger information is available.
+138280.22: Load 32 (L_WT) waiting for -0.543357 sec.
+138280.22: The clock can't run backwards, so changed to 0 sec.
+138280.22: No debugger information is available.
+138702.13: Load 19 (L_WT) waiting for -0.00789909 sec.
+138702.13: The clock can't run backwards, so changed to 0 sec.
+138702.13: No debugger information is available.
+138755.21: Load 35 (L_WT) waiting for -0.868455 sec.
+138755.21: The clock can't run backwards, so changed to 0 sec.
+138755.21: No debugger information is available.
+138794.89: Load 9 (L_WT) waiting for -0.0150276 sec.
+138794.89: The clock can't run backwards, so changed to 0 sec.
+138794.89: No debugger information is available.
+139248.30: Load 16 (L_WT) waiting for -0.320332 sec.
+139248.30: The clock can't run backwards, so changed to 0 sec.
+139248.30: No debugger information is available.
+139299.66: Load 24 (L_WT) waiting for -0.907437 sec.
+139299.66: The clock can't run backwards, so changed to 0 sec.
+139299.66: No debugger information is available.
+139536.73: Load 5 (L_WT) waiting for -0.0684055 sec.
+139536.73: The clock can't run backwards, so changed to 0 sec.
+139536.73: No debugger information is available.
+139594.32: Load 37 (L_WT) waiting for -0.371632 sec.
+139594.32: The clock can't run backwards, so changed to 0 sec.
+139594.32: No debugger information is available.
+139678.75: Load 14 (L_WT) waiting for -0.203299 sec.
+139678.75: The clock can't run backwards, so changed to 0 sec.
+139678.75: No debugger information is available.
+139780.60: Load 10 (L_WT) waiting for -0.0987832 sec.
+139780.60: The clock can't run backwards, so changed to 0 sec.
+139780.60: No debugger information is available.
+140018.51: Load 7 (L_WT) waiting for -0.660555 sec.
+140018.51: The clock can't run backwards, so changed to 0 sec.
+140018.51: No debugger information is available.
+140125.51: Load 12 (L_WT) waiting for -0.624543 sec.
+140125.51: The clock can't run backwards, so changed to 0 sec.
+140125.51: No debugger information is available.
+140165.05: Load 39 (L_WT) waiting for -0.0435058 sec.
+140165.05: The clock can't run backwards, so changed to 0 sec.
+140165.05: No debugger information is available.
+140263.94: Load 35 (L_WT) waiting for -0.894122 sec.
+140263.94: The clock can't run backwards, so changed to 0 sec.
+140263.94: No debugger information is available.
+140481.69: Load 31 (L_WT) waiting for -0.21153 sec.
+140481.69: The clock can't run backwards, so changed to 0 sec.
+140481.69: No debugger information is available.
+141242.65: Load 3 (L_WT) waiting for -0.45051 sec.
+141242.65: The clock can't run backwards, so changed to 0 sec.
+141242.65: No debugger information is available.
+141273.20: Load 30 (L_WT) waiting for -0.249972 sec.
+141273.20: The clock can't run backwards, so changed to 0 sec.
+141273.20: No debugger information is available.
+141396.48: Load 33 (L_WT) waiting for -0.612203 sec.
+141396.48: The clock can't run backwards, so changed to 0 sec.
+141396.48: No debugger information is available.
+141525.73: Load 37 (L_WT) waiting for -0.243122 sec.
+141525.73: The clock can't run backwards, so changed to 0 sec.
+141525.73: No debugger information is available.
+141579.55: Load 8 (L_WT) waiting for -1.01998 sec.
+141579.55: The clock can't run backwards, so changed to 0 sec.
+141579.55: No debugger information is available.
+141689.01: Load 4 (L_WT) waiting for -0.270776 sec.
+141689.01: The clock can't run backwards, so changed to 0 sec.
+141689.01: No debugger information is available.
+141873.51: Load 40 (L_WT) waiting for -0.136304 sec.
+141873.51: The clock can't run backwards, so changed to 0 sec.
+141873.51: No debugger information is available.
+142045.68: Load 21 (L_WT) waiting for -0.27736 sec.
+142045.68: The clock can't run backwards, so changed to 0 sec.
+142045.68: No debugger information is available.
+142095.18: Load 10 (L_WT) waiting for -1.58386 sec.
+142095.18: The clock can't run backwards, so changed to 0 sec.
+142095.18: No debugger information is available.
+142185.98: Load 3 (L_WT) waiting for -0.16839 sec.
+142185.98: The clock can't run backwards, so changed to 0 sec.
+142185.98: No debugger information is available.
+142307.15: Load 17 (L_WT) waiting for -0.71422 sec.
+142307.15: The clock can't run backwards, so changed to 0 sec.
+142307.15: No debugger information is available.
+142522.69: Load 39 (L_WT) waiting for -0.284017 sec.
+142522.69: The clock can't run backwards, so changed to 0 sec.
+142522.69: No debugger information is available.
+142600.57: Load 16 (L_WT) waiting for -0.597919 sec.
+142600.57: The clock can't run backwards, so changed to 0 sec.
+142600.57: No debugger information is available.
+142622.74: Load 11 (L_WT) waiting for -1.30321 sec.
+142622.74: The clock can't run backwards, so changed to 0 sec.
+142622.74: No debugger information is available.
+142748.54: Load 37 (L_WT) waiting for -0.667997 sec.
+142748.54: The clock can't run backwards, so changed to 0 sec.
+142748.54: No debugger information is available.
+143010.05: Load 29 (L_WT) waiting for -0.642979 sec.
+143010.05: The clock can't run backwards, so changed to 0 sec.
+143010.05: No debugger information is available.
+143171.33: Load 29 (L_WT) waiting for -0.156005 sec.
+143171.33: The clock can't run backwards, so changed to 0 sec.
+143171.33: No debugger information is available.
+143643.58: Load 9 (L_WT) waiting for -0.168812 sec.
+143643.58: The clock can't run backwards, so changed to 0 sec.
+143643.58: No debugger information is available.
+144390.78: Load 41 (L_WT) waiting for -0.0098156 sec.
+144390.78: The clock can't run backwards, so changed to 0 sec.
+144390.78: No debugger information is available.
+144792.88: Load 41 (L_WT) waiting for -0.221146 sec.
+144792.88: The clock can't run backwards, so changed to 0 sec.
+144792.88: No debugger information is available.
+144815.23: Load 4 (L_WT) waiting for -0.568291 sec.
+144815.23: The clock can't run backwards, so changed to 0 sec.
+144815.23: No debugger information is available.
+145256.84: Load 10 (L_WT) waiting for -0.594023 sec.
+145256.84: The clock can't run backwards, so changed to 0 sec.
+145256.84: No debugger information is available.
+145292.68: Load 7 (L_WT) waiting for -0.207451 sec.
+145292.68: The clock can't run backwards, so changed to 0 sec.
+145292.68: No debugger information is available.
+145597.08: Load 23 (L_WT) waiting for -0.0663665 sec.
+145597.08: The clock can't run backwards, so changed to 0 sec.
+145597.08: No debugger information is available.
+145838.27: Load 5 (L_WT) waiting for -0.548761 sec.
+145838.27: The clock can't run backwards, so changed to 0 sec.
+145838.27: No debugger information is available.
+145870.18: Load 34 (L_WT) waiting for -0.306863 sec.
+145870.18: The clock can't run backwards, so changed to 0 sec.
+145870.18: No debugger information is available.
+145916.55: Load 38 (L_WT) waiting for -0.490931 sec.
+145916.55: The clock can't run backwards, so changed to 0 sec.
+145916.55: No debugger information is available.
+146158.59: Load 35 (L_WT) waiting for -0.0701042 sec.
+146158.59: The clock can't run backwards, so changed to 0 sec.
+146158.59: No debugger information is available.
+147017.49: Load 17 (L_WT) waiting for -0.814334 sec.
+147017.49: The clock can't run backwards, so changed to 0 sec.
+147017.49: No debugger information is available.
+147053.01: Load 21 (L_WT) waiting for -0.0308324 sec.
+147053.01: The clock can't run backwards, so changed to 0 sec.
+147053.01: No debugger information is available.
+147337.15: Load 35 (L_WT) waiting for -0.187853 sec.
+147337.15: The clock can't run backwards, so changed to 0 sec.
+147337.15: No debugger information is available.
+147674.19: Load 14 (L_WT) waiting for -0.020373 sec.
+147674.19: The clock can't run backwards, so changed to 0 sec.
+147674.19: No debugger information is available.
+147763.51: Load 7 (L_WT) waiting for -0.238734 sec.
+147763.51: The clock can't run backwards, so changed to 0 sec.
+147763.51: No debugger information is available.
+147824.16: Load 34 (L_WT) waiting for -0.253769 sec.
+147824.16: The clock can't run backwards, so changed to 0 sec.
+147824.16: No debugger information is available.
+148081.18: Load 39 (L_WT) waiting for -0.195203 sec.
+148081.18: The clock can't run backwards, so changed to 0 sec.
+148081.18: No debugger information is available.
+148585.93: Load 30 (L_WT) waiting for -0.113817 sec.
+148585.93: The clock can't run backwards, so changed to 0 sec.
+148585.93: No debugger information is available.
+148608.45: Load 11 (L_WT) waiting for -0.105218 sec.
+148608.45: The clock can't run backwards, so changed to 0 sec.
+148608.45: No debugger information is available.
+148839.46: Load 38 (L_WT) waiting for -0.795398 sec.
+148839.46: The clock can't run backwards, so changed to 0 sec.
+148839.46: No debugger information is available.
+148899.32: Load 23 (L_WT) waiting for -0.219667 sec.
+148899.32: The clock can't run backwards, so changed to 0 sec.
+148899.32: No debugger information is available.
+148961.05: Load 10 (L_WT) waiting for -0.499429 sec.
+148961.05: The clock can't run backwards, so changed to 0 sec.
+148961.05: No debugger information is available.
+149091.05: Load 26 (L_WT) waiting for -0.00408215 sec.
+149091.05: The clock can't run backwards, so changed to 0 sec.
+149091.05: No debugger information is available.
+149517.65: Load 21 (L_WT) waiting for -0.341073 sec.
+149517.65: The clock can't run backwards, so changed to 0 sec.
+149517.65: No debugger information is available.
+149849.93: Load 25 (L_WT) waiting for -1.18056 sec.
+149849.93: The clock can't run backwards, so changed to 0 sec.
+149849.93: No debugger information is available.
+149949.88: Load 7 (L_WT) waiting for -0.854609 sec.
+149949.88: The clock can't run backwards, so changed to 0 sec.
+149949.88: No debugger information is available.
+150417.08: Load 39 (L_WT) waiting for -0.277096 sec.
+150417.08: The clock can't run backwards, so changed to 0 sec.
+150417.08: No debugger information is available.
+150543.39: Load 5 (L_WT) waiting for -0.119853 sec.
+150543.39: The clock can't run backwards, so changed to 0 sec.
+150543.39: No debugger information is available.
+150583.59: Load 31 (L_WT) waiting for -0.803187 sec.
+150583.59: The clock can't run backwards, so changed to 0 sec.
+150583.59: No debugger information is available.
+150611.56: Load 3 (L_WT) waiting for -0.139752 sec.
+150611.56: The clock can't run backwards, so changed to 0 sec.
+150611.56: No debugger information is available.
+150962.25: Load 37 (L_WT) waiting for -0.100617 sec.
+150962.25: The clock can't run backwards, so changed to 0 sec.
+150962.25: No debugger information is available.
+151427.73: Load 16 (L_WT) waiting for -0.262412 sec.
+151427.73: The clock can't run backwards, so changed to 0 sec.
+151427.73: No debugger information is available.
+152357.50: Load 5 (L_WT) waiting for -0.556666 sec.
+152357.50: The clock can't run backwards, so changed to 0 sec.
+152357.50: No debugger information is available.
+152422.28: Load 8 (L_WT) waiting for -0.515502 sec.
+152422.28: The clock can't run backwards, so changed to 0 sec.
+152422.28: No debugger information is available.
+152543.01: Load 39 (L_WT) waiting for -0.0300635 sec.
+152543.01: The clock can't run backwards, so changed to 0 sec.
+152543.01: No debugger information is available.
+152917.47: Load 36 (L_WT) waiting for -0.433581 sec.
+152917.47: The clock can't run backwards, so changed to 0 sec.
+152917.47: No debugger information is available.
+152992.61: Load 18 (L_WT) waiting for -0.10559 sec.
+152992.61: The clock can't run backwards, so changed to 0 sec.
+152992.61: No debugger information is available.
+153562.19: Load 8 (L_WT) waiting for -0.83068 sec.
+153562.19: The clock can't run backwards, so changed to 0 sec.
+153562.19: No debugger information is available.
+153604.69: Load 25 (L_WT) waiting for -0.0198026 sec.
+153604.69: The clock can't run backwards, so changed to 0 sec.
+153604.69: No debugger information is available.
+153692.62: Load 37 (L_WT) waiting for -0.420806 sec.
+153692.62: The clock can't run backwards, so changed to 0 sec.
+153692.62: No debugger information is available.
+153693.61: Load 21 (L_WT) waiting for -0.56346 sec.
+153693.61: The clock can't run backwards, so changed to 0 sec.
+153693.61: No debugger information is available.
+153731.15: Load 38 (L_WT) waiting for -0.065358 sec.
+153731.15: The clock can't run backwards, so changed to 0 sec.
+153731.15: No debugger information is available.
+153843.53: Load 9 (L_WT) waiting for -2.42275 sec.
+153843.53: The clock can't run backwards, so changed to 0 sec.
+153843.53: No debugger information is available.
+153863.32: Load 36 (L_WT) waiting for -0.417421 sec.
+153863.32: The clock can't run backwards, so changed to 0 sec.
+153863.32: No debugger information is available.
+154024.18: Load 4 (L_WT) waiting for -0.0349362 sec.
+154024.18: The clock can't run backwards, so changed to 0 sec.
+154024.18: No debugger information is available.
+154184.95: Load 41 (L_WT) waiting for -0.498474 sec.
+154184.95: The clock can't run backwards, so changed to 0 sec.
+154184.95: No debugger information is available.
+154390.76: Load 6 (L_WT) waiting for -0.0789826 sec.
+154390.76: The clock can't run backwards, so changed to 0 sec.
+154390.76: No debugger information is available.
+154833.86: Load 23 (L_WT) waiting for -0.627839 sec.
+154833.86: The clock can't run backwards, so changed to 0 sec.
+154833.86: No debugger information is available.
+155072.45: Load 5 (L_WT) waiting for -0.00709562 sec.
+155072.45: The clock can't run backwards, so changed to 0 sec.
+155072.45: No debugger information is available.
+155257.37: Load 26 (L_WT) waiting for -0.0831949 sec.
+155257.37: The clock can't run backwards, so changed to 0 sec.
+155257.37: No debugger information is available.
+155344.13: Load 9 (L_WT) waiting for -0.0775713 sec.
+155344.13: The clock can't run backwards, so changed to 0 sec.
+155344.13: No debugger information is available.
+155554.16: Load 30 (L_WT) waiting for -0.0868366 sec.
+155554.16: The clock can't run backwards, so changed to 0 sec.
+155554.16: No debugger information is available.
+155793.95: Load 3 (L_WT) waiting for -0.0415289 sec.
+155793.95: The clock can't run backwards, so changed to 0 sec.
+155793.95: No debugger information is available.
+155845.54: Load 24 (L_WT) waiting for -0.639525 sec.
+155845.54: The clock can't run backwards, so changed to 0 sec.
+155845.54: No debugger information is available.
+155923.98: Load 18 (L_WT) waiting for -0.00836926 sec.
+155923.98: The clock can't run backwards, so changed to 0 sec.
+155923.98: No debugger information is available.
+156226.54: Load 37 (L_WT) waiting for -0.208152 sec.
+156226.54: The clock can't run backwards, so changed to 0 sec.
+156226.54: No debugger information is available.
+156291.40: Load 16 (L_WT) waiting for -0.0704718 sec.
+156291.40: The clock can't run backwards, so changed to 0 sec.
+156291.40: No debugger information is available.
+156859.45: Load 4 (L_WT) waiting for -0.0833395 sec.
+156859.45: The clock can't run backwards, so changed to 0 sec.
+156859.45: No debugger information is available.
+156936.03: Load 27 (L_WT) waiting for -0.102301 sec.
+156936.03: The clock can't run backwards, so changed to 0 sec.
+156936.03: No debugger information is available.
+157372.64: Load 31 (L_WT) waiting for -0.00225084 sec.
+157372.64: The clock can't run backwards, so changed to 0 sec.
+157372.64: No debugger information is available.
+157619.54: Load 16 (L_WT) waiting for -1.27766 sec.
+157619.54: The clock can't run backwards, so changed to 0 sec.
+157619.54: No debugger information is available.
+157646.43: Load 34 (L_WT) waiting for -0.244786 sec.
+157646.43: The clock can't run backwards, so changed to 0 sec.
+157646.43: No debugger information is available.
+157853.52: Load 18 (L_WT) waiting for -0.133251 sec.
+157853.52: The clock can't run backwards, so changed to 0 sec.
+157853.52: No debugger information is available.
+157862.48: Load 35 (L_WT) waiting for -0.0671029 sec.
+157862.48: The clock can't run backwards, so changed to 0 sec.
+157862.48: No debugger information is available.
+158187.37: Load 11 (L_WT) waiting for -0.038721 sec.
+158187.37: The clock can't run backwards, so changed to 0 sec.
+158187.37: No debugger information is available.
+158322.25: Load 3 (L_WT) waiting for -0.137892 sec.
+158322.25: The clock can't run backwards, so changed to 0 sec.
+158322.25: No debugger information is available.
+158358.69: Load 31 (L_WT) waiting for -0.271023 sec.
+158358.69: The clock can't run backwards, so changed to 0 sec.
+158358.69: No debugger information is available.
+158471.30: Load 30 (L_WT) waiting for -0.0457401 sec.
+158471.30: The clock can't run backwards, so changed to 0 sec.
+158471.30: No debugger information is available.
+158506.31: Load 17 (L_WT) waiting for -0.0641099 sec.
+158506.31: The clock can't run backwards, so changed to 0 sec.
+158506.31: No debugger information is available.
+158707.42: Load 19 (L_WT) waiting for -0.068248 sec.
+158707.42: The clock can't run backwards, so changed to 0 sec.
+158707.42: No debugger information is available.
+158910.56: Load 19 (L_WT) waiting for -0.030601 sec.
+158910.56: The clock can't run backwards, so changed to 0 sec.
+158910.56: No debugger information is available.
+159861.75: Load 15 (L_WT) waiting for -0.499194 sec.
+159861.75: The clock can't run backwards, so changed to 0 sec.
+159861.75: No debugger information is available.
+159975.04: Load 13 (L_WT) waiting for -0.199354 sec.
+159975.04: The clock can't run backwards, so changed to 0 sec.
+159975.04: No debugger information is available.
+160187.77: Load 2 (L_WT) waiting for -1.47819 sec.
+160187.77: The clock can't run backwards, so changed to 0 sec.
+160187.77: No debugger information is available.
+160334.12: Load 26 (L_WT) waiting for -0.0026521 sec.
+160334.12: The clock can't run backwards, so changed to 0 sec.
+160334.12: No debugger information is available.
+160383.55: Load 35 (L_WT) waiting for -0.093341 sec.
+160383.55: The clock can't run backwards, so changed to 0 sec.
+160383.55: No debugger information is available.
+160500.74: Load 41 (L_WT) waiting for -1.87822 sec.
+160500.74: The clock can't run backwards, so changed to 0 sec.
+160500.74: No debugger information is available.
+160741.69: Load 35 (L_WT) waiting for -0.101263 sec.
+160741.69: The clock can't run backwards, so changed to 0 sec.
+160741.69: No debugger information is available.
+161024.70: Load 17 (L_WT) waiting for -0.425212 sec.
+161024.70: The clock can't run backwards, so changed to 0 sec.
+161024.70: No debugger information is available.
+161071.89: Load 7 (L_WT) waiting for -0.473751 sec.
+161071.89: The clock can't run backwards, so changed to 0 sec.
+161071.89: No debugger information is available.
+161552.41: Load 5 (L_WT) waiting for -0.32538 sec.
+161552.41: The clock can't run backwards, so changed to 0 sec.
+161552.41: No debugger information is available.
+161671.94: Load 37 (L_WT) waiting for -0.206746 sec.
+161671.94: The clock can't run backwards, so changed to 0 sec.
+161671.94: No debugger information is available.
+161869.45: Load 37 (L_WT) waiting for -0.809588 sec.
+161869.45: The clock can't run backwards, so changed to 0 sec.
+161869.45: No debugger information is available.
+162271.78: Load 38 (L_WT) waiting for -0.0988466 sec.
+162271.78: The clock can't run backwards, so changed to 0 sec.
+162271.78: No debugger information is available.
+162450.12: Load 36 (L_WT) waiting for -1.01364 sec.
+162450.12: The clock can't run backwards, so changed to 0 sec.
+162450.12: No debugger information is available.
+162558.75: Load 3 (L_WT) waiting for -1.27329 sec.
+162558.75: The clock can't run backwards, so changed to 0 sec.
+162558.75: No debugger information is available.
+162751.16: Load 5 (L_WT) waiting for -0.0798697 sec.
+162751.16: The clock can't run backwards, so changed to 0 sec.
+162751.16: No debugger information is available.
+162856.02: Load 18 (L_WT) waiting for -0.661188 sec.
+162856.02: The clock can't run backwards, so changed to 0 sec.
+162856.02: No debugger information is available.
+163012.15: Load 19 (L_WT) waiting for -0.0380196 sec.
+163012.15: The clock can't run backwards, so changed to 0 sec.
+163012.15: No debugger information is available.
+163129.06: Load 41 (L_WT) waiting for -0.104468 sec.
+163129.06: The clock can't run backwards, so changed to 0 sec.
+163129.06: No debugger information is available.
+163281.70: Load 22 (L_WT) waiting for -0.581703 sec.
+163281.70: The clock can't run backwards, so changed to 0 sec.
+163281.70: No debugger information is available.
+163389.18: Load 35 (L_WT) waiting for -0.37011 sec.
+163389.18: The clock can't run backwards, so changed to 0 sec.
+163389.18: No debugger information is available.
+163464.65: Load 14 (L_WT) waiting for -0.390607 sec.
+163464.65: The clock can't run backwards, so changed to 0 sec.
+163464.65: No debugger information is available.
+163711.64: Load 6 (L_WT) waiting for -0.610939 sec.
+163711.64: The clock can't run backwards, so changed to 0 sec.
+163711.64: No debugger information is available.
+164284.03: Load 12 (L_WT) waiting for -0.201296 sec.
+164284.03: The clock can't run backwards, so changed to 0 sec.
+164284.03: No debugger information is available.
+164289.18: Load 34 (L_WT) waiting for -0.0149374 sec.
+164289.18: The clock can't run backwards, so changed to 0 sec.
+164289.18: No debugger information is available.
+164436.05: Load 28 (L_WT) waiting for -0.373729 sec.
+164436.05: The clock can't run backwards, so changed to 0 sec.
+164436.05: No debugger information is available.
+165069.03: Load 7 (L_WT) waiting for -0.13096 sec.
+165069.03: The clock can't run backwards, so changed to 0 sec.
+165069.03: No debugger information is available.
+165194.10: Load 18 (L_WT) waiting for -0.319002 sec.
+165194.10: The clock can't run backwards, so changed to 0 sec.
+165194.10: No debugger information is available.
+165343.26: Load 36 (L_WT) waiting for -0.707756 sec.
+165343.26: The clock can't run backwards, so changed to 0 sec.
+165343.26: No debugger information is available.
+165404.21: Load 15 (L_WT) waiting for -0.515758 sec.
+165404.21: The clock can't run backwards, so changed to 0 sec.
+165404.21: No debugger information is available.
+165439.83: Load 10 (L_WT) waiting for -0.358125 sec.
+165439.83: The clock can't run backwards, so changed to 0 sec.
+165439.83: No debugger information is available.
+165440.89: Load 7 (L_WT) waiting for -0.213574 sec.
+165440.89: The clock can't run backwards, so changed to 0 sec.
+165440.89: No debugger information is available.
+165713.27: Load 27 (L_WT) waiting for -0.192055 sec.
+165713.27: The clock can't run backwards, so changed to 0 sec.
+165713.27: No debugger information is available.
+165738.42: Load 15 (L_WT) waiting for -0.16615 sec.
+165738.42: The clock can't run backwards, so changed to 0 sec.
+165738.42: No debugger information is available.
+165933.36: Load 21 (L_WT) waiting for -0.0563715 sec.
+165933.36: The clock can't run backwards, so changed to 0 sec.
+165933.36: No debugger information is available.
+166183.74: Load 37 (L_WT) waiting for -0.293014 sec.
+166183.74: The clock can't run backwards, so changed to 0 sec.
+166183.74: No debugger information is available.
+166410.50: Load 38 (L_WT) waiting for -0.888126 sec.
+166410.50: The clock can't run backwards, so changed to 0 sec.
+166410.50: No debugger information is available.
+166417.92: Load 38 (L_WT) waiting for -1.53784 sec.
+166417.92: The clock can't run backwards, so changed to 0 sec.
+166417.92: No debugger information is available.
+166701.77: Load 22 (L_WT) waiting for -0.15108 sec.
+166701.77: The clock can't run backwards, so changed to 0 sec.
+166701.77: No debugger information is available.
+166885.56: Load 36 (L_WT) waiting for -0.127433 sec.
+166885.56: The clock can't run backwards, so changed to 0 sec.
+166885.56: No debugger information is available.
+166916.21: Load 33 (L_WT) waiting for -0.540875 sec.
+166916.21: The clock can't run backwards, so changed to 0 sec.
+166916.21: No debugger information is available.
+167123.17: Load 21 (L_WT) waiting for -0.160088 sec.
+167123.17: The clock can't run backwards, so changed to 0 sec.
+167123.17: No debugger information is available.
+167268.33: Load 19 (L_WT) waiting for -0.0382792 sec.
+167268.33: The clock can't run backwards, so changed to 0 sec.
+167268.33: No debugger information is available.
+168007.34: Load 26 (L_WT) waiting for -0.17419 sec.
+168007.34: The clock can't run backwards, so changed to 0 sec.
+168007.34: No debugger information is available.
+168483.81: Load 15 (L_WT) waiting for -0.387731 sec.
+168483.81: The clock can't run backwards, so changed to 0 sec.
+168483.81: No debugger information is available.
+168557.73: Load 29 (L_WT) waiting for -0.237337 sec.
+168557.73: The clock can't run backwards, so changed to 0 sec.
+168557.73: No debugger information is available.
+169133.02: Load 14 (L_WT) waiting for -0.890353 sec.
+169133.02: The clock can't run backwards, so changed to 0 sec.
+169133.02: No debugger information is available.
+169241.28: Load 21 (L_WT) waiting for -0.11197 sec.
+169241.28: The clock can't run backwards, so changed to 0 sec.
+169241.28: No debugger information is available.
+169347.80: Load 6 (L_WT) waiting for -0.321616 sec.
+169347.80: The clock can't run backwards, so changed to 0 sec.
+169347.80: No debugger information is available.
+169766.63: Load 35 (L_WT) waiting for -0.0813374 sec.
+169766.63: The clock can't run backwards, so changed to 0 sec.
+169766.63: No debugger information is available.
+170015.49: Load 17 (L_WT) waiting for -0.0889643 sec.
+170015.49: The clock can't run backwards, so changed to 0 sec.
+170015.49: No debugger information is available.
+170195.75: Load 35 (L_WT) waiting for -0.731269 sec.
+170195.75: The clock can't run backwards, so changed to 0 sec.
+170195.75: No debugger information is available.
+170808.00: Load 38 (L_WT) waiting for -0.136778 sec.
+170808.00: The clock can't run backwards, so changed to 0 sec.
+170808.00: No debugger information is available.
+170832.68: Load 10 (L_WT) waiting for -1.19576 sec.
+170832.68: The clock can't run backwards, so changed to 0 sec.
+170832.68: No debugger information is available.
+170863.69: Load 20 (L_WT) waiting for -0.229311 sec.
+170863.69: The clock can't run backwards, so changed to 0 sec.
+170863.69: No debugger information is available.
+170889.06: Load 11 (L_WT) waiting for -0.0824202 sec.
+170889.06: The clock can't run backwards, so changed to 0 sec.
+170889.06: No debugger information is available.
+170956.65: Load 17 (L_WT) waiting for -0.797413 sec.
+170956.65: The clock can't run backwards, so changed to 0 sec.
+170956.65: No debugger information is available.
+171025.21: Load 18 (L_WT) waiting for -0.0764298 sec.
+171025.21: The clock can't run backwards, so changed to 0 sec.
+171025.21: No debugger information is available.
+171268.96: Load 13 (L_WT) waiting for -0.0115891 sec.
+171268.96: The clock can't run backwards, so changed to 0 sec.
+171268.96: No debugger information is available.
+171572.57: Load 9 (L_WT) waiting for -0.302798 sec.
+171572.57: The clock can't run backwards, so changed to 0 sec.
+171572.57: No debugger information is available.
+172069.57: Load 24 (L_WT) waiting for -0.189374 sec.
+172069.57: The clock can't run backwards, so changed to 0 sec.
+172069.57: No debugger information is available.
+172422.05: Load 32 (L_WT) waiting for -0.0170019 sec.
+172422.05: The clock can't run backwards, so changed to 0 sec.
+172422.05: No debugger information is available.
+172537.00: Load 22 (L_WT) waiting for -0.0790514 sec.
+172537.00: The clock can't run backwards, so changed to 0 sec.
+172537.00: No debugger information is available.
+172672.52: Load 23 (L_WT) waiting for -0.397267 sec.
+172672.52: The clock can't run backwards, so changed to 0 sec.
+172672.52: No debugger information is available.
+173052.18: Load 3 (L_WT) waiting for -0.0693672 sec.
+173052.18: The clock can't run backwards, so changed to 0 sec.
+173052.18: No debugger information is available.
+173409.51: Load 3 (L_WT) waiting for -0.202081 sec.
+173409.51: The clock can't run backwards, so changed to 0 sec.
+173409.51: No debugger information is available.
+173521.75: Load 32 (L_WT) waiting for -0.403046 sec.
+173521.75: The clock can't run backwards, so changed to 0 sec.
+173521.75: No debugger information is available.
+174027.87: Load 17 (L_WT) waiting for -0.252452 sec.
+174027.87: The clock can't run backwards, so changed to 0 sec.
+174027.87: No debugger information is available.
+174054.11: Load 27 (L_WT) waiting for -0.450981 sec.
+174054.11: The clock can't run backwards, so changed to 0 sec.
+174054.11: No debugger information is available.
+174080.77: Load 39 (L_WT) waiting for -0.895515 sec.
+174080.77: The clock can't run backwards, so changed to 0 sec.
+174080.77: No debugger information is available.
+174190.16: Load 18 (L_WT) waiting for -0.0290257 sec.
+174190.16: The clock can't run backwards, so changed to 0 sec.
+174190.16: No debugger information is available.
+174300.83: Load 22 (L_WT) waiting for -0.290072 sec.
+174300.83: The clock can't run backwards, so changed to 0 sec.
+174300.83: No debugger information is available.
+174391.94: Load 18 (L_WT) waiting for -0.343164 sec.
+174391.94: The clock can't run backwards, so changed to 0 sec.
+174391.94: No debugger information is available.
+174417.51: Load 14 (L_WT) waiting for -0.761079 sec.
+174417.51: The clock can't run backwards, so changed to 0 sec.
+174417.51: No debugger information is available.
+174677.01: Load 31 (L_WT) waiting for -0.0599209 sec.
+174677.01: The clock can't run backwards, so changed to 0 sec.
+174677.01: No debugger information is available.
+174785.41: Load 38 (L_WT) waiting for -0.321598 sec.
+174785.41: The clock can't run backwards, so changed to 0 sec.
+174785.41: No debugger information is available.
+175049.73: Load 32 (L_WT) waiting for -0.593324 sec.
+175049.73: The clock can't run backwards, so changed to 0 sec.
+175049.73: No debugger information is available.
+175209.83: Load 12 (L_WT) waiting for -0.0558222 sec.
+175209.83: The clock can't run backwards, so changed to 0 sec.
+175209.83: No debugger information is available.
+175483.41: Load 15 (L_WT) waiting for -0.140709 sec.
+175483.41: The clock can't run backwards, so changed to 0 sec.
+175483.41: No debugger information is available.
+175577.66: Load 10 (L_WT) waiting for -0.545601 sec.
+175577.66: The clock can't run backwards, so changed to 0 sec.
+175577.66: No debugger information is available.
+175784.01: Load 14 (L_WT) waiting for -0.029376 sec.
+175784.01: The clock can't run backwards, so changed to 0 sec.
+175784.01: No debugger information is available.
+175869.55: Load 33 (L_WT) waiting for -0.199092 sec.
+175869.55: The clock can't run backwards, so changed to 0 sec.
+175869.55: No debugger information is available.
+175913.54: Load 27 (L_WT) waiting for -0.0330563 sec.
+175913.54: The clock can't run backwards, so changed to 0 sec.
+175913.54: No debugger information is available.
+175986.65: Load 32 (L_WT) waiting for -0.801968 sec.
+175986.65: The clock can't run backwards, so changed to 0 sec.
+175986.65: No debugger information is available.
+176020.63: Load 21 (L_WT) waiting for -0.100998 sec.
+176020.63: The clock can't run backwards, so changed to 0 sec.
+176020.63: No debugger information is available.
+176475.17: Load 9 (L_WT) waiting for -0.266612 sec.
+176475.17: The clock can't run backwards, so changed to 0 sec.
+176475.17: No debugger information is available.
+176606.05: Load 15 (L_WT) waiting for -0.211645 sec.
+176606.05: The clock can't run backwards, so changed to 0 sec.
+176606.05: No debugger information is available.
+176608.16: Load 19 (L_WT) waiting for -0.381523 sec.
+176608.16: The clock can't run backwards, so changed to 0 sec.
+176608.16: No debugger information is available.
+176717.43: Load 10 (L_WT) waiting for -0.17376 sec.
+176717.43: The clock can't run backwards, so changed to 0 sec.
+176717.43: No debugger information is available.
+177029.51: Load 31 (L_WT) waiting for -0.322915 sec.
+177029.51: The clock can't run backwards, so changed to 0 sec.
+177029.51: No debugger information is available.
+177240.62: Load 13 (L_WT) waiting for -0.136919 sec.
+177240.62: The clock can't run backwards, so changed to 0 sec.
+177240.62: No debugger information is available.
+177293.57: Load 24 (L_WT) waiting for -0.19945 sec.
+177293.57: The clock can't run backwards, so changed to 0 sec.
+177293.57: No debugger information is available.
+177388.78: Load 31 (L_WT) waiting for -0.180732 sec.
+177388.78: The clock can't run backwards, so changed to 0 sec.
+177388.78: No debugger information is available.
+177569.74: Load 17 (L_WT) waiting for -0.2898 sec.
+177569.74: The clock can't run backwards, so changed to 0 sec.
+177569.74: No debugger information is available.
+177631.93: Load 36 (L_WT) waiting for -1.72788 sec.
+177631.93: The clock can't run backwards, so changed to 0 sec.
+177631.93: No debugger information is available.
+178428.37: Load 3 (L_WT) waiting for -0.296912 sec.
+178428.37: The clock can't run backwards, so changed to 0 sec.
+178428.37: No debugger information is available.
+178789.38: Load 19 (L_WT) waiting for -0.131265 sec.
+178789.38: The clock can't run backwards, so changed to 0 sec.
+178789.38: No debugger information is available.
+179235.16: Load 38 (L_WT) waiting for -0.11707 sec.
+179235.16: The clock can't run backwards, so changed to 0 sec.
+179235.16: No debugger information is available.
+179404.52: Load 32 (L_WT) waiting for -0.0208601 sec.
+179404.52: The clock can't run backwards, so changed to 0 sec.
+179404.52: No debugger information is available.
+179546.39: Load 9 (L_WT) waiting for -0.240866 sec.
+179546.39: The clock can't run backwards, so changed to 0 sec.
+179546.39: No debugger information is available.
+179763.56: Load 2 (L_WT) waiting for -0.233858 sec.
+179763.56: The clock can't run backwards, so changed to 0 sec.
+179763.56: No debugger information is available.
+180182.65: Load 25 (L_WT) waiting for -0.0553676 sec.
+180182.65: The clock can't run backwards, so changed to 0 sec.
+180182.65: No debugger information is available.
+180205.74: Load 33 (L_WT) waiting for -0.424969 sec.
+180205.74: The clock can't run backwards, so changed to 0 sec.
+180205.74: No debugger information is available.
+180308.31: Load 27 (L_WT) waiting for -0.441609 sec.
+180308.31: The clock can't run backwards, so changed to 0 sec.
+180308.31: No debugger information is available.
+180347.73: Load 9 (L_WT) waiting for -0.181078 sec.
+180347.73: The clock can't run backwards, so changed to 0 sec.
+180347.73: No debugger information is available.
+180354.59: Load 20 (L_WT) waiting for -0.238447 sec.
+180354.59: The clock can't run backwards, so changed to 0 sec.
+180354.59: No debugger information is available.
+180626.47: Load 38 (L_WT) waiting for -0.208401 sec.
+180626.47: The clock can't run backwards, so changed to 0 sec.
+180626.47: No debugger information is available.
+180627.25: Load 18 (L_WT) waiting for -0.387758 sec.
+180627.25: The clock can't run backwards, so changed to 0 sec.
+180627.25: No debugger information is available.
+180772.14: Load 8 (L_WT) waiting for -0.107188 sec.
+180772.14: The clock can't run backwards, so changed to 0 sec.
+180772.14: No debugger information is available.
+180924.78: Load 25 (L_WT) waiting for -0.224723 sec.
+180924.78: The clock can't run backwards, so changed to 0 sec.
+180924.78: No debugger information is available.
+180958.69: Load 32 (L_WT) waiting for -0.792489 sec.
+180958.69: The clock can't run backwards, so changed to 0 sec.
+180958.69: No debugger information is available.
+181465.62: Load 37 (L_WT) waiting for -0.55811 sec.
+181465.62: The clock can't run backwards, so changed to 0 sec.
+181465.62: No debugger information is available.
+181642.86: Load 30 (L_WT) waiting for -0.320003 sec.
+181642.86: The clock can't run backwards, so changed to 0 sec.
+181642.86: No debugger information is available.
+181703.48: Load 8 (L_WT) waiting for -1.34214 sec.
+181703.48: The clock can't run backwards, so changed to 0 sec.
+181703.48: No debugger information is available.
+181841.16: Load 30 (L_WT) waiting for -0.324288 sec.
+181841.16: The clock can't run backwards, so changed to 0 sec.
+181841.16: No debugger information is available.
+181934.51: Load 12 (L_WT) waiting for -0.390716 sec.
+181934.51: The clock can't run backwards, so changed to 0 sec.
+181934.51: No debugger information is available.
+182128.69: Load 12 (L_WT) waiting for -0.349588 sec.
+182128.69: The clock can't run backwards, so changed to 0 sec.
+182128.69: No debugger information is available.
+182383.71: Load 34 (L_WT) waiting for -0.358547 sec.
+182383.71: The clock can't run backwards, so changed to 0 sec.
+182383.71: No debugger information is available.
+182434.98: Load 28 (L_WT) waiting for -0.0947587 sec.
+182434.98: The clock can't run backwards, so changed to 0 sec.
+182434.98: No debugger information is available.
+182480.63: Load 25 (L_WT) waiting for -0.0785034 sec.
+182480.63: The clock can't run backwards, so changed to 0 sec.
+182480.63: No debugger information is available.
+182582.89: Load 34 (L_WT) waiting for -0.160088 sec.
+182582.89: The clock can't run backwards, so changed to 0 sec.
+182582.89: No debugger information is available.
+182871.83: Load 20 (L_WT) waiting for -0.0732181 sec.
+182871.83: The clock can't run backwards, so changed to 0 sec.
+182871.83: No debugger information is available.
+182971.31: Load 40 (L_WT) waiting for -0.108361 sec.
+182971.31: The clock can't run backwards, so changed to 0 sec.
+182971.31: No debugger information is available.
+183139.54: Load 17 (L_WT) waiting for -0.716443 sec.
+183139.54: The clock can't run backwards, so changed to 0 sec.
+183139.54: No debugger information is available.
+183377.77: Load 30 (L_WT) waiting for -0.866274 sec.
+183377.77: The clock can't run backwards, so changed to 0 sec.
+183377.77: No debugger information is available.
+183446.72: Load 2 (L_WT) waiting for -0.732319 sec.
+183446.72: The clock can't run backwards, so changed to 0 sec.
+183446.72: No debugger information is available.
+183503.73: Load 17 (L_WT) waiting for -0.0793475 sec.
+183503.73: The clock can't run backwards, so changed to 0 sec.
+183503.73: No debugger information is available.
+183553.20: Load 14 (L_WT) waiting for -0.793655 sec.
+183553.20: The clock can't run backwards, so changed to 0 sec.
+183553.20: No debugger information is available.
+183561.17: Load 39 (L_WT) waiting for -0.779148 sec.
+183561.17: The clock can't run backwards, so changed to 0 sec.
+183561.17: No debugger information is available.
+183759.08: Load 22 (L_WT) waiting for -0.103669 sec.
+183759.08: The clock can't run backwards, so changed to 0 sec.
+183759.08: No debugger information is available.
+183770.70: Load 13 (L_WT) waiting for -0.289158 sec.
+183770.70: The clock can't run backwards, so changed to 0 sec.
+183770.70: No debugger information is available.
+183856.39: Load 6 (L_WT) waiting for -0.011055 sec.
+183856.39: The clock can't run backwards, so changed to 0 sec.
+183856.39: No debugger information is available.
+183938.83: Load 28 (L_WT) waiting for -0.117637 sec.
+183938.83: The clock can't run backwards, so changed to 0 sec.
+183938.83: No debugger information is available.
+184052.72: Load 6 (L_WT) waiting for -0.0534746 sec.
+184052.72: The clock can't run backwards, so changed to 0 sec.
+184052.72: No debugger information is available.
+184209.38: Load 37 (L_WT) waiting for -0.889523 sec.
+184209.38: The clock can't run backwards, so changed to 0 sec.
+184209.38: No debugger information is available.
+184487.54: Load 41 (L_WT) waiting for -0.151304 sec.
+184487.54: The clock can't run backwards, so changed to 0 sec.
+184487.54: No debugger information is available.
+184508.96: Load 39 (L_WT) waiting for -0.0108729 sec.
+184508.96: The clock can't run backwards, so changed to 0 sec.
+184508.96: No debugger information is available.
+184703.40: Load 38 (L_WT) waiting for -0.548079 sec.
+184703.40: The clock can't run backwards, so changed to 0 sec.
+184703.40: No debugger information is available.
+184889.55: Load 41 (L_WT) waiting for -0.717431 sec.
+184889.55: The clock can't run backwards, so changed to 0 sec.
+184889.55: No debugger information is available.
+185149.27: Load 37 (L_WT) waiting for -0.240149 sec.
+185149.27: The clock can't run backwards, so changed to 0 sec.
+185149.27: No debugger information is available.
+185446.24: Load 12 (L_WT) waiting for -0.205486 sec.
+185446.24: The clock can't run backwards, so changed to 0 sec.
+185446.24: No debugger information is available.
+185512.09: Load 23 (L_WT) waiting for -0.189851 sec.
+185512.09: The clock can't run backwards, so changed to 0 sec.
+185512.09: No debugger information is available.
+186101.17: Load 27 (L_WT) waiting for -0.249763 sec.
+186101.17: The clock can't run backwards, so changed to 0 sec.
+186101.17: No debugger information is available.
+186306.73: Load 10 (L_WT) waiting for -1.54094 sec.
+186306.73: The clock can't run backwards, so changed to 0 sec.
+186306.73: No debugger information is available.
+186764.91: Load 40 (L_WT) waiting for -0.349589 sec.
+186764.91: The clock can't run backwards, so changed to 0 sec.
+186764.91: No debugger information is available.
+187200.00: End of run.
+187200.00: Simulation complete.
+187200.00: Model terminating.

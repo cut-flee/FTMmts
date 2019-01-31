@@ -1,0 +1,30 @@
+0.00: Starting.
+0.00: Datafiles have been read. Initializing model.
+0.00: Model image prepared... Ready to simulate.
+56612.47: Load 27 (L_WT) waiting for -0.146889 sec.
+56612.47: The clock can't run backwards, so changed to 0 sec.
+56612.47: No debugger information is available.
+81311.68: Load 25 (L_WT) waiting for -0.0699802 sec.
+81311.68: The clock can't run backwards, so changed to 0 sec.
+81311.68: No debugger information is available.
+128632.64: Load 23 (L_WT) waiting for -0.0482661 sec.
+128632.64: The clock can't run backwards, so changed to 0 sec.
+128632.64: No debugger information is available.
+139996.45: Load 17 (L_WT) waiting for -0.189111 sec.
+139996.45: The clock can't run backwards, so changed to 0 sec.
+139996.45: No debugger information is available.
+145193.02: Load 23 (L_WT) waiting for -0.018919 sec.
+145193.02: The clock can't run backwards, so changed to 0 sec.
+145193.02: No debugger information is available.
+145929.17: Load 17 (L_WT) waiting for -0.0607499 sec.
+145929.17: The clock can't run backwards, so changed to 0 sec.
+145929.17: No debugger information is available.
+154949.53: Load 25 (L_WT) waiting for -0.113941 sec.
+154949.53: The clock can't run backwards, so changed to 0 sec.
+154949.53: No debugger information is available.
+162441.63: Load 5 (L_WT) waiting for -0.220009 sec.
+162441.63: The clock can't run backwards, so changed to 0 sec.
+162441.63: No debugger information is available.
+187200.00: End of run.
+187200.00: Simulation complete.
+187200.00: Model terminating.

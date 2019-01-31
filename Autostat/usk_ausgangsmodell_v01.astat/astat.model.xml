@@ -1,0 +1,246 @@
+<?xml version="1.0"?>
+<AutoStatModelDefinition ASVersion="5.0.4.2" ASCultureInfo="de-DE" ASRepOpt="True">
+	<LastChanged>
+		<Entry Key="usk_ausgangsmodell_v01.exe" Value="1431535904" />
+		<Entry Key="usk_ausgangsmodell_v01.dll" Value="1548952390" />
+	</LastChanged>
+	<AutoStat.DataFileContainer />
+	<AutoStat.FactorContainer>
+		<AutoStat.AMFactor FactorName="usk_ausgangsmodell_v01:V_Balance:Initial Value" SystemName="usk_ausgangsmodell_v01" EntityType="Variable" EntityName="V_Balance" AttributeName="Initial_Value" />
+		<AutoStat.AMFactor FactorName="usk_ausgangsmodell_v01:V_NIO_Anteil:Initial Value" SystemName="usk_ausgangsmodell_v01" EntityType="Variable" EntityName="V_NIO_Anteil" AttributeName="Initial_Value" />
+		<AutoStat.AMFactor FactorName="usk_ausgangsmodell_v01:V_Prozesszeit:Initial Value" SystemName="usk_ausgangsmodell_v01" EntityType="Variable" EntityName="V_Prozesszeit" AttributeName="Initial_Value" />
+		<AutoStat.AMFactor FactorName="usk_ausgangsmodell_v01:V_Prozesszeit_S:Initial Value" SystemName="usk_ausgangsmodell_v01" EntityType="Variable" EntityName="V_Prozesszeit_S" AttributeName="Initial_Value" />
+		<AutoStat.AMFactor FactorName="usk_ausgangsmodell_v01:V_Verteilregel:Initial Value" SystemName="usk_ausgangsmodell_v01" EntityType="Variable" EntityName="V_Verteilregel" AttributeName="Initial_Value" />
+		<AutoStat.AMFactor FactorName="usk_ausgangsmodell_v01:V_WT_Anzahl:Initial Value" SystemName="usk_ausgangsmodell_v01" EntityType="Variable" EntityName="V_WT_Anzahl" AttributeName="Initial_Value" />
+	</AutoStat.FactorContainer>
+	<AutoStat.ResponseContainer>
+		<AutoStat.AMResponse ReportAs="" ReportTime="1" ReportUnits="Days" XMLSerializeKeyID="-2147483639" Name="Auslastung2_2" CacheResults="False" SystemName="usk_ausgangsmodell_v01" EntityType="Resource" EntityName="R_AP1(3)" StatisticName="Utilization" />
+		<AutoStat.AMResponse ReportAs="" ReportTime="1" ReportUnits="Days" XMLSerializeKeyID="-2147483645" Name="Auslastung1" CacheResults="False" SystemName="usk_ausgangsmodell_v01" EntityType="Resource" EntityName="R_AP1(1)" StatisticName="Utilization" />
+		<AutoStat.AMResponse ReportAs="" ReportTime="1" ReportUnits="Days" XMLSerializeKeyID="-2147483638" Name="Auslastung2_1" CacheResults="False" SystemName="usk_ausgangsmodell_v01" EntityType="Resource" EntityName="R_AP1(2)" StatisticName="Utilization" />
+		<AutoStat.AMResponse ReportAs="" ReportTime="1" ReportUnits="Days" XMLSerializeKeyID="-2147483637" Name="Auslastung2_3" CacheResults="False" SystemName="usk_ausgangsmodell_v01" EntityType="Resource" EntityName="R_AP1(4)" StatisticName="Utilization" />
+		<AutoStat.AMResponse ReportAs="" ReportTime="1" ReportUnits="Days" XMLSerializeKeyID="-2147483641" Name="Auslastung2_4" CacheResults="False" SystemName="usk_ausgangsmodell_v01" EntityType="Resource" EntityName="R_AP1(5)" StatisticName="Average Claim Count" />
+		<AutoStat.AMResponse ReportAs="" ReportTime="1" ReportUnits="Days" XMLSerializeKeyID="-2147483640" Name="Auslastung2_5" CacheResults="False" SystemName="usk_ausgangsmodell_v01" EntityType="Resource" EntityName="R_AP1(6)" StatisticName="Average Claim Count" />
+	</AutoStat.ResponseContainer>
+	<AutoStat.AuditContainer AuditResultLimit="30" ErrorKeyWords="Error Warning" />
+	<AutoStat.AnalysisContainer>
+		<AutoStat.SingleScenarioAnalysis CRN="0" IncludeInDoAll="True" Name="Verteilregel1 Standard" XMLSerialize_Replications="1" HasCustomRunControl="False" WarmupTime="1" WarmupUnits="Days" SnapLength="10" SnapUnits="Days" FirstRun="1">
+			<ConstFactorData>
+				<AutoStat.FactorEditorData FactorName="usk_ausgangsmodell_v01:V_Balance:Initial Value" Type="OneEntry">
+					<AutoStat.EditorData Value1="5" Value2="" Value3="" Value4="" Value5="" BoolValue="False" DataType="AutoStat.DoubleType" />
+				</AutoStat.FactorEditorData>
+				<AutoStat.FactorEditorData FactorName="usk_ausgangsmodell_v01:V_NIO_Anteil:Initial Value" Type="OneEntry">
+					<AutoStat.EditorData Value1="0" Value2="" Value3="" Value4="" Value5="" BoolValue="False" DataType="AutoStat.DoubleType" />
+				</AutoStat.FactorEditorData>
+				<AutoStat.FactorEditorData FactorName="usk_ausgangsmodell_v01:V_Prozesszeit:Initial Value" Type="OneEntry">
+					<AutoStat.EditorData Value1="5" Value2="" Value3="" Value4="" Value5="" BoolValue="False" DataType="AutoStat.DoubleType" />
+				</AutoStat.FactorEditorData>
+				<AutoStat.FactorEditorData FactorName="usk_ausgangsmodell_v01:V_Prozesszeit_S:Initial Value" Type="OneEntry">
+					<AutoStat.EditorData Value1="0" Value2="" Value3="" Value4="" Value5="" BoolValue="False" DataType="AutoStat.DoubleType" />
+				</AutoStat.FactorEditorData>
+				<AutoStat.FactorEditorData FactorName="usk_ausgangsmodell_v01:V_Verteilregel:Initial Value" Type="OneEntry">
+					<AutoStat.EditorData Value1="4" Value2="" Value3="" Value4="" Value5="" BoolValue="False" DataType="AutoStat.IntegerType" />
+				</AutoStat.FactorEditorData>
+				<AutoStat.FactorEditorData FactorName="usk_ausgangsmodell_v01:V_WT_Anzahl:Initial Value" Type="OneEntry">
+					<AutoStat.EditorData Value1="80" Value2="" Value3="" Value4="" Value5="" BoolValue="False" DataType="AutoStat.IntegerType" />
+				</AutoStat.FactorEditorData>
+			</ConstFactorData>
+		</AutoStat.SingleScenarioAnalysis>
+		<AutoStat.MultFactorAnalysis NumberOfSamples="1" CRN="2" IncludeInDoAll="True" Name="Optimize WT_Anzahl" XMLSerialize_Replications="1" HasCustomRunControl="True" WarmupTime="4" WarmupUnits="Hours" SnapLength="2" SnapUnits="Days" FirstRun="4">
+			<ConstFactorData>
+				<AutoStat.FactorEditorData FactorName="usk_ausgangsmodell_v01:V_Balance:Initial Value" Type="OneEntry">
+					<AutoStat.EditorData Value1="5" Value2="" Value3="" Value4="" Value5="" BoolValue="False" DataType="AutoStat.DoubleType" />
+				</AutoStat.FactorEditorData>
+				<AutoStat.FactorEditorData FactorName="usk_ausgangsmodell_v01:V_NIO_Anteil:Initial Value" Type="OneEntry">
+					<AutoStat.EditorData Value1="0" Value2="" Value3="" Value4="" Value5="" BoolValue="False" DataType="AutoStat.DoubleType" />
+				</AutoStat.FactorEditorData>
+				<AutoStat.FactorEditorData FactorName="usk_ausgangsmodell_v01:V_Prozesszeit:Initial Value" Type="OneEntry">
+					<AutoStat.EditorData Value1="2" Value2="" Value3="" Value4="" Value5="" BoolValue="False" DataType="AutoStat.DoubleType" />
+				</AutoStat.FactorEditorData>
+				<AutoStat.FactorEditorData FactorName="usk_ausgangsmodell_v01:V_Prozesszeit_S:Initial Value" Type="OneEntry">
+					<AutoStat.EditorData Value1="1" Value2="" Value3="" Value4="" Value5="" BoolValue="False" DataType="AutoStat.DoubleType" />
+				</AutoStat.FactorEditorData>
+			</ConstFactorData>
+			<VaryFactorData>
+				<AutoStat.FactorEditorData FactorName="usk_ausgangsmodell_v01:V_Verteilregel:Initial Value" Type="BeginEndIncrement">
+					<AutoStat.EditorData Value1="1" Value2="" Value3="" Value4="" Value5="" BoolValue="False" DataType="AutoStat.IntegerType" />
+					<AutoStat.EditorData Value1="4" Value2="" Value3="" Value4="" Value5="" BoolValue="False" DataType="AutoStat.IntegerType" />
+					<AutoStat.EditorData Value1="1" Value2="" Value3="" Value4="" Value5="" BoolValue="False" DataType="AutoStat.IntegerType" />
+				</AutoStat.FactorEditorData>
+				<AutoStat.FactorEditorData FactorName="usk_ausgangsmodell_v01:V_WT_Anzahl:Initial Value" Type="BeginEndIncrement">
+					<AutoStat.EditorData Value1="20" Value2="" Value3="" Value4="" Value5="" BoolValue="False" DataType="AutoStat.IntegerType" />
+					<AutoStat.EditorData Value1="80" Value2="" Value3="" Value4="" Value5="" BoolValue="False" DataType="AutoStat.IntegerType" />
+					<AutoStat.EditorData Value1="10" Value2="" Value3="" Value4="" Value5="" BoolValue="False" DataType="AutoStat.IntegerType" />
+				</AutoStat.FactorEditorData>
+			</VaryFactorData>
+		</AutoStat.MultFactorAnalysis>
+		<AutoStat.MultFactorAnalysis NumberOfSamples="1" CRN="2" IncludeInDoAll="True" Name="Prozesszeit" XMLSerialize_Replications="1" HasCustomRunControl="True" WarmupTime="4" WarmupUnits="Hours" SnapLength="2" SnapUnits="Days" FirstRun="6">
+			<ConstFactorData>
+				<AutoStat.FactorEditorData FactorName="usk_ausgangsmodell_v01:V_Balance:Initial Value" Type="OneEntry">
+					<AutoStat.EditorData Value1="5" Value2="" Value3="" Value4="" Value5="" BoolValue="False" DataType="AutoStat.DoubleType" />
+				</AutoStat.FactorEditorData>
+				<AutoStat.FactorEditorData FactorName="usk_ausgangsmodell_v01:V_NIO_Anteil:Initial Value" Type="OneEntry">
+					<AutoStat.EditorData Value1="0" Value2="" Value3="" Value4="" Value5="" BoolValue="False" DataType="AutoStat.DoubleType" />
+				</AutoStat.FactorEditorData>
+				<AutoStat.FactorEditorData FactorName="usk_ausgangsmodell_v01:V_Prozesszeit_S:Initial Value" Type="OneEntry">
+					<AutoStat.EditorData Value1="0" Value2="" Value3="" Value4="" Value5="" BoolValue="False" DataType="AutoStat.DoubleType" />
+				</AutoStat.FactorEditorData>
+				<AutoStat.FactorEditorData FactorName="usk_ausgangsmodell_v01:V_WT_Anzahl:Initial Value" Type="OneEntry">
+					<AutoStat.EditorData Value1="40" Value2="" Value3="" Value4="" Value5="" BoolValue="False" DataType="AutoStat.IntegerType" />
+				</AutoStat.FactorEditorData>
+			</ConstFactorData>
+			<VaryFactorData>
+				<AutoStat.FactorEditorData FactorName="usk_ausgangsmodell_v01:V_Prozesszeit:Initial Value" Type="BeginEndIncrement">
+					<AutoStat.EditorData Value1="2" Value2="" Value3="" Value4="" Value5="" BoolValue="False" DataType="AutoStat.DoubleType" />
+					<AutoStat.EditorData Value1="20" Value2="" Value3="" Value4="" Value5="" BoolValue="False" DataType="AutoStat.DoubleType" />
+					<AutoStat.EditorData Value1="2" Value2="" Value3="" Value4="" Value5="" BoolValue="False" DataType="AutoStat.DoubleType" />
+				</AutoStat.FactorEditorData>
+				<AutoStat.FactorEditorData FactorName="usk_ausgangsmodell_v01:V_Verteilregel:Initial Value" Type="BeginEndIncrement">
+					<AutoStat.EditorData Value1="1" Value2="" Value3="" Value4="" Value5="" BoolValue="False" DataType="AutoStat.IntegerType" />
+					<AutoStat.EditorData Value1="4" Value2="" Value3="" Value4="" Value5="" BoolValue="False" DataType="AutoStat.IntegerType" />
+					<AutoStat.EditorData Value1="1" Value2="" Value3="" Value4="" Value5="" BoolValue="False" DataType="AutoStat.IntegerType" />
+				</AutoStat.FactorEditorData>
+			</VaryFactorData>
+		</AutoStat.MultFactorAnalysis>
+		<AutoStat.MultFactorAnalysis NumberOfSamples="1" CRN="2" IncludeInDoAll="True" Name="Prozesszeit_S" XMLSerialize_Replications="1" HasCustomRunControl="True" WarmupTime="4" WarmupUnits="Hours" SnapLength="2" SnapUnits="Days" FirstRun="2">
+			<ConstFactorData>
+				<AutoStat.FactorEditorData FactorName="usk_ausgangsmodell_v01:V_Balance:Initial Value" Type="OneEntry">
+					<AutoStat.EditorData Value1="5" Value2="" Value3="" Value4="" Value5="" BoolValue="False" DataType="AutoStat.DoubleType" />
+				</AutoStat.FactorEditorData>
+				<AutoStat.FactorEditorData FactorName="usk_ausgangsmodell_v01:V_NIO_Anteil:Initial Value" Type="OneEntry">
+					<AutoStat.EditorData Value1="0" Value2="" Value3="" Value4="" Value5="" BoolValue="False" DataType="AutoStat.DoubleType" />
+				</AutoStat.FactorEditorData>
+				<AutoStat.FactorEditorData FactorName="usk_ausgangsmodell_v01:V_Prozesszeit:Initial Value" Type="OneEntry">
+					<AutoStat.EditorData Value1="10" Value2="" Value3="" Value4="" Value5="" BoolValue="False" DataType="AutoStat.DoubleType" />
+				</AutoStat.FactorEditorData>
+				<AutoStat.FactorEditorData FactorName="usk_ausgangsmodell_v01:V_WT_Anzahl:Initial Value" Type="OneEntry">
+					<AutoStat.EditorData Value1="40" Value2="" Value3="" Value4="" Value5="" BoolValue="False" DataType="AutoStat.IntegerType" />
+				</AutoStat.FactorEditorData>
+			</ConstFactorData>
+			<VaryFactorData>
+				<AutoStat.FactorEditorData FactorName="usk_ausgangsmodell_v01:V_Prozesszeit_S:Initial Value" Type="BeginEndIncrement">
+					<AutoStat.EditorData Value1="0,5" Value2="" Value3="" Value4="" Value5="" BoolValue="False" DataType="AutoStat.DoubleType" />
+					<AutoStat.EditorData Value1="5" Value2="" Value3="" Value4="" Value5="" BoolValue="False" DataType="AutoStat.DoubleType" />
+					<AutoStat.EditorData Value1="0,5" Value2="" Value3="" Value4="" Value5="" BoolValue="False" DataType="AutoStat.DoubleType" />
+				</AutoStat.FactorEditorData>
+				<AutoStat.FactorEditorData FactorName="usk_ausgangsmodell_v01:V_Verteilregel:Initial Value" Type="BeginEndIncrement">
+					<AutoStat.EditorData Value1="1" Value2="" Value3="" Value4="" Value5="" BoolValue="False" DataType="AutoStat.IntegerType" />
+					<AutoStat.EditorData Value1="4" Value2="" Value3="" Value4="" Value5="" BoolValue="False" DataType="AutoStat.IntegerType" />
+					<AutoStat.EditorData Value1="1" Value2="" Value3="" Value4="" Value5="" BoolValue="False" DataType="AutoStat.IntegerType" />
+				</AutoStat.FactorEditorData>
+			</VaryFactorData>
+		</AutoStat.MultFactorAnalysis>
+		<AutoStat.MultFactorAnalysis NumberOfSamples="1" CRN="2" IncludeInDoAll="True" Name="NIO" XMLSerialize_Replications="1" HasCustomRunControl="True" WarmupTime="4" WarmupUnits="Hours" SnapLength="2" SnapUnits="Days" FirstRun="1">
+			<ConstFactorData>
+				<AutoStat.FactorEditorData FactorName="usk_ausgangsmodell_v01:V_Balance:Initial Value" Type="OneEntry">
+					<AutoStat.EditorData Value1="5" Value2="" Value3="" Value4="" Value5="" BoolValue="False" DataType="AutoStat.DoubleType" />
+				</AutoStat.FactorEditorData>
+				<AutoStat.FactorEditorData FactorName="usk_ausgangsmodell_v01:V_Prozesszeit:Initial Value" Type="OneEntry">
+					<AutoStat.EditorData Value1="5" Value2="" Value3="" Value4="" Value5="" BoolValue="False" DataType="AutoStat.DoubleType" />
+				</AutoStat.FactorEditorData>
+				<AutoStat.FactorEditorData FactorName="usk_ausgangsmodell_v01:V_Prozesszeit_S:Initial Value" Type="OneEntry">
+					<AutoStat.EditorData Value1="0" Value2="" Value3="" Value4="" Value5="" BoolValue="False" DataType="AutoStat.DoubleType" />
+				</AutoStat.FactorEditorData>
+				<AutoStat.FactorEditorData FactorName="usk_ausgangsmodell_v01:V_WT_Anzahl:Initial Value" Type="OneEntry">
+					<AutoStat.EditorData Value1="40" Value2="" Value3="" Value4="" Value5="" BoolValue="False" DataType="AutoStat.IntegerType" />
+				</AutoStat.FactorEditorData>
+			</ConstFactorData>
+			<VaryFactorData>
+				<AutoStat.FactorEditorData FactorName="usk_ausgangsmodell_v01:V_NIO_Anteil:Initial Value" Type="BeginEndIncrement">
+					<AutoStat.EditorData Value1="0" Value2="" Value3="" Value4="" Value5="" BoolValue="False" DataType="AutoStat.DoubleType" />
+					<AutoStat.EditorData Value1="10" Value2="" Value3="" Value4="" Value5="" BoolValue="False" DataType="AutoStat.DoubleType" />
+					<AutoStat.EditorData Value1="1" Value2="" Value3="" Value4="" Value5="" BoolValue="False" DataType="AutoStat.DoubleType" />
+				</AutoStat.FactorEditorData>
+				<AutoStat.FactorEditorData FactorName="usk_ausgangsmodell_v01:V_Verteilregel:Initial Value" Type="BeginEndIncrement">
+					<AutoStat.EditorData Value1="1" Value2="" Value3="" Value4="" Value5="" BoolValue="False" DataType="AutoStat.IntegerType" />
+					<AutoStat.EditorData Value1="4" Value2="" Value3="" Value4="" Value5="" BoolValue="False" DataType="AutoStat.IntegerType" />
+					<AutoStat.EditorData Value1="1" Value2="" Value3="" Value4="" Value5="" BoolValue="False" DataType="AutoStat.IntegerType" />
+				</AutoStat.FactorEditorData>
+			</VaryFactorData>
+		</AutoStat.MultFactorAnalysis>
+		<AutoStat.SingleFactorAnalysis CRN="2" IncludeInDoAll="True" Name="Standardrun" XMLSerialize_Replications="1" HasCustomRunControl="False" WarmupTime="1" WarmupUnits="Days" SnapLength="10" SnapUnits="Days" FirstRun="2">
+			<ConstFactorData>
+				<AutoStat.FactorEditorData FactorName="usk_ausgangsmodell_v01:V_Balance:Initial Value" Type="OneEntry">
+					<AutoStat.EditorData Value1="5" Value2="" Value3="" Value4="" Value5="" BoolValue="False" DataType="AutoStat.DoubleType" />
+				</AutoStat.FactorEditorData>
+				<AutoStat.FactorEditorData FactorName="usk_ausgangsmodell_v01:V_NIO_Anteil:Initial Value" Type="OneEntry">
+					<AutoStat.EditorData Value1="0" Value2="" Value3="" Value4="" Value5="" BoolValue="False" DataType="AutoStat.DoubleType" />
+				</AutoStat.FactorEditorData>
+				<AutoStat.FactorEditorData FactorName="usk_ausgangsmodell_v01:V_Prozesszeit:Initial Value" Type="OneEntry">
+					<AutoStat.EditorData Value1="5" Value2="" Value3="" Value4="" Value5="" BoolValue="False" DataType="AutoStat.DoubleType" />
+				</AutoStat.FactorEditorData>
+				<AutoStat.FactorEditorData FactorName="usk_ausgangsmodell_v01:V_Prozesszeit_S:Initial Value" Type="OneEntry">
+					<AutoStat.EditorData Value1="0" Value2="" Value3="" Value4="" Value5="" BoolValue="False" DataType="AutoStat.DoubleType" />
+				</AutoStat.FactorEditorData>
+				<AutoStat.FactorEditorData FactorName="usk_ausgangsmodell_v01:V_WT_Anzahl:Initial Value" Type="OneEntry">
+					<AutoStat.EditorData Value1="80" Value2="" Value3="" Value4="" Value5="" BoolValue="False" DataType="AutoStat.IntegerType" />
+				</AutoStat.FactorEditorData>
+			</ConstFactorData>
+			<VaryFactorData>
+				<AutoStat.FactorEditorData FactorName="usk_ausgangsmodell_v01:V_Verteilregel:Initial Value" Type="BeginEndIncrement">
+					<AutoStat.EditorData Value1="1" Value2="" Value3="" Value4="" Value5="" BoolValue="False" DataType="AutoStat.IntegerType" />
+					<AutoStat.EditorData Value1="5" Value2="" Value3="" Value4="" Value5="" BoolValue="False" DataType="AutoStat.IntegerType" />
+					<AutoStat.EditorData Value1="1" Value2="" Value3="" Value4="" Value5="" BoolValue="False" DataType="AutoStat.IntegerType" />
+				</AutoStat.FactorEditorData>
+			</VaryFactorData>
+		</AutoStat.SingleFactorAnalysis>
+		<AutoStat.SingleFactorAnalysis CRN="2" IncludeInDoAll="True" Name="Max WT_Anzahl" XMLSerialize_Replications="1" HasCustomRunControl="True" WarmupTime="4" WarmupUnits="Hours" SnapLength="2" SnapUnits="Days" FirstRun="5">
+			<ConstFactorData>
+				<AutoStat.FactorEditorData FactorName="usk_ausgangsmodell_v01:V_Balance:Initial Value" Type="OneEntry">
+					<AutoStat.EditorData Value1="5" Value2="" Value3="" Value4="" Value5="" BoolValue="False" DataType="AutoStat.DoubleType" />
+				</AutoStat.FactorEditorData>
+				<AutoStat.FactorEditorData FactorName="usk_ausgangsmodell_v01:V_NIO_Anteil:Initial Value" Type="OneEntry">
+					<AutoStat.EditorData Value1="0" Value2="" Value3="" Value4="" Value5="" BoolValue="False" DataType="AutoStat.DoubleType" />
+				</AutoStat.FactorEditorData>
+				<AutoStat.FactorEditorData FactorName="usk_ausgangsmodell_v01:V_Prozesszeit:Initial Value" Type="OneEntry">
+					<AutoStat.EditorData Value1="2" Value2="" Value3="" Value4="" Value5="" BoolValue="False" DataType="AutoStat.DoubleType" />
+				</AutoStat.FactorEditorData>
+				<AutoStat.FactorEditorData FactorName="usk_ausgangsmodell_v01:V_Prozesszeit_S:Initial Value" Type="OneEntry">
+					<AutoStat.EditorData Value1="1" Value2="" Value3="" Value4="" Value5="" BoolValue="False" DataType="AutoStat.DoubleType" />
+				</AutoStat.FactorEditorData>
+				<AutoStat.FactorEditorData FactorName="usk_ausgangsmodell_v01:V_Verteilregel:Initial Value" Type="OneEntry">
+					<AutoStat.EditorData Value1="4" Value2="" Value3="" Value4="" Value5="" BoolValue="False" DataType="AutoStat.IntegerType" />
+				</AutoStat.FactorEditorData>
+			</ConstFactorData>
+			<VaryFactorData>
+				<AutoStat.FactorEditorData FactorName="usk_ausgangsmodell_v01:V_WT_Anzahl:Initial Value" Type="BeginEndIncrement">
+					<AutoStat.EditorData Value1="30" Value2="" Value3="" Value4="" Value5="" BoolValue="False" DataType="AutoStat.IntegerType" />
+					<AutoStat.EditorData Value1="50" Value2="" Value3="" Value4="" Value5="" BoolValue="False" DataType="AutoStat.IntegerType" />
+					<AutoStat.EditorData Value1="2" Value2="" Value3="" Value4="" Value5="" BoolValue="False" DataType="AutoStat.IntegerType" />
+				</AutoStat.FactorEditorData>
+			</VaryFactorData>
+		</AutoStat.SingleFactorAnalysis>
+		<AutoStat.MultFactorAnalysis NumberOfSamples="1" CRN="2" IncludeInDoAll="True" Name="Balance" XMLSerialize_Replications="1" HasCustomRunControl="True" WarmupTime="4" WarmupUnits="Hours" SnapLength="2" SnapUnits="Days" FirstRun="3">
+			<ConstFactorData>
+				<AutoStat.FactorEditorData FactorName="usk_ausgangsmodell_v01:V_NIO_Anteil:Initial Value" Type="OneEntry">
+					<AutoStat.EditorData Value1="0" Value2="" Value3="" Value4="" Value5="" BoolValue="False" DataType="AutoStat.DoubleType" />
+				</AutoStat.FactorEditorData>
+				<AutoStat.FactorEditorData FactorName="usk_ausgangsmodell_v01:V_Prozesszeit_S:Initial Value" Type="OneEntry">
+					<AutoStat.EditorData Value1="1" Value2="" Value3="" Value4="" Value5="" BoolValue="False" DataType="AutoStat.DoubleType" />
+				</AutoStat.FactorEditorData>
+				<AutoStat.FactorEditorData FactorName="usk_ausgangsmodell_v01:V_WT_Anzahl:Initial Value" Type="OneEntry">
+					<AutoStat.EditorData Value1="40" Value2="" Value3="" Value4="" Value5="" BoolValue="False" DataType="AutoStat.IntegerType" />
+				</AutoStat.FactorEditorData>
+			</ConstFactorData>
+			<VaryFactorData>
+				<AutoStat.FactorEditorData FactorName="usk_ausgangsmodell_v01:V_Balance:Initial Value" Type="BeginEndIncrement">
+					<AutoStat.EditorData Value1="3" Value2="" Value3="" Value4="" Value5="" BoolValue="False" DataType="AutoStat.DoubleType" />
+					<AutoStat.EditorData Value1="10" Value2="" Value3="" Value4="" Value5="" BoolValue="False" DataType="AutoStat.DoubleType" />
+					<AutoStat.EditorData Value1="1" Value2="" Value3="" Value4="" Value5="" BoolValue="False" DataType="AutoStat.DoubleType" />
+				</AutoStat.FactorEditorData>
+				<AutoStat.FactorEditorData FactorName="usk_ausgangsmodell_v01:V_Prozesszeit:Initial Value" Type="MultiEntry">
+					<AutoStat.EditorData Value1="10" Value2="" Value3="" Value4="" Value5="" BoolValue="False" DataType="AutoStat.DoubleType" />
+					<AutoStat.EditorData Value1="20" Value2="" Value3="" Value4="" Value5="" BoolValue="False" DataType="AutoStat.DoubleType" />
+				</AutoStat.FactorEditorData>
+				<AutoStat.FactorEditorData FactorName="usk_ausgangsmodell_v01:V_Verteilregel:Initial Value" Type="BeginEndIncrement">
+					<AutoStat.EditorData Value1="1" Value2="" Value3="" Value4="" Value5="" BoolValue="False" DataType="AutoStat.IntegerType" />
+					<AutoStat.EditorData Value1="4" Value2="" Value3="" Value4="" Value5="" BoolValue="False" DataType="AutoStat.IntegerType" />
+					<AutoStat.EditorData Value1="1" Value2="" Value3="" Value4="" Value5="" BoolValue="False" DataType="AutoStat.IntegerType" />
+				</AutoStat.FactorEditorData>
+			</VaryFactorData>
+		</AutoStat.MultFactorAnalysis>
+	</AutoStat.AnalysisContainer>
+	<AutoStat.ServerContainer>
+		<AutoStat.RunServer Enabled="True" Name="Local" NumRuns="4" Port="0" Version="12.6.1.12" />
+	</AutoStat.ServerContainer>
+	<AutoStat.ModelProperties AutoSave="True" AutoSaveTime="30" AutoSaveTimeUnits="Minutes" CRN="True" ErrorRunLimit="5" MaximumExecutionTime="1" MaximumExecutionTimeUnits="Days" Random="True" RepeatErrorRuns="True" MessageFileViewer="notepad.exe" SampleTime="10" SampleTimeUnits="Days" SeedIncrement="10000" StopLongRuns="False" Warmup="True" WarmupTime="1" WarmupTimeUnits="Days" />
+</AutoStatModelDefinition>

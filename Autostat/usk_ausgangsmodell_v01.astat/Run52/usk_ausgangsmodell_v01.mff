@@ -1,0 +1,10 @@
+*** Modification File
+Version 5.0
+Run control init
+Run control 4 Hours 1 17
+Run control 2 Days 1 17
+RNSet 2
+usk_ausgangsmodell_v01 V_Prozesszeit_S Initial_Value 4
+usk_ausgangsmodell_v01 V_Verteilregel Initial_Value 1
+usk_ausgangsmodell_v01 V_NIO_Anteil Initial_Value 0
+usk_ausgangsmodell_v01 V_WT_Anzahl Initial_Value 40

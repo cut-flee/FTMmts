@@ -1,0 +1,11 @@
+Name	Total_Claim_Count	Current_Claim_Count	Average_Claim_Count	Capacity	Max_Claims	Min_Claims	Utilization	Average_Time_Per_Claim	Average_Wait_Time	Total_Waiting	Current_Waiting	Max_Waiting	Min_Waiting	Average_Waiting	Average_Time_Per_Wait	
+@4:00:00.00
+C1:DefaultStation	0	0	0.000000	Infinite	0	0		0.000000		0	0	0	0	0.000000	0.000000	
+C1:Umlauf_Station	3333	10	8.996068	Infinite	40	0		38.866902		0	0	0	0	0.000000	0.000000	
+C1:NS_Station	88749	23	24.025205	Infinite	30	0		3.898218		0	0	0	0	0.000000	0.000000	
+C1:NS_Input_Station	19861	7	6.937560	Infinite	14	0		5.030002		0	0	0	0	0.000000	0.000000	
+@2:04:00:00.00
+C1:DefaultStation	0	0	0.000000	Infinite	0	0		0.000000		0	0	0	0	0.000000	0.000000	
+C1:Umlauf_Station	43117	10	9.650450	Infinite	40	0		38.676107		0	0	0	0	0.000000	0.000000	
+C1:NS_Station	1.16038e+006	25	26.192775	Infinite	31	0		3.900546		0	0	0	0	0.000000	0.000000	
+C1:NS_Input_Station	258561	5	7.486678	Infinite	14	0		5.003454		0	0	0	0	0.000000	0.000000	

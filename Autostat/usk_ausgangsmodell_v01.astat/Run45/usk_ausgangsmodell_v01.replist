@@ -1,0 +1,12 @@
+MODEL_SYSTEM_REP	usk_ausgangsmodell_v01.Model.rep
+MODEL_PROCESS_REP	usk_ausgangsmodell_v01.Process.rep
+MODEL_QUEUE_REP	usk_ausgangsmodell_v01.Queue.rep
+MODEL_COUNTER_REP	usk_ausgangsmodell_v01.Counter.rep
+MODEL_RESOURCE_REP	usk_ausgangsmodell_v01.Resource.rep
+MODEL_STREAM_REP	usk_ausgangsmodell_v01.Stream.rep
+CONVEYOR_SECTIONTYPE_REP	usk_ausgangsmodell_v01.C1.SectionType.rep
+CONVEYOR_SECTION_REP	usk_ausgangsmodell_v01.C1.Section.rep
+CONVEYOR_STATIONTYPE_REP	usk_ausgangsmodell_v01.C1.StationType.rep
+CONVEYOR_STATION_REP	usk_ausgangsmodell_v01.C1.Station.rep
+CONVEYOR_MOTORTYPE_REP	usk_ausgangsmodell_v01.C1.MotorType.rep
+CONVEYOR_MOTOR_REP	usk_ausgangsmodell_v01.C1.Motor.rep

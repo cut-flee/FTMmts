@@ -1,0 +1,8 @@
+VERSION 12.6.1.12
+UNITS Millimeters Seconds
+RNSET 1
+DRAWPOS minx -80 maxx 9086.633 miny -400.589 maxy 1380 minz 0 maxz 55 trx 0 try 0
+MOVESYS name C1
+	SYSPOS endx 1
+PROCSYS name usk_ausgangsmodell_v01~
+	SYSPOS endx 1

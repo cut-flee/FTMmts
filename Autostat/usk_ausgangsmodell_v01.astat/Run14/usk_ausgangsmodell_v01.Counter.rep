@@ -1,0 +1,5 @@
+Name	Total_Claim_Count	Current_Claim_Count	Average_Claim_Count	Capacity	Max_Claims	Min_Claims	Utilization	Average_Time_Per_Claim	Average_Wait_Time	Total_Waiting	Current_Waiting	Max_Waiting	Min_Waiting	Average_Waiting	Average_Time_Per_Wait	
+@4:00:00.00
+C_Fertig	3660	3660	1810.724390	Infinite	3660	0		7124.161533		0	0	0	0	0.000000	0.000000	
+@2:04:00:00.00
+C_Fertig	48075	48075	25868.506493	Infinite	48075	3660		92981.340030		0	0	0	0	0.000000	0.000000	

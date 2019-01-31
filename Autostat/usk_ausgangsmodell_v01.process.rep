@@ -1,0 +1,15 @@
+Name	Total_Claim_Count	Current_Claim_Count	Average_Claim_Count	Capacity	Max_Claims	Min_Claims	Utilization	Average_Time_Per_Claim	Average_Wait_Time	Total_Traffic_Count	Current_Traffic_Count	Average_Traffic_Count	Traffic_Limit	Max_Traffic	Min_Traffic	Traffic_Utilization	Traffic_Ave_Time_Per_Claim	Traffic_Ave_Wait_Time	Total_Waiting	Current_Waiting	Max_Waiting	Min_Waiting	Average_Waiting	Average_Time_Per_Wait	
+@1:00:00:00.00
+P_Init	1	0	0.000000	Infinite	1	0		0.000000		1	0	0.000000	Infinite	1	0		0.000000		0	0	0	0	0.000000	0.000000	
+P_Anlauf	34	0	0.005194	Infinite	33	0		13.200000		34	0	0.005194	Infinite	33	0		13.200000		0	0	0	0	0.000000	0.000000	
+P_Umlauf	44160	0	0.000000	Infinite	1	0		0.000000		44160	0	0.000000	Infinite	1	0		0.000000		0	0	0	0	0.000000	0.000000	
+P_NS(1)	22100	23	22.214272	Infinite	34	0		86.846747		22100	23	22.214272	Infinite	34	0		86.846747		0	0	0	0	0.000000	0.000000	
+P_NS(2)	4412	1	1.477846	Infinite	3	0		28.940584		4412	1	1.477846	Infinite	3	0		28.940584		0	0	0	0	0.000000	0.000000	
+P_NS(3)	4412	1	1.880519	Infinite	3	0		36.826122		4412	1	1.880519	Infinite	3	0		36.826122		0	0	0	0	0.000000	0.000000	
+P_NS(4)	4412	2	2.323178	Infinite	3	0		45.494701		4412	2	2.323178	Infinite	3	0		45.494701		0	0	0	0	0.000000	0.000000	
+P_NS(5)	4412	3	2.745749	Infinite	4	0		53.769881		4412	3	2.745749	Infinite	4	0		53.769881		0	0	0	0	0.000000	0.000000	
+P_NS(6)	4412	4	3.353241	Infinite	5	0		65.666374		4412	4	3.353241	Infinite	5	0		65.666374		0	0	0	0	0.000000	0.000000	
+P_Strat1	0	0	0.000000	Infinite	0	0		0.000000		0	0	0.000000	Infinite	0	0		0.000000		0	0	0	0	0.000000	0.000000	
+P_Strat2	0	0	0.000000	Infinite	0	0		0.000000		0	0	0.000000	Infinite	0	0		0.000000		0	0	0	0	0.000000	0.000000	
+P_Strat3	0	0	0.000000	Infinite	0	0		0.000000		0	0	0.000000	Infinite	0	0		0.000000		0	0	0	0	0.000000	0.000000	
+P_Strat4	44160	0	0.000000	Infinite	1	0		0.000000		44160	0	0.000000	Infinite	1	0		0.000000		0	0	0	0	0.000000	0.000000	

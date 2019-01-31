@@ -1,0 +1,15 @@
+0.00: Starting.
+0.00: Datafiles have been read. Initializing model.
+0.00: Model image prepared... Ready to simulate.
+163857.60: Load 8 (L_WT) waiting for -0.142448 sec.
+163857.60: The clock can't run backwards, so changed to 0 sec.
+163857.60: No debugger information is available.
+178171.54: Load 39 (L_WT) waiting for -0.0369809 sec.
+178171.54: The clock can't run backwards, so changed to 0 sec.
+178171.54: No debugger information is available.
+178431.22: Load 39 (L_WT) waiting for -0.502512 sec.
+178431.22: The clock can't run backwards, so changed to 0 sec.
+178431.22: No debugger information is available.
+187200.00: End of run.
+187200.00: Simulation complete.
+187200.00: Model terminating.

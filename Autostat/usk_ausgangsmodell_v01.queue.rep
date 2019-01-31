@@ -1,0 +1,3 @@
+Name	Total_Claim_Count	Current_Claim_Count	Average_Claim_Count	Capacity	Max_Claims	Min_Claims	Utilization	Average_Time_Per_Claim	Average_Wait_Time	Queue_Color	Total_Waiting	Current_Waiting	Max_Waiting	Min_Waiting	Average_Waiting	Average_Time_Per_Wait	
+@1:00:00:00.00
+Space	35	0	0.005194	Infinite	33	0		12.822857		Black	0	0	0	0	0.000000	0.000000	

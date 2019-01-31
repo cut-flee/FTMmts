@@ -1,0 +1,9 @@
+Processing build commands for the model usk_ausgangsmodell_v01...
+usk_ausgangsmodell_v01~model.c
+usk_ausgangsmodell_v01~init1.c
+logic.c
+Linking usk_ausgangsmodell_v01.dll...
+   Creating library usk_ausgangsmodell_v01.lib and object usk_ausgangsmodell_v01.exp
+Generating usk_ausgangsmodell_v01.exe...
+        1 Datei(en) kopiert.
+
